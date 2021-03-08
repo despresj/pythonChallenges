@@ -1,5 +1,6 @@
 import numpy as np
 from numpy.core.defchararray import array
+from numpy.core.fromnumeric import shape
 from numpy.lib.shape_base import array_split
 
 a = np.array([1,2,3,4,5])
@@ -80,8 +81,51 @@ block2 = np.ones((3,2))
 
 # use array slicing
 
+
+
+
 A = np.zeros((N,M)) 
 B = np.identity(N)
 A;B
-
 print(A[0:N, 0:M] + B[0:N, 0:M])
+
+
+import numpy as np
+
+stdin)
+
+Download
+2 4
+1 2 3 4
+1 2 3 4
+5 6 7 7
+5 6 7 7
+
+N, M = map(int, input().split())
+
+A, B = input(), input()
+
+
+A = np.array(A.split(), dtype='int' )
+B = np.array(B.split(), dtype='int')
+
+A.shape = dims 
+B.shape = dims 
+
+
+print(np.add(A, B))
+print(np.subtract(A, B))
+print(np.multiply(A, B))
+print(np.floor_divide(A, B))
+print(np.mod(A, B))
+print(np.power(A, B))
+
+
+a, b = (np.array([input().split() for _ in range(N)], dtype=int) for _ in range(2))
+
+import numpy as np
+n, m = map(int, input().split())
+
+a, b = (np.array([input().split() for _ in range(n)], dtype=int) for _ in range(2))
+
+print(a+b, a-b, a*b, a//b, a%b, a**b, sep='\n')
