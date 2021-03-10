@@ -41,7 +41,6 @@ my_gm.groupby(['continent']).agg(['mean', 'std'])
 my_gm.groupby(['continent']).size()
 # my_gm %>% count(continent)
 
-  
 my_gmsum = my_gm[my_gm['year'].isin([1952, 2007])].groupby(['continent', 'year'])
 my_gmsum['lifeExp', 'gdpPercap'].agg(['mean', 'median'])
 my_gmsum['lifeExp', 'gdpPercap'].agg(['mean', 'median']).T
@@ -50,7 +49,8 @@ my_gmsum['lifeExp', 'gdpPercap'].agg(['mean', 'median']).T
 my_gm['pct_pop_change'] = my_gm.groupby('country', sort=False)['pop'].apply(
     lambda x: x.pct_change()).to_numpy()
 
-my_gm['pop_gain'] = my_gm['pct_pop_change'] * my_gm['pop']
+my_gm['pop_gain'] = my_gm.groupby('country', sort=False)['pop'].apply(
+    lambda x: x.diff()).to_numpy()
 
 my_gm.sort_values(by='pop_gain', ascending=True)
 asia = my_gm[my_gm['continent'] == "Asia"]
