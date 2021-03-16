@@ -40,6 +40,5 @@ bypop07 = pd.Series(bypop07)
 continents07 = pd.CategoricalDtype(bypop07, ordered=True)
 
 year07['continent'] = year07['continent'].astype(continents07)
-year07['continent'].cat.categories
-
-
+cats = year07['continent'].cat.categories
+cats
