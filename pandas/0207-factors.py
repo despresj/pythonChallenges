@@ -42,3 +42,5 @@ continents07 = pd.CategoricalDtype(bypop07, ordered=True)
 year07['continent'] = year07['continent'].astype(continents07)
 cats = year07['continent'].cat.categories
 cats
+
+gm.groupby("country").max().sort_values("gdpPercap", ascending=True)
