@@ -21,10 +21,25 @@ small_pop['country'] = small_pop['country'].cat.remove_unused_categories()
 gm.groupby('continent').count()['country']
 gm['continent'] = gm['continent'].astype('category')
 
-#reverse factor orderes
-gm['continent'].cat.categories = gm['continent'].cat.categories[::-1]
-gm['continent'].cat.categories
 
-#TODO: Exercize 4 and on
+# reverse factor orderes
+cats=gm['continent'].cat.categories[::-1]
+gm['continent'] = gm['continent'].astype(pd.CategoricalDtype(categories= cats, ordered = True))
+gm.head(50)
+
+# manually reset order
+cat_type = pd.CategoricalDtype(categories=['Europe', 'Africa', 'Americas', 'Asia', 'Oceania'], ordered = True)
+gm['continent'] = gm['continent'].astype(cat_type)
+gm.head(50)
+
+# reorder by population order in 2009
+year07 = gm[gm['year'] == 2007]
+bypop07 = year07.groupby('continent').sum().sort_values('pop', ascending=False).index.values.tolist()
+bypop07 = pd.Series(bypop07)
+
+continents07 = pd.CategoricalDtype(bypop07, ordered=True)
+
+year07['continent'] = year07['continent'].astype(continents07)
+year07['continent'].cat.categories
 
 
