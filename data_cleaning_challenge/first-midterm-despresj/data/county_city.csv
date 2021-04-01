@@ -129,7 +129,7 @@ latitude,longitude,city,state,county
 18.410462,-66.060533,San Juan,PR,San Juan
 18.451647,-66.077003,San Juan,PR,San Juan
 18.410462,-66.060533,San Juan,PR,San Juan
-18.443384,-66.068133,San Juan,PR,San Juan
+18.443384000000002,-66.068133,San Juan,PR,San Juan
 18.410462,-66.060533,San Juan,PR,San Juan
 18.450828,-66.057859,San Juan,PR,San Juan
 18.444187,-66.059859,San Juan,PR,San Juan
@@ -165,7 +165,7 @@ latitude,longitude,city,state,county
 18.457761,-66.196503,Toa Baja,PR,Toa Baja
 18.457761,-66.196503,Sabana Seca,PR,Toa Baja
 18.356795,-66.25701,Toa Alta,PR,Toa Alta
-18.358939,-66.258108,Toa Alta,PR,Toa Alta
+18.358939,-66.258107999999993,Toa Alta,PR,Toa Alta
 18.410462,-66.060533,San Juan,PR,San Juan
 18.326702,-66.174176,Bayamon,PR,Bayamon
 18.366645,-66.183907,Bayamon,PR,Bayamon
@@ -419,7 +419,7 @@ latitude,longitude,city,state,county
 42.383516,-71.95463,Rutland,MA,Worcester
 42.286992,-71.715313,Shrewsbury,MA,Worcester
 42.364807,-71.896868,Shrewsbury,MA,Worcester
-42.129251,-72.031155,Southbridge,MA,Worcester
+42.129250999999996,-72.031155,Southbridge,MA,Worcester
 42.176544,-71.681912,South Grafton,MA,Worcester
 42.443539,-71.686137,South Lancaster,MA,Worcester
 42.254837,-72.065612,Spencer,MA,Worcester
@@ -698,7 +698,7 @@ latitude,longitude,city,state,county
 42.338947,-70.919635,Boston,MA,Suffolk
 42.338947,-70.919635,Boston,MA,Suffolk
 42.364381,-71.063314,Boston,MA,Suffolk
-,,East Boston,MA,Suffolk
+NA,NA,East Boston,MA,Suffolk
 42.446396,-71.459405,Cambridge,MA,Middlesex
 42.446396,-71.459405,Cambridge,MA,Middlesex
 42.338947,-70.919635,Boston,MA,Suffolk
@@ -763,7 +763,7 @@ latitude,longitude,city,state,county
 42.394319,-71.218049,Waltham,MA,Middlesex
 42.365396,-71.23165,Waltham,MA,Middlesex
 42.356719,-71.250479,Waltham,MA,Middlesex
-,,North Waltham,MA,Middlesex
+NA,NA,North Waltham,MA,Middlesex
 42.446396,-71.459405,New Town,MA,Middlesex
 42.180048,-71.08923,Babson Park,MA,Norfolk
 42.385096,-71.208399,Newton,MA,Middlesex
@@ -774,7 +774,7 @@ latitude,longitude,city,state,county
 42.36599,-71.221849,Newton Upper Falls,MA,Middlesex
 42.378145,-71.213199,West Newton,MA,Middlesex
 42.346696,-71.224957,Auburndale,MA,Middlesex
-42.357564,-71.211649,Chestnut Hill,MA,Middlesex
+42.357564000000004,-71.211649,Chestnut Hill,MA,Middlesex
 42.327146,-71.231534,Waban,MA,Middlesex
 42.446396,-71.459405,Watertown,MA,Middlesex
 42.363096,-71.201398,Watertown,MA,Middlesex
@@ -937,7 +937,7 @@ latitude,longitude,city,state,county
 41.967848,-71.475604,Manville,RI,Providence
 41.941715,-71.637581,Mapleville,RI,Providence
 41.487552,-71.327084,Newport,RI,Newport
-41.498977,-71.299004,Newport,RI,Newport
+41.498976999999996,-71.299004,Newport,RI,Newport
 41.519757,-71.273101,Middletown,RI,Newport
 41.586851,-71.464801,North Kingstown,RI,Washington
 41.375317,-71.64393,North Kingstown,RI,Washington
@@ -989,7 +989,7 @@ latitude,longitude,city,state,county
 41.826737,-71.397699,Providence,RI,Providence
 41.813429,-71.363348,East Providence,RI,Providence
 41.7743,-71.349697,Riverside,RI,Providence
-41.842727,-71.355798,Rumford,RI,Providence
+41.842726999999996,-71.355798,Rumford,RI,Providence
 41.853899,-71.497804,Smithfield,RI,Providence
 41.841499,-71.440352,Providence,RI,Providence
 41.870932,-71.497604,Johnston,RI,Providence
@@ -1009,7 +1009,7 @@ latitude,longitude,city,state,county
 42.916233,-71.816505,Francestown,NH,Hillsborough
 42.992203,-71.127041,Fremont,NH,Rockingham
 42.94671,-71.687633,Goffstown,NH,Hillsborough
-,,Dunbarton,NH,Merrimack
+NA,NA,Dunbarton,NH,Merrimack
 42.929346,-71.859087,Greenfield,NH,Hillsborough
 42.875116,-71.717548,Greenville,NH,Hillsborough
 42.859545,-71.581313,Hollis,NH,Hillsborough
@@ -1074,15 +1074,15 @@ latitude,longitude,city,state,county
 43.737831,-71.604406,Holderness,NH,Grafton
 43.535461,-71.426997,Laconia,NH,Belknap
 43.588972,-71.445452,Laconia,NH,Belknap
-,,Gilford,NH,Belknap
+NA,NA,Gilford,NH,Belknap
 44.049183,-71.653505,Lincoln,NH,Grafton
 43.468562,-71.537145,Lochmere,NH,Belknap
 43.592239,-71.517479,Meredith,NH,Belknap
-43.728235,-71.335248,Moultonborough,NH,Carroll
+43.728235,-71.335248000000007,Moultonborough,NH,Carroll
 43.321723,-72.01184,Newbury,NH,Merrimack
 43.603288,-71.634674,New Hampton,NH,Belknap
 43.301663,-71.733643,New London,NH,Merrimack
-,,Chichester,NH,Merrimack
+NA,NA,Chichester,NH,Merrimack
 43.85971,-71.37719,North Sandwich,NH,Carroll
 43.365345,-71.934059,North Sutton,NH,Merrimack
 43.208676,-71.202568,Northwood,NH,Rockingham
@@ -1280,7 +1280,7 @@ latitude,longitude,city,state,county
 43.279539,-70.740013,Berwick,ME,York
 43.245785,-70.664719,Cape Neddick,ME,York
 43.182729,-70.745759,Eliot,ME,York
-43.191554,-70.684607,Kittery,ME,York
+43.191553999999996,-70.684607,Kittery,ME,York
 43.094746,-70.68928,Kittery Point,ME,York
 43.340626,-70.753996,North Berwick,ME,York
 43.350806,-70.731498,Ogunquit,ME,York
@@ -1653,7 +1653,7 @@ latitude,longitude,city,state,county
 46.516166,-68.886826,Eagle Lake,ME,Aroostook
 46.611101,-67.85582,Easton,ME,Aroostook
 46.516166,-68.886826,Estcourt Station,ME,Aroostook
-46.746453,-67.841507,Fort Fairfield,ME,Aroostook
+46.746453,-67.841506999999993,Fort Fairfield,ME,Aroostook
 47.056484,-68.255868,Fort Kent,ME,Aroostook
 46.516166,-68.886826,Fort Kent Mills,ME,Aroostook
 47.295289,-68.39192,Frenchville,ME,Aroostook
@@ -2425,7 +2425,7 @@ latitude,longitude,city,state,county
 41.581797,-73.034451,Waterbury,CT,New Haven
 41.552893,-72.992749,Waterbury,CT,New Haven
 41.535346,-73.026951,Waterbury,CT,New Haven
-41.551496,-73.064152,Waterbury,CT,New Haven
+41.551496,-73.064152000000007,Waterbury,CT,New Haven
 41.571496,-73.044035,Waterbury,CT,New Haven
 41.499097,-72.975694,Prospect,CT,New Haven
 41.598347,-72.980578,Wolcott,CT,New Haven
@@ -2590,7 +2590,7 @@ latitude,longitude,city,state,county
 40.622502,-74.311092,Clark,NJ,Union
 40.590853,-74.314688,Colonia,NJ,Middlesex
 40.820499,-74.306093,Roseland,NJ,Essex
-,,Watchung,NJ,Somerset
+NA,NA,Watchung,NJ,Somerset
 40.827449,-74.109786,Rutherford,NJ,Bergen
 40.799549,-74.116517,Lyndhurst,NJ,Bergen
 40.828399,-74.076055,Carlstadt,NJ,Bergen
@@ -2605,7 +2605,7 @@ latitude,longitude,city,state,county
 40.701101,-74.316301,Springfield,NJ,Union
 40.92769,-74.347695,Towaco,NJ,Morris
 40.692651,-74.269841,Union,NJ,Union
-,,Weehawken,NJ,Hudson
+NA,NA,Weehawken,NJ,Hudson
 40.758951,-74.056335,Union City,NJ,Hudson
 40.71789,-74.284341,Vauxhall,NJ,Union
 40.652851,-74.346764,Westfield,NJ,Union
@@ -2764,8 +2764,8 @@ latitude,longitude,city,state,county
 40.914616,-73.986334,Teaneck,NJ,Bergen
 40.919298,-73.960481,Tenafly,NJ,Bergen
 41.011453,-74.021278,Westwood,NJ,Bergen
-,,Township Of Washington,NJ,Bergen
-,,Woodcliff Lake,NJ,Bergen
+NA,NA,Township Of Washington,NJ,Bergen
+NA,NA,Woodcliff Lake,NJ,Bergen
 40.358409,-74.068143,Red Bank,NJ,Monmouth
 40.325361,-74.107943,Shrewsbury,NJ,Monmouth
 40.314531,-74.041654,Fort Monmouth,NJ,Monmouth
@@ -2947,7 +2947,7 @@ latitude,longitude,city,state,county
 40.044129,-74.679579,Jobstown,NJ,Burlington
 40.012273,-74.66464,Juliustown,NJ,Burlington
 39.839156,-74.965057,Voorhees,NJ,Camden
-39.868113,-75.032114,Lawnside,NJ,Camden
+39.868113,-75.032114000000007,Lawnside,NJ,Camden
 40.013737,-74.805773,Willingboro,NJ,Burlington
 39.962299,-74.80007,Lumberton,NJ,Burlington
 39.854363,-75.036214,Magnolia,NJ,Camden
@@ -2961,7 +2961,7 @@ latitude,longitude,city,state,county
 40.054255,-74.840115,Moorestown,NJ,Burlington
 39.886463,-75.094068,Mount Ephraim,NJ,Camden
 40.044956,-74.801869,Mount Holly,NJ,Burlington
-39.808643,-75.212943,Mount Royal,NJ,Gloucester
+39.808643000000004,-75.212943,Mount Royal,NJ,Gloucester
 39.715857,-75.235017,Mullica Hill,NJ,Gloucester
 39.779654,-75.218413,National Park,NJ,Gloucester
 39.862433,-74.725079,New Lisbon,NJ,Burlington
@@ -3013,7 +3013,7 @@ latitude,longitude,city,state,county
 39.112027,-74.731427,Avalon,NJ,Cape May
 39.370172,-74.49401,Brigantine,NJ,Atlantic
 39.110337,-74.767939,Cape May,NJ,Cape May
-,,Absecon,NJ,Atlantic
+NA,NA,Absecon,NJ,Atlantic
 39.137841,-74.78056,Cape May Court House,NJ,Cape May
 38.937168,-74.965385,Cape May Point,NJ,Cape May
 39.509208,-74.608557,Cologne,NJ,Atlantic
@@ -3218,7 +3218,7 @@ latitude,longitude,city,state,county
 40.604352,-74.5538,Martinsville,NJ,Somerset
 40.527054,-74.350393,Edison,NJ,Middlesex
 40.472224,-74.45194,Metuchen,NJ,Middlesex
-,,Hillsborough,NJ,Somerset
+NA,NA,Hillsborough,NJ,Somerset
 40.575202,-74.499398,Middlesex,NJ,Middlesex
 40.664749,-74.970542,Milford,NJ,Hunterdon
 40.448255,-74.444395,Milltown,NJ,Middlesex
@@ -3250,7 +3250,7 @@ latitude,longitude,city,state,county
 40.385707,-74.393249,Spotswood,NJ,Middlesex
 40.576372,-74.831105,Stanton,NJ,Hunterdon
 40.717349,-75.072957,Stewartsville,NJ,Warren
-40.52057,-74.794632,Three Bridges,NJ,Hunterdon
+40.52057,-74.794631999999993,Three Bridges,NJ,Hunterdon
 40.619412,-74.740597,Whitehouse,NJ,Hunterdon
 40.615577,-74.772376,Whitehouse Station,NJ,Hunterdon
 40.536069,-74.578872,Zarephath,NJ,Somerset
@@ -3266,323 +3266,323 @@ latitude,longitude,city,state,county
 40.430006,-74.417344,New Brunswick,NJ,Middlesex
 40.430006,-74.417344,New Brunswick,NJ,Middlesex
 40.430006,-74.417344,New Brunswick,NJ,Middlesex
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Fpo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
-,,Apo,AE,
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Fpo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
+NA,NA,Apo,AE,NA
 40.750422,-73.996328,New York,NY,New York
 40.718758,-73.986427,New York,NY,New York
 40.730223,-73.988564,New York,NY,New York
@@ -3664,7 +3664,7 @@ latitude,longitude,city,state,county
 40.780751,-73.977182,New York,NY,New York
 40.748998,-73.986467,New York,NY,New York
 40.780751,-73.977182,New York,NY,New York
-40.750629,-73.989426,New York,NY,New York
+40.750629000000004,-73.989426,New York,NY,New York
 40.74964,-73.991889,New York,NY,New York
 40.751757,-73.992171,New York,NY,New York
 40.751489,-73.990537,New York,NY,New York
@@ -3807,7 +3807,7 @@ latitude,longitude,city,state,county
 41.058732,-73.836784,Elmsford,NY,Westchester
 41.375016,-73.931844,Garrison,NY,Putnam
 41.300361,-73.647891,Goldens Bridge,NY,Westchester
-41.323246,-73.757911,Granite Springs,NY,Westchester
+41.323246,-73.757911000000007,Granite Springs,NY,Westchester
 40.979118,-73.723036,Harrison,NY,Westchester
 41.019105,-73.812077,Hartsdale,NY,Westchester
 41.013742,-73.835421,Hawthorne,NY,Westchester
@@ -4093,7 +4093,7 @@ latitude,longitude,city,state,county
 40.710076,-73.740151,Queens Village,NY,Queens
 40.655246,-73.797769,Jamaica,NY,Queens
 40.686903,-73.850143,Jamaica,NY,Queens
-40.714531,-73.794435,Jamaica,NY,Queens
+40.714531,-73.794434999999993,Jamaica,NY,Queens
 40.696533,-73.786776,Jamaica,NY,Queens
 40.674583,-73.78156,Jamaica,NY,Queens
 40.700229,-73.797278,Jamaica,NY,Queens
@@ -4222,7 +4222,7 @@ latitude,longitude,city,state,county
 40.922326,-72.637078,Miller Place,NY,Suffolk
 40.754757,-73.601772,Mill Neck,NY,Nassau
 40.922326,-72.637078,Mount Sinai,NY,Suffolk
-40.846678,-73.146763,Nesconset,NY,Suffolk
+40.846678,-73.146763000000007,Nesconset,NY,Suffolk
 40.914289,-73.33268,Northport,NY,Suffolk
 40.738322,-73.131797,Oakdale,NY,Suffolk
 40.644344,-73.161286,Ocean Beach,NY,Suffolk
@@ -4410,7 +4410,7 @@ latitude,longitude,city,state,county
 42.500258,-74.160591,Rensselaerville,NY,Albany
 42.841619,-73.847016,Rexford,NY,Saratoga
 42.609418,-74.594655,Richmondville,NY,Schoharie
-42.869961,-74.050083,Rotterdam Junction,NY,Schenectady
+42.869961000000004,-74.050083,Rotterdam Junction,NY,Schenectady
 42.924726,-73.785914,Round Lake,NY,Saratoga
 42.635503,-73.479705,Sand Lake,NY,Rensselaer
 42.904445,-73.615618,Schaghticoke,NY,Rensselaer
@@ -4737,7 +4737,7 @@ latitude,longitude,city,state,county
 41.810974,-74.729403,Woodbourne,NY,Sullivan
 41.797345,-74.671013,Woodridge,NY,Sullivan
 41.592331,-74.552644,Wurtsboro,NY,Sullivan
-41.695449,-74.746874,Youngsville,NY,Sullivan
+41.695449000000004,-74.746874,Youngsville,NY,Sullivan
 41.591075,-74.749722,Yulan,NY,Sullivan
 43.31888,-73.669061,Glens Falls,NY,Warren
 43.283561,-73.629401,South Glens Falls,NY,Saratoga
@@ -4804,7 +4804,7 @@ latitude,longitude,city,state,county
 43.852071,-73.478024,Ticonderoga,NY,Essex
 43.088397,-73.591652,Victory Mills,NY,Saratoga
 43.570457,-73.859928,Warrensburg,NY,Warren
-43.631297,-73.936399,Wevertown,NY,Warren
+43.631297000000004,-73.936399,Wevertown,NY,Warren
 43.492815,-73.421536,Whitehall,NY,Washington
 44.71187,-73.637104,Plattsburgh,NY,Clinton
 44.685411,-73.447398,Plattsburgh,NY,Clinton
@@ -5012,7 +5012,7 @@ latitude,longitude,city,state,county
 43.02143,-76.197701,Syracuse,NY,Onondaga
 43.038366,-76.099394,Syracuse,NY,Onondaga
 43.02143,-76.197701,Syracuse,NY,Onondaga
-,,Syracuse,NY,Onondaga
+NA,NA,Syracuse,NY,Onondaga
 43.037716,-76.139646,Syracuse,NY,Onondaga
 43.02143,-76.197701,Syracuse,NY,Onondaga
 43.02143,-76.197701,Syracuse,NY,Onondaga
@@ -5138,7 +5138,7 @@ latitude,longitude,city,state,county
 42.680906,-74.76529,Westford,NY,Otsego
 43.44448,-75.543231,West Leyden,NY,Lewis
 43.124769,-75.432867,Westmoreland,NY,Oneida
-42.909122,-75.12867,West Winfield,NY,Herkimer
+42.909122000000004,-75.12867,West Winfield,NY,Herkimer
 43.197827,-75.287643,Whitesboro,NY,Oneida
 43.427301,-75.880041,Williamstown,NY,Oswego
 43.524904,-75.142771,Woodgate,NY,Oneida
@@ -5154,7 +5154,7 @@ latitude,longitude,city,state,county
 43.908739,-75.896719,Watertown,NY,Jefferson
 43.960222,-75.905634,Adams,NY,Jefferson
 43.831853,-76.007188,Adams Center,NY,Jefferson
-44.074604,-75.840719,Alexandria Bay,NY,Jefferson
+44.074604,-75.840719000000007,Alexandria Bay,NY,Jefferson
 44.148052,-75.759103,Antwerp,NY,Jefferson
 43.778046,-76.125914,Belleville,NY,Jefferson
 43.98871,-75.766746,Black River,NY,Jefferson
@@ -5248,7 +5248,7 @@ latitude,longitude,city,state,county
 42.567313,-76.123795,Blodgett Mills,NY,Cortland
 42.340298,-74.874437,Bloomville,NY,Delaware
 42.183045,-74.925617,Bovina Center,NY,Delaware
-42.226448,-76.309863,Candor,NY,Tioga
+42.226448,-76.309863000000007,Candor,NY,Tioga
 42.243783,-75.90689,Castle Creek,NY,Broome
 42.173775,-75.872839,Chenango Bridge,NY,Broome
 42.277777,-75.846246,Chenango Forks,NY,Broome
@@ -5284,7 +5284,7 @@ latitude,longitude,city,state,county
 42.402816,-76.036582,Killawog,NY,Broome
 42.056172,-75.788126,Kirkwood,NY,Broome
 42.555454,-75.135511,Laurens,NY,Otsego
-42.339355,-76.045026,Lisle,NY,Broome
+42.339355,-76.045025999999993,Lisle,NY,Broome
 42.49712,-75.731309,Mc Donough,NY,Chenango
 42.253754,-76.046399,Maine,NY,Broome
 42.497925,-76.047429,Marathon,NY,Cortland
@@ -5317,7 +5317,7 @@ latitude,longitude,city,state,county
 42.542579,-75.412243,South New Berlin,NY,Chenango
 42.624833,-75.652767,South Plymouth,NY,Chenango
 42.065842,-76.381946,Tioga Center,NY,Tioga
-42.380509,-75.059702,Treadwell,NY,Delaware
+42.380509000000004,-75.059702,Treadwell,NY,Delaware
 42.183045,-74.925617,Trout Creek,NY,Delaware
 42.214705,-75.727699,Tunnel,NY,Broome
 42.382962,-75.292321,Unadilla,NY,Otsego
@@ -5415,7 +5415,7 @@ latitude,longitude,city,state,county
 42.656199,-78.340092,North Java,NY,Wyoming
 43.179206,-78.808908,North Tonawanda,NY,Niagara
 43.087438,-78.269677,Oakfield,NY,Genesee
-43.330443,-78.726661,Olcott,NY,Niagara
+43.330443,-78.726661000000007,Olcott,NY,Niagara
 42.742541,-78.704437,Orchard Park,NY,Erie
 42.472671,-79.007621,Perrysburg,NY,Cattaraugus
 42.543108,-78.153849,Pike,NY,Wyoming
@@ -5674,7 +5674,7 @@ latitude,longitude,city,state,county
 42.105907,-79.27912,Celoron,NY,Chautauqua
 42.013691,-78.264775,Ceres,NY,Allegany
 42.187468,-79.450523,Chautauqua,NY,Chautauqua
-42.308946,-79.387594,Cherry Creek,NY,Chautauqua
+42.308946,-79.387594000000007,Cherry Creek,NY,Chautauqua
 42.07268,-79.644932,Clymer,NY,Chautauqua
 42.252473,-79.008294,Conewango Valley,NY,Cattaraugus
 42.245997,-78.209403,Cuba,NY,Allegany
@@ -5725,7 +5725,7 @@ latitude,longitude,city,state,county
 42.12267,-78.221332,West Clarksville,NY,Allegany
 42.253734,-79.484286,Westfield,NY,Chautauqua
 42.062125,-78.377974,Westons Mills,NY,Cattaraugus
-42.206391,-77.306185,Addison,NY,Steuben
+42.206391000000004,-77.306185,Addison,NY,Steuben
 42.240535,-77.783192,Alfred,NY,Allegany
 42.254097,-77.799317,Alfred Station,NY,Allegany
 42.313285,-77.851286,Almond,NY,Allegany
@@ -6868,7 +6868,7 @@ latitude,longitude,city,state,county
 40.436276,-77.397013,Ickesburg,PA,Perry
 40.430902,-76.480732,Jonestown,PA,Lebanon
 40.300505,-76.258399,Kleinfeltersville,PA,Lebanon
-40.34253,-77.304476,Landisburg,PA,Perry
+40.342529999999996,-77.304476,Landisburg,PA,Perry
 40.223623,-76.538007,Lawn,PA,Lebanon
 40.331594,-76.397634,Lebanon,PA,Lebanon
 40.244339,-76.918796,Lemoyne,PA,Cumberland
@@ -6878,7 +6878,7 @@ latitude,longitude,city,state,county
 40.406766,-77.292578,Loysville,PA,Perry
 40.558844,-76.790132,Lykens,PA,Dauphin
 40.651725,-77.306056,Mc Alisterville,PA,Juniata
-,,Mechanicsburg,PA,Cumberland
+NA,NA,Mechanicsburg,PA,Cumberland
 40.478095,-77.734919,Mc Veytown,PA,Mifflin
 40.402523,-77.966977,Mapleton Depot,PA,Huntingdon
 40.325105,-77.025886,Marysville,PA,Perry
@@ -7028,10 +7028,10 @@ latitude,longitude,city,state,county
 39.8948,-77.213493,Gettysburg,PA,Adams
 39.892205,-76.750637,Glen Rock,PA,York
 39.766883,-76.877706,Glenville,PA,York
-39.935502,-76.672739,Hanover,PA,York
+39.935502,-76.672739000000007,Hanover,PA,York
 39.775037,-76.735116,Hanover,PA,York
 39.972985,-76.687826,Hanover,PA,York
-,,Hanover,PA,York
+NA,NA,Hanover,PA,York
 40.015656,-77.200131,Idaville,PA,Adams
 39.995219,-76.889249,Lewisberry,PA,York
 39.829806,-77.095399,Littlestown,PA,Adams
@@ -7134,7 +7134,7 @@ latitude,longitude,city,state,county
 40.009147,-76.367132,Lancaster,PA,Lancaster
 40.065096,-76.335631,Lancaster,PA,Lancaster
 40.0185,-76.297582,Lancaster,PA,Lancaster
-40.110201,-76.305378,Lancaster,PA,Lancaster
+40.110201000000004,-76.305378,Lancaster,PA,Lancaster
 40.0185,-76.297582,Lancaster,PA,Lancaster
 40.0185,-76.297582,Lancaster,PA,Lancaster
 40.0185,-76.297582,Lancaster,PA,Lancaster
@@ -7354,7 +7354,7 @@ latitude,longitude,city,state,county
 40.841099,-75.258376,Pen Argyl,PA,Northampton
 40.374347,-75.482175,Pennsburg,PA,Montgomery
 40.320832,-75.500492,Perkiomenville,PA,Montgomery
-40.387419,-75.505547,Red Hill,PA,Montgomery
+40.387419,-75.505547000000007,Red Hill,PA,Montgomery
 40.567316,-75.236191,Riegelsville,PA,Bucks
 40.669675,-75.620901,Schnecksville,PA,Lehigh
 40.745524,-75.659209,Slatedale,PA,Lehigh
@@ -7380,7 +7380,7 @@ latitude,longitude,city,state,county
 40.585561,-75.621058,Allentown,PA,Lehigh
 40.57983,-75.579884,Allentown,PA,Lehigh
 40.964584,-76.008333,Hazleton,PA,Luzerne
-,,Hazleton,PA,Luzerne
+NA,NA,Hazleton,PA,Luzerne
 41.012618,-75.560751,Albrightsville,PA,Carbon
 40.744932,-75.83155,Andreas,PA,Schuylkill
 40.784095,-75.708281,Ashfield,PA,Carbon
@@ -7416,7 +7416,7 @@ latitude,longitude,city,state,county
 41.272248,-75.880146,Sybertsville,PA,Luzerne
 40.79849,-75.937836,Tamaqua,PA,Schuylkill
 40.924803,-75.938611,Tresckow,PA,Carbon
-40.911443,-75.779007,Weatherly,PA,Carbon
+40.911443,-75.779006999999993,Weatherly,PA,Carbon
 40.944777,-76.145197,Weston,PA,Luzerne
 41.089642,-75.199705,East Stroudsburg,PA,Monroe
 41.071213,-75.236436,Analomink,PA,Monroe
@@ -7570,7 +7570,7 @@ latitude,longitude,city,state,county
 41.394526,-75.824239,Ransom,PA,Lackawanna
 41.350053,-76.03193,Shawanese,PA,Luzerne
 41.151321,-76.108103,Shickshinny,PA,Luzerne
-41.288634,-76.142277,Sweet Valley,PA,Luzerne
+41.288634,-76.142277000000007,Sweet Valley,PA,Luzerne
 41.566386,-75.975715,Tunkhannock,PA,Wyoming
 41.142698,-76.039935,Wapwallopen,PA,Luzerne
 41.114503,-75.909158,White Haven,PA,Luzerne
@@ -7830,7 +7830,7 @@ latitude,longitude,city,state,county
 40.024361,-75.081668,Philadelphia,PA,Philadelphia
 40.07231,-75.17122,Philadelphia,PA,Philadelphia
 39.986611,-75.213174,Philadelphia,PA,Philadelphia
-40.014011,-75.086818,Philadelphia,PA,Philadelphia
+40.014011000000004,-75.086818,Philadelphia,PA,Philadelphia
 39.899412,-75.226976,Philadelphia,PA,Philadelphia
 40.084017,-75.018265,Philadelphia,PA,Philadelphia
 40.001811,-75.11787,Philadelphia,PA,Philadelphia
@@ -7861,7 +7861,7 @@ latitude,longitude,city,state,county
 40.001811,-75.11787,Philadelphia,PA,Philadelphia
 40.001811,-75.11787,Philadelphia,PA,Philadelphia
 40.040057,-75.488793,Paoli,PA,Chester
-39.941554,-75.957993,Atglen,PA,Chester
+39.941553999999996,-75.957993,Atglen,PA,Chester
 39.866821,-75.839686,Avondale,PA,Chester
 40.030058,-75.45644,Berwyn,PA,Chester
 40.054976,-75.837767,Brandamore,PA,Chester
@@ -7922,7 +7922,7 @@ latitude,longitude,city,state,county
 40.211896,-75.35586,Audubon,PA,Montgomery
 40.156555,-75.413127,Eagleville,PA,Montgomery
 40.211896,-75.35586,Fairview Village,PA,Montgomery
-,,Eagleville,PA,
+NA,NA,Eagleville,PA,NA
 40.152871,-75.456719,Arcola,PA,Montgomery
 39.983153,-75.748055,Birchrunville,PA,Chester
 40.15755,-75.279941,Blue Bell,PA,Montgomery
@@ -7958,7 +7958,7 @@ latitude,longitude,city,state,county
 40.191907,-75.66531,Pottstown,PA,Chester
 40.20894,-75.490215,Royersford,PA,Montgomery
 40.186707,-75.728759,Saint Peters,PA,Chester
-40.344773,-75.577458,Sassamansville,PA,Montgomery
+40.344773000000004,-75.577458,Sassamansville,PA,Montgomery
 40.224789,-75.478534,Schwenksville,PA,Montgomery
 40.225109,-75.403095,Skippack,PA,Montgomery
 40.146989,-75.605398,Spring City,PA,Chester
@@ -7980,8 +7980,8 @@ latitude,longitude,city,state,county
 39.983153,-75.748055,Valley Forge,PA,Chester
 39.983153,-75.748055,Valley Forge,PA,Chester
 39.983153,-75.748055,Valley Forge,PA,Chester
-40.242327,-76.057696,Adamstown,PA,Lancaster
-40.447833,-75.708672,Bally,PA,Berks
+40.242327,-76.057696000000007,Adamstown,PA,Lancaster
+40.447833,-75.708672000000007,Bally,PA,Berks
 40.335395,-75.720131,Barto,PA,Berks
 40.458523,-75.741863,Bechtelsville,PA,Berks
 40.454997,-75.90646,Bernville,PA,Berks
@@ -8098,7 +8098,7 @@ latitude,longitude,city,state,county
 39.10868,-75.448023,Dover,DE,Kent
 39.160542,-75.597381,Dover,DE,Kent
 39.10868,-75.448023,Dover,DE,Kent
-,,Dover,DE,Kent
+NA,NA,Dover,DE,Kent
 38.555533,-75.186955,Bethany Beach,DE,Sussex
 38.569091,-75.624087,Bethel,DE,Sussex
 38.660295,-75.330023,Bridgeville,DE,Sussex
@@ -8112,7 +8112,7 @@ latitude,longitude,city,state,county
 38.486485,-75.058874,Fenwick Island,DE,Sussex
 38.55144,-75.157634,Frankford,DE,Sussex
 39.023141,-75.48191,Frederica,DE,Kent
-38.632891,-75.334263,Georgetown,DE,Sussex
+38.632891,-75.334263000000007,Georgetown,DE,Sussex
 38.82458,-75.588771,Greenwood,DE,Sussex
 38.691547,-75.225025,Harbeson,DE,Sussex
 38.912195,-75.611322,Harrington,DE,Kent
@@ -8325,7 +8325,7 @@ latitude,longitude,city,state,county
 38.900561,-77.039099,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.915361,-77.057199,Washington,DC,District Of Columbia
-,,Washington,DC,District Of Columbia
+NA,NA,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.897143,-77.040895,Washington,DC,District Of Columbia
@@ -8368,7 +8368,7 @@ latitude,longitude,city,state,county
 38.893311,-77.014647,Anacostia Annex,DC,District Of Columbia
 38.855522,-77.002197,Washington,DC,District Of Columbia
 38.826163,-77.017448,Washington,DC,District Of Columbia
-,,Washington,DC,District Of Columbia
+NA,NA,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.872553,-76.996605,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
@@ -8428,7 +8428,7 @@ latitude,longitude,city,state,county
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
-,,Washington,DC,District Of Columbia
+NA,NA,Washington,DC,District Of Columbia
 38.89872,-77.036198,Washington,DC,District Of Columbia
 38.89872,-77.036198,Washington,DC,District Of Columbia
 38.900711,-77.043068,Washington,DC,District Of Columbia
@@ -8453,7 +8453,7 @@ latitude,longitude,city,state,county
 38.901102,-77.032591,Washington,DC,District Of Columbia
 38.894075,-77.01254,Washington,DC,District Of Columbia
 38.894097,-77.025133,Washington,DC,District Of Columbia
-38.901211,-77.016948,Washington,DC,District Of Columbia
+38.901211000000004,-77.016948,Washington,DC,District Of Columbia
 38.894097,-77.025133,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
@@ -8476,7 +8476,7 @@ latitude,longitude,city,state,county
 38.893311,-77.014647,Washington,DC,District Of Columbia
 38.887405,-77.004663,Washington,DC,District Of Columbia
 38.893311,-77.014647,Washington,DC,District Of Columbia
-38.891941,-77.018853,Washington,DC,District Of Columbia
+38.891941,-77.018852999999993,Washington,DC,District Of Columbia
 38.897074,-77.05535,Washington,DC,District Of Columbia
 38.899061,-77.040149,Washington,DC,District Of Columbia
 38.900559,-77.034554,Washington,DC,District Of Columbia
@@ -8573,7 +8573,7 @@ latitude,longitude,city,state,county
 39.093136,-76.881945,Laurel,MD,Prince Georges
 39.049859,-76.834493,Laurel,MD,Prince Georges
 38.833563,-76.877743,Laurel,MD,Prince Georges
-38.901211,-76.925943,Bladensburg,MD,Prince Georges
+38.901211000000004,-76.925943,Bladensburg,MD,Prince Georges
 38.802263,-76.645735,Lothian,MD,Anne Arundel
 38.94266,-76.967057,Mount Rainier,MD,Prince Georges
 38.610496,-76.595901,North Beach,MD,Calvert
@@ -8640,7 +8640,7 @@ latitude,longitude,city,state,county
 38.969434,-76.950913,Hyattsville,MD,Prince Georges
 38.833563,-76.877743,Capitol Heights,MD,Prince Georges
 38.833563,-76.877743,Capitol Heights,MD,Prince Georges
-,,Upper Marlboro,MD,Prince Georges
+NA,NA,Upper Marlboro,MD,Prince Georges
 39.155266,-76.813394,Jessup,MD,Howard
 38.833563,-76.877743,Southern Md Facility,MD,Prince Georges
 38.833563,-76.877743,Capitol Heights,MD,Prince Georges
@@ -8688,7 +8688,7 @@ latitude,longitude,city,state,county
 39.173,-77.185542,Gaithersburg,MD,Montgomery
 39.138815,-77.172591,Washington Grove,MD,Montgomery
 39.233512,-77.145781,Gaithersburg,MD,Montgomery
-,,Gaithersburg,MD,Montgomery
+NA,NA,Gaithersburg,MD,Montgomery
 39.143979,-77.207617,Gaithersburg,MD,Montgomery
 39.187421,-77.202798,Gaithersburg,MD,Montgomery
 39.175703,-77.18725,Montgomery Village,MD,Montgomery
@@ -8794,7 +8794,7 @@ latitude,longitude,city,state,county
 39.471559,-76.211676,Perryman,MD,Harford
 39.483255,-76.577619,Phoenix,MD,Baltimore
 39.692854,-76.421834,Pylesville,MD,Harford
-39.377872,-76.816675,Randallstown,MD,Baltimore
+39.377872000000004,-76.816675,Randallstown,MD,Baltimore
 39.487615,-76.796347,Reisterstown,MD,Baltimore
 39.438964,-76.592139,Riderwood,MD,Baltimore
 39.031943,-76.625199,Riva,MD,Anne Arundel
@@ -8972,7 +8972,7 @@ latitude,longitude,city,state,county
 38.704729,-76.332647,Tilghman,MD,Talbot
 38.274149,-76.072171,Toddville,MD,Dorchester
 38.664452,-76.058006,Trappe,MD,Talbot
-38.307394,-76.106344,Wingate,MD,Dorchester
+38.307394,-76.106344000000007,Wingate,MD,Dorchester
 38.784568,-76.300134,Wittman,MD,Talbot
 38.49965,-76.202456,Woolford,MD,Dorchester
 39.308842,-76.08165,Worton,MD,Kent
@@ -9127,7 +9127,7 @@ latitude,longitude,city,state,county
 38.819712,-77.287105,Fairfax,VA,Fairfax
 38.879466,-77.378858,Fairfax,VA,Fairfax
 38.831813,-77.288755,Fairfax,VA,Fairfax
-38.855715,-77.361633,Fairfax,VA,Fairfax
+38.855714999999996,-77.361633,Fairfax,VA,Fairfax
 38.735114,-77.07965,Fairfax,VA,Fairfax
 38.831813,-77.288755,Fairfax,VA,Fairfax
 38.852849,-77.30199,Fairfax,VA,Fairfax City
@@ -9153,8 +9153,8 @@ latitude,longitude,city,state,county
 38.953033,-77.229496,Mc Lean,VA,Fairfax
 38.831813,-77.288755,West Mclean,VA,Fairfax
 38.831813,-77.288755,Mc Lean,VA,Fairfax
-,,Mc Lean,VA,Fairfax
-,,Mc Lean,VA,Fairfax
+NA,NA,Mc Lean,VA,Fairfax
+NA,NA,Mc Lean,VA,Fairfax
 38.920165,-77.229043,Mc Lean,VA,Fairfax
 38.871469,-77.234428,Merrifield,VA,Fairfax
 38.831813,-77.288755,Merrifield,VA,Fairfax
@@ -9250,7 +9250,7 @@ latitude,longitude,city,state,county
 38.336458,-77.436618,Fredericksburg,VA,Stafford
 38.414357,-77.534708,Fredericksburg,VA,Stafford
 38.271969,-77.606772,Fredericksburg,VA,Spotsylvania
-38.233933,-77.562773,Fredericksburg,VA,Spotsylvania
+38.233933,-77.562773000000007,Fredericksburg,VA,Spotsylvania
 38.184716,-77.662559,Fredericksburg,VA,Spotsylvania
 38.008401,-77.260353,Bowling Green,VA,Caroline
 38.014536,-77.355902,Bowling Green,VA,Caroline
@@ -9397,7 +9397,7 @@ latitude,longitude,city,state,county
 38.620549,-78.191528,Woodville,VA,Rappahannock
 38.422777,-78.877137,Harrisonburg,VA,Harrisonburg City
 38.490526,-78.817876,Harrisonburg,VA,Rockingham
-,,Harrisonburg,VA,Harrisonburg City
+NA,NA,Harrisonburg,VA,Harrisonburg City
 38.440898,-78.874173,Harrisonburg,VA,Harrisonburg City
 38.808869,-78.777598,Basye,VA,Shenandoah
 38.781688,-78.948643,Bergton,VA,Rockingham
@@ -9548,7 +9548,7 @@ latitude,longitude,city,state,county
 37.628179,-77.281955,Mechanicsville,VA,Hanover
 37.454138,-77.66258,Midlothian,VA,Chesterfield
 37.494897,-77.663061,Midlothian,VA,Chesterfield
-,,Midlothian,VA,Chesterfield
+NA,NA,Midlothian,VA,Chesterfield
 37.836374,-76.913844,Millers Tavern,VA,Essex
 37.669086,-77.329421,Mechanicsville,VA,Hanover
 37.937619,-77.868959,Mineral,VA,Louisa
@@ -9650,7 +9650,7 @@ latitude,longitude,city,state,county
 37.524246,-77.493157,Richmond,VA,Richmond City
 37.524246,-77.493157,Richmond,VA,Richmond City
 37.628657,-77.542871,Richmond,VA,Henrico
-,,Richmond,VA,Richmond City
+NA,NA,Richmond,VA,Richmond City
 37.389721,-77.561266,Richmond,VA,Chesterfield
 37.540646,-77.431555,Richmond,VA,Richmond City
 37.712919,-75.661132,Accomac,VA,Accomack
@@ -9712,7 +9712,7 @@ latitude,longitude,city,state,county
 37.542324,-75.74122,Quinby,VA,Accomack
 36.996881,-76.564516,Rescue,VA,Isle Of Wight
 37.922894,-75.678111,Sanford,VA,Accomack
-37.926441,-75.721978,Saxis,VA,Accomack
+37.926441,-75.721977999999993,Saxis,VA,Accomack
 37.271104,-75.953608,Seaview,VA,Northampton
 36.990826,-76.661123,Smithfield,VA,Isle Of Wight
 36.898915,-76.687745,Smithfield,VA,Isle Of Wight
@@ -9773,7 +9773,7 @@ latitude,longitude,city,state,county
 36.907997,-76.216448,Norfolk,VA,Norfolk City
 36.931166,-76.23972,Norfolk,VA,Norfolk City
 36.931166,-76.23972,Norfolk,VA,Norfolk City
-36.913144,-76.147157,Norfolk,VA,Virginia Beach City
+36.913144,-76.147157000000007,Norfolk,VA,Virginia Beach City
 36.831647,-76.270561,Norfolk,VA,Norfolk City
 36.931166,-76.23972,Norfolk,VA,Norfolk City
 36.931166,-76.23972,Norfolk,VA,Norfolk City
@@ -9836,7 +9836,7 @@ latitude,longitude,city,state,county
 37.168045,-77.674226,Church Road,VA,Dinwiddie
 37.26219,-77.396989,Colonial Heights,VA,Colonial Heights City
 37.347458,-77.338551,Chester,VA,Chesterfield
-36.70656,-77.215522,Courtland,VA,Southampton
+36.70656,-77.215522000000007,Courtland,VA,Southampton
 37.333271,-77.634265,Chesterfield,VA,Chesterfield
 37.065785,-76.915537,Dendron,VA,Surry
 37.069327,-77.677945,Dewitt,VA,Dinwiddie
@@ -9854,7 +9854,7 @@ latitude,longitude,city,state,county
 37.286676,-77.296596,Hopewell,VA,Hopewell City
 36.887634,-76.900225,Ivor,VA,Southampton
 36.864325,-77.282567,Jarratt,VA,Sussex
-36.734246,-77.813561,Lawrenceville,VA,Brunswick
+36.734246,-77.813561000000007,Lawrenceville,VA,Brunswick
 36.721471,-77.531996,Jarratt,VA,Greensville
 37.010322,-77.736044,Mc Kenney,VA,Dinwiddie
 36.80878,-77.954397,Meredithville,VA,Brunswick
@@ -10047,7 +10047,7 @@ latitude,longitude,city,state,county
 36.724064,-80.35806,Vesta,VA,Patrick
 37.310494,-79.789799,Villamont,VA,Bedford
 37.275674,-79.877505,Vinton,VA,Roanoke
-37.104127,-79.799315,Wirtz,VA,Franklin
+37.104127,-79.799315000000007,Wirtz,VA,Franklin
 36.741838,-80.267112,Woolwine,VA,Patrick
 36.613815,-82.176238,Bristol,VA,Bristol
 36.621571,-82.167633,Bristol,VA,Bristol
@@ -10260,7 +10260,7 @@ latitude,longitude,city,state,county
 37.13549,-81.563406,Amonate,VA,Tazewell
 36.999484,-81.79514,Bandy,VA,Tazewell
 37.287992,-82.027408,Big Rock,VA,Buchanan
-37.203317,-81.557499,Bishop,VA,Tazewell
+37.203317,-81.557499000000007,Bishop,VA,Tazewell
 37.172408,-81.507054,Bluefield,VA,Tazewell
 37.13549,-81.563406,Boissevain,VA,Tazewell
 37.130943,-82.344881,Breaks,VA,Dickenson
@@ -10476,7 +10476,7 @@ latitude,longitude,city,state,county
 38.072562,-81.825259,Foster,WV,Boone
 38.560972,-82.022361,Fraziers Bottom,WV,Putnam
 38.296818,-81.554655,Gallagher,WV,Kanawha
-38.156166,-81.174906,Gauley Bridge,WV,Fayette
+38.156166,-81.174905999999993,Gauley Bridge,WV,Fayette
 38.215547,-81.406705,Glasgow,WV,Kanawha
 38.465777,-81.050662,Glen,WV,Clay
 38.041293,-81.064784,Glen Ferris,WV,Fayette
@@ -10736,7 +10736,7 @@ latitude,longitude,city,state,county
 37.702526,-82.26002,Williamson,WV,Mingo
 37.721351,-82.30835,Borderland,WV,Mingo
 37.926178,-82.270292,Breeden,WV,Mingo
-37.704739,-82.273892,Chattaroy,WV,Mingo
+37.704738999999996,-82.273892,Chattaroy,WV,Mingo
 38.132114,-82.418277,Crum,WV,Wayne
 37.718871,-82.193059,Delbarton,WV,Mingo
 37.743063,-82.10801,Dingess,WV,Mingo
@@ -11034,7 +11034,7 @@ latitude,longitude,city,state,county
 38.913649,-80.831256,Coxs Mills,WV,Gilmer
 38.945847,-80.51449,Crawford,WV,Lewis
 39.198501,-81.068913,Ellenboro,WV,Ritchie
-39.345364,-80.04977,Flemington,WV,Taylor
+39.345363999999996,-80.04977,Flemington,WV,Taylor
 39.575518,-80.666712,Folsom,WV,Wetzel
 39.125078,-80.017982,Galloway,WV,Barbour
 38.913649,-80.831256,Gilmer,WV,Gilmer
@@ -11065,17 +11065,17 @@ latitude,longitude,city,state,county
 39.575518,-80.666712,Pine Grove,WV,Wetzel
 39.198501,-81.068913,Pullman,WV,Ritchie
 39.285204,-80.385344,Reynoldsville,WV,Harrison
-39.345364,-80.04977,Rosemont,WV,Taylor
+39.345363999999996,-80.04977,Rosemont,WV,Taylor
 39.312958,-79.704927,Rowlesburg,WV,Preston
 39.245329,-80.49102,Salem,WV,Harrison
 38.913649,-80.831256,Sand Fork,WV,Gilmer
 39.328705,-80.273372,Shinnston,WV,Harrison
 39.450612,-80.870081,Shirley,WV,Tyler
-39.345364,-80.04977,Simpson,WV,Taylor
+39.345363999999996,-80.04977,Simpson,WV,Taylor
 39.270846,-80.719742,Smithburg,WV,Doddridge
 39.575518,-80.666712,Smithfield,WV,Wetzel
 39.346511,-80.32056,Spelter,WV,Harrison
-39.345364,-80.04977,Thornton,WV,Taylor
+39.345363999999996,-80.04977,Thornton,WV,Taylor
 38.913649,-80.831256,Troy,WV,Gilmer
 39.458091,-79.688154,Tunnelton,WV,Preston
 38.945847,-80.51449,Walkersville,WV,Lewis
@@ -11127,7 +11127,7 @@ latitude,longitude,city,state,county
 39.558696,-80.180468,Grant Town,WV,Marion
 39.575518,-80.666712,Hundred,WV,Wetzel
 39.48774,-80.266588,Idamay,WV,Marion
-39.446631,-80.176171,Kingmont,WV,Marion
+39.446630999999996,-80.176171,Kingmont,WV,Marion
 39.575518,-80.666712,Littleton,WV,Wetzel
 39.536663,-80.23996,Mannington,WV,Marion
 39.579171,-80.368694,Metz,WV,Marion
@@ -11253,7 +11253,7 @@ latitude,longitude,city,state,county
 36.466883,-79.912823,Stoneville,NC,Rockingham
 36.551332,-80.655786,Toast,NC,Surry
 36.22358,-80.395517,Tobaccoville,NC,Forsyth
-36.191405,-80.16357,Walkertown,NC,Forsyth
+36.191405,-80.163570000000007,Walkertown,NC,Forsyth
 36.34518,-80.159989,Walnut Cove,NC,Stokes
 36.490659,-80.463069,Westfield,NC,Surry
 35.790116,-80.605096,Woodleaf,NC,Rowan
@@ -11292,9 +11292,9 @@ latitude,longitude,city,state,county
 36.185517,-79.505479,Altamahaw,NC,Alamance
 35.708376,-79.85213,Asheboro,NC,Randolph
 35.788286,-79.720556,Asheboro,NC,Randolph
-,,Asheboro,NC,Randolph
+NA,NA,Asheboro,NC,Randolph
 35.608354,-79.372362,Bear Creek,NC,Chatham
-35.573086,-79.52309,Bennett,NC,Chatham
+35.573086000000004,-79.52309,Bennett,NC,Chatham
 35.365836,-79.943839,Biscoe,NC,Montgomery
 36.466412,-79.275549,Blanch,NC,Caswell
 35.648194,-79.414859,Bonlee,NC,Chatham
@@ -11363,7 +11363,7 @@ latitude,longitude,city,state,county
 36.461083,-79.597001,Ruffin,NC,Rockingham
 35.469782,-79.171723,Sanford,NC,Lee
 35.372577,-79.276577,Sanford,NC,Lee
-,,Sanford,NC,Lee
+NA,NA,Sanford,NC,Lee
 35.948814,-79.329664,Saxapahaw,NC,Alamance
 35.562753,-79.698691,Seagrove,NC,Randolph
 36.075623,-79.620641,Sedalia,NC,Guilford
@@ -11431,7 +11431,7 @@ latitude,longitude,city,state,county
 36.004647,-79.054475,Chapel Hill,NC,Orange
 36.05251,-79.107692,Chapel Hill,NC,Orange
 35.946263,-79.136862,Chapel Hill,NC,Orange
-,,Chapel Hill,NC,Orange
+NA,NA,Chapel Hill,NC,Orange
 35.797692,-78.625265,Cary,NC,Wake
 35.76812,-78.829548,Cary,NC,Wake
 35.633257,-78.435416,Clayton,NC,Johnston
@@ -11443,11 +11443,11 @@ latitude,longitude,city,state,county
 35.714139,-78.66304,Garner,NC,Wake
 35.368277,-78.092871,Goldsboro,NC,Wayne
 35.463121,-77.995728,Goldsboro,NC,Wayne
-35.372045,-78.052422,Goldsboro,NC,Wayne
-35.372045,-78.052422,Goldsboro,NC,Wayne
+35.372045,-78.052422000000007,Goldsboro,NC,Wayne
+35.372045,-78.052422000000007,Goldsboro,NC,Wayne
 35.385571,-78.03207,Goldsboro,NC,Wayne
 36.38698,-78.396213,Henderson,NC,Vance
-,,Henderson,NC,Vance
+NA,NA,Henderson,NC,Vance
 35.607666,-78.829724,Holly Springs,NC,Wake
 36.314975,-79.06404,Hurdle Mills,NC,Person
 35.571141,-78.287178,Kenly,NC,Johnston
@@ -11507,7 +11507,7 @@ latitude,longitude,city,state,county
 35.972686,-78.620292,Raleigh,NC,Wake
 35.918893,-78.627455,Raleigh,NC,Wake
 35.805765,-78.688301,Raleigh,NC,Wake
-,,Raleigh,NC,Wake
+NA,NA,Raleigh,NC,Wake
 35.851463,-78.63141,Raleigh,NC,Wake
 35.797692,-78.625265,Raleigh,NC,Wake
 35.797692,-78.625265,Raleigh,NC,Wake
@@ -11762,7 +11762,7 @@ latitude,longitude,city,state,county
 34.967043,-79.98678,Lilesville,NC,Anson
 35.485145,-81.181799,Lincolnton,NC,Lincoln
 35.484822,-81.239543,Lincolnton,NC,Lincoln
-35.262131,-80.424512,Locust,NC,Stanly
+35.262131,-80.424511999999993,Locust,NC,Stanly
 35.262444,-81.097965,Lowell,NC,Gaston
 35.26749,-81.09104,Mc Adenville,NC,Gaston
 34.813634,-79.97756,Mc Farlan,NC,Anson
@@ -11772,7 +11772,7 @@ latitude,longitude,city,state,county
 35.26002,-80.804151,Matthews,NC,Mecklenburg
 35.250608,-80.535601,Midland,NC,Cabarrus
 34.916253,-80.640383,Mineral Springs,NC,Union
-35.480124,-80.270445,Misenheimer,NC,Stanly
+35.480124000000004,-80.270445,Misenheimer,NC,Stanly
 35.074176,-80.527827,Monroe,NC,Union
 35.011204,-80.558743,Monroe,NC,Union
 34.901591,-80.527201,Monroe,NC,Union
@@ -11871,7 +11871,7 @@ latitude,longitude,city,state,county
 35.284459,-80.858155,Charlotte,NC,Mecklenburg
 35.331981,-80.798583,Charlotte,NC,Mecklenburg
 35.112999,-80.762565,Charlotte,NC,Mecklenburg
-,,Charlotte,NC,
+NA,NA,Charlotte,NC,NA
 35.26002,-80.804151,Charlotte,NC,Mecklenburg
 35.128678,-80.933793,Charlotte,NC,Mecklenburg
 35.187943,-80.831693,Charlotte,NC,Mecklenburg
@@ -11906,7 +11906,7 @@ latitude,longitude,city,state,county
 35.05425,-79.011328,Fayetteville,NC,Cumberland
 35.203802,-79.517795,Aberdeen,NC,Moore
 35.066726,-78.590479,Autryville,NC,Sampson
-34.595364,-79.197058,Barnesville,NC,Robeson
+34.595363999999996,-79.197058,Barnesville,NC,Robeson
 34.621027,-78.725506,Bladenboro,NC,Bladen
 35.312764,-78.914817,Bunnlevel,NC,Harnett
 35.141931,-78.099221,Calypso,NC,Duplin
@@ -12077,7 +12077,7 @@ latitude,longitude,city,state,county
 34.692056,-77.391199,Jacksonville,NC,Onslow
 34.664035,-77.463687,Camp Lejeune,NC,Onslow
 34.736045,-77.382049,Tarawa Terrace,NC,Onslow
-34.622795,-77.417426,Midway Park,NC,Onslow
+34.622795000000004,-77.417426,Midway Park,NC,Onslow
 34.692056,-77.391199,Mccutcheon Field,NC,Onslow
 34.720825,-77.444847,Jacksonville,NC,Onslow
 34.690934,-77.361429,Camp Lejeune,NC,Onslow
@@ -12281,7 +12281,7 @@ latitude,longitude,city,state,county
 35.279322,-82.179654,Tryon,NC,Polk
 35.246573,-83.044292,Tuckasegee,NC,Jackson
 35.217377,-82.417819,Tuxedo,NC,Henderson
-,,Waynesville,NC,Haywood
+NA,NA,Waynesville,NC,Haywood
 35.585619,-82.959617,Waynesville,NC,Haywood
 35.702704,-82.588915,Weaverville,NC,Buncombe
 35.328533,-83.233302,Webster,NC,Jackson
@@ -12303,7 +12303,7 @@ latitude,longitude,city,state,county
 35.620335,-82.528558,Asheville,NC,Buncombe
 35.170731,-83.87111,Andrews,NC,Cherokee
 35.025885,-83.878025,Brasstown,NC,Clay
-35.094379,-84.035916,Culberson,NC,Cherokee
+35.094379000000004,-84.035916,Culberson,NC,Cherokee
 35.071416,-83.778309,Hayesville,NC,Clay
 35.14641,-83.902545,Marble,NC,Cherokee
 35.131159,-84.038776,Murphy,NC,Cherokee
@@ -12504,7 +12504,7 @@ latitude,longitude,city,state,county
 34.890526,-81.991496,Woodruff,SC,Spartanburg
 34.888237,-81.96902,Duncan,SC,Spartanburg
 34.888237,-81.96902,Duncan,SC,Spartanburg
-,,Jonesville,SC,Union
+NA,NA,Jonesville,SC,Union
 32.780326,-79.940844,Charleston,SC,Charleston
 32.84885,-79.85773,Charleston,SC,Charleston
 32.822391,-79.965464,Charleston,SC,Charleston
@@ -12554,7 +12554,7 @@ latitude,longitude,city,state,county
 33.01317,-80.107174,Ladson,SC,Berkeley
 32.84885,-79.85773,Johns Island,SC,Charleston
 33.119382,-79.507388,Mc Clellanville,SC,Charleston
-33.197118,-80.023339,Moncks Corner,SC,Berkeley
+33.197118,-80.023338999999993,Moncks Corner,SC,Berkeley
 32.847273,-79.820563,Mount Pleasant,SC,Charleston
 32.84885,-79.85773,Mount Pleasant,SC,Charleston
 32.867373,-79.804893,Mount Pleasant,SC,Charleston
@@ -12635,7 +12635,7 @@ latitude,longitude,city,state,county
 34.591849,-80.170691,Patrick,SC,Chesterfield
 33.464107,-79.183904,Pawleys Island,SC,Georgetown
 33.621094,-78.963155,Myrtle Beach,SC,Horry
-,,Myrtle Beach,SC,Horry
+NA,NA,Myrtle Beach,SC,Horry
 34.105265,-79.322116,Rains,SC,Marion
 33.598355,-79.709369,Salters,SC,Williamsburg
 33.937275,-79.769899,Scranton,SC,Florence
@@ -12663,7 +12663,7 @@ latitude,longitude,city,state,county
 34.849745,-82.453779,Greenville,SC,Greenville
 34.955463,-82.465633,Greenville,SC,Greenville
 34.215714,-82.446307,Abbeville,SC,Abbeville
-34.492718,-82.638297,Anderson,SC,Anderson
+34.492718000000004,-82.638297,Anderson,SC,Anderson
 34.491988,-82.782868,Anderson,SC,Anderson
 34.438087,-82.835449,Anderson,SC,Anderson
 34.51236,-82.708334,Anderson,SC,Anderson
@@ -12891,7 +12891,7 @@ latitude,longitude,city,state,county
 33.960353,-84.037859,Lawrenceville,GA,Gwinnett
 33.865587,-84.072463,Lilburn,GA,Gwinnett
 33.960353,-84.037859,Lilburn,GA,Gwinnett
-,,Lawrenceville,GA,Gwinnett
+NA,NA,Lawrenceville,GA,Gwinnett
 33.876889,-83.896781,Loganville,GA,Gwinnett
 33.670567,-83.874013,Oxford,GA,Newton
 33.431362,-83.790756,Mansfield,GA,Jasper
@@ -12984,9 +12984,9 @@ latitude,longitude,city,state,county
 33.995132,-84.654385,Kennesaw,GA,Cobb
 33.993766,-85.091511,Rockmart,GA,Polk
 33.68966,-84.744595,Douglasville,GA,Douglas
-,,Kennesaw,GA,Cobb
+NA,NA,Kennesaw,GA,Cobb
 33.90448,-84.862139,Dallas,GA,Paulding
-,,Kennesaw,GA,Cobb
+NA,NA,Kennesaw,GA,Cobb
 34.262335,-85.22089,Rome,GA,Floyd
 34.290508,-85.213817,Rome,GA,Floyd
 34.333308,-85.233721,Rome,GA,Floyd
@@ -13204,14 +13204,14 @@ latitude,longitude,city,state,county
 32.188768,-82.522115,Tarrytown,GA,Montgomery
 32.54978,-82.183916,Twin City,GA,Emanuel
 32.028823,-82.516246,Uvalda,GA,Montgomery
-32.198683,-82.39208,Vidalia,GA,Toombs
+32.198683,-82.392080000000007,Vidalia,GA,Toombs
 32.177513,-82.373889,Vidalia,GA,Toombs
 32.863678,-82.407516,Wadley,GA,Jefferson
 32.050694,-81.998348,Reidsville,GA,Tattnall
 34.334398,-83.837912,Gainesville,GA,Hall
 34.212993,-83.794858,Chestnut Mountain,GA,Hall
 34.345432,-83.950541,Gainesville,GA,Hall
-34.241066,-83.886508,Gainesville,GA,Hall
+34.241065999999996,-83.886508,Gainesville,GA,Hall
 34.336238,-83.860031,Gainesville,GA,Hall
 34.257212,-83.824574,Gainesville,GA,Hall
 34.50429,-83.594758,Alto,GA,Habersham
@@ -13261,7 +13261,7 @@ latitude,longitude,city,state,county
 34.914393,-83.402766,Mountain City,GA,Rabun
 34.541683,-83.52283,Mount Airy,GA,Habersham
 34.445369,-83.906516,Murrayville,GA,Hall
-34.113429,-83.474576,Nicholson,GA,Jackson
+34.113428999999996,-83.474576,Nicholson,GA,Jackson
 34.239428,-83.897612,Oakwood,GA,Hall
 34.159431,-83.59706,Pendergrass,GA,Jackson
 34.944609,-83.381415,Rabun Gap,GA,Rabun
@@ -13460,7 +13460,7 @@ latitude,longitude,city,state,county
 32.047918,-82.910927,Mc Rae,GA,Telfair
 32.438321,-83.905039,Marshallville,GA,Macon
 32.559781,-84.227675,Mauk,GA,Taylor
-,,Milledgeville,GA,Baldwin
+NA,NA,Milledgeville,GA,Baldwin
 31.964005,-82.926588,Milan,GA,Telfair
 33.072279,-83.239008,Milledgeville,GA,Baldwin
 33.087138,-83.22492,Milledgeville,GA,Baldwin
@@ -13483,7 +13483,7 @@ latitude,longitude,city,state,county
 32.559781,-84.227675,Rupert,GA,Taylor
 32.974982,-82.840564,Sandersville,GA,Washington
 32.084139,-82.912341,Scotland,GA,Telfair
-31.989039,-83.394574,Seville,GA,Wilcox
+31.989038999999998,-83.394574,Seville,GA,Wilcox
 33.435022,-83.626885,Shady Dale,GA,Jasper
 32.989503,-83.876108,Smarr,GA,Monroe
 33.257068,-83.08922,Sparta,GA,Hancock
@@ -13574,7 +13574,7 @@ latitude,longitude,city,state,county
 32.048247,-81.11748,Savannah,GA,Chatham
 32.065317,-81.181413,Savannah,GA,Chatham
 31.975611,-81.086617,Savannah,GA,Chatham
-32.167235,-81.199897,Savannah,GA,Chatham
+32.167235,-81.199897000000007,Savannah,GA,Chatham
 32.108154,-81.174612,Savannah,GA,Chatham
 31.971394,-81.07156,Savannah,GA,Chatham
 32.017461,-80.997043,Savannah,GA,Chatham
@@ -13735,7 +13735,7 @@ latitude,longitude,city,state,county
 31.763715,-84.160359,Leesburg,GA,Lee
 32.000148,-84.088354,Leslie,GA,Sumter
 31.021859,-84.061389,Meigs,GA,Thomas
-31.53796,-84.611559,Morgan,GA,Calhoun
+31.537960000000002,-84.611559,Morgan,GA,Calhoun
 31.88141,-85.024468,Morris,GA,Quitman
 31.183438,-83.789698,Moultrie,GA,Colquitt
 31.620866,-83.249754,Mystic,GA,Irwin
@@ -13768,16 +13768,16 @@ latitude,longitude,city,state,county
 30.901959,-84.311493,Whigham,GA,Grady
 31.571849,-83.087813,Wray,GA,Irwin
 30.880968,-83.885902,Thomasville,GA,Thomas
-32.701117,-84.494946,Box Springs,GA,Talbot
+32.701117000000004,-84.494946,Box Springs,GA,Talbot
 32.254152,-84.489818,Buena Vista,GA,Marion
 32.661625,-84.855447,Cataula,GA,Harris
 32.292547,-84.736706,Cusseta,GA,Chattahoochee
-32.209028,-84.277064,Ellaville,GA,Schley
+32.209028000000004,-84.277064,Ellaville,GA,Schley
 32.631243,-84.789524,Ellerslie,GA,Harris
 32.563874,-84.991501,Fortson,GA,Muscogee
-32.701117,-84.494946,Geneva,GA,Talbot
+32.701117000000004,-84.494946,Geneva,GA,Talbot
 32.746007,-84.934906,Hamilton,GA,Harris
-32.701117,-84.494946,Junction City,GA,Talbot
+32.701117000000004,-84.494946,Junction City,GA,Talbot
 32.07663,-84.849724,Louvale,GA,Stewart
 32.069538,-84.728093,Lumpkin,GA,Stewart
 32.91107,-84.615478,Manchester,GA,Meriwether
@@ -13812,7 +13812,7 @@ latitude,longitude,city,state,county
 32.491005,-84.874123,Columbus,GA,Muscogee
 32.491005,-84.874123,Columbus,GA,Muscogee
 32.491005,-84.874123,Columbus,GA,Muscogee
-,,Orange Park,FL,Clay
+NA,NA,Orange Park,FL,Clay
 29.937673,-81.420603,Ponte Vedra Beach,FL,Saint Johns
 29.799631,-81.627324,Bostwick,FL,Putnam
 30.101927,-82.908004,Branford,FL,Suwannee
@@ -13853,7 +13853,7 @@ latitude,longitude,city,state,county
 30.36036,-82.25418,Olustee,FL,Baker
 30.119884,-81.791546,Orange Park,FL,Clay
 29.984882,-81.802221,Penney Farms,FL,Clay
-,,Saint Augustine,FL,Saint Johns
+NA,NA,Saint Augustine,FL,Saint Johns
 30.102212,-81.382302,Ponte Vedra Beach,FL,Saint Johns
 30.054956,-82.213361,Raiford,FL,Union
 29.849505,-81.332552,Saint Augustine,FL,Saint Johns
@@ -13874,21 +13874,21 @@ latitude,longitude,city,state,county
 29.511518,-81.681387,Crescent City,FL,Putnam
 29.411299,-82.084651,Citra,FL,Marion
 29.146163,-81.053368,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
 29.10909,-80.984344,Daytona Beach,FL,Volusia
 29.188732,-81.231384,Daytona Beach,FL,Volusia
 29.208908,-81.00227,Daytona Beach,FL,Volusia
 29.150622,-81.025223,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
 29.14192,-81.140241,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
 29.113539,-80.976485,Daytona Beach,FL,Volusia
-,,Daytona Beach,FL,Volusia
-29.022729,-81.172169,Port Orange,FL,Volusia
+NA,NA,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Port Orange,FL,Volusia
 29.183646,-81.329387,De Leon Springs,FL,Volusia
 29.612208,-81.699606,East Palatka,FL,Putnam
 28.974136,-80.92291,Edgewater,FL,Volusia
@@ -13911,14 +13911,14 @@ latitude,longitude,city,state,county
 28.811078,-81.653642,Lady Lake,FL,Lake
 28.923468,-81.894367,Lady Lake,FL,Lake
 29.768321,-81.990729,Lake Geneva,FL,Clay
-,,Lady Lake,FL,Sumter
+NA,NA,Lady Lake,FL,Sumter
 29.486141,-81.204491,Palm Coast,FL,Flagler
 28.951931,-81.033705,New Smyrna Beach,FL,Volusia
 29.131714,-81.133519,New Smyrna Beach,FL,Volusia
-29.022729,-81.172169,New Smyrna Beach,FL,Volusia
-29.022729,-81.172169,Ormond Beach,FL,Volusia
+29.022728999999998,-81.172169,New Smyrna Beach,FL,Volusia
+29.022728999999998,-81.172169,Ormond Beach,FL,Volusia
 29.30766,-81.177846,Ormond Beach,FL,Volusia
-29.022729,-81.172169,Ormond Beach,FL,Volusia
+29.022728999999998,-81.172169,Ormond Beach,FL,Volusia
 29.335111,-81.249977,Ormond Beach,FL,Volusia
 29.611093,-81.785957,Palatka,FL,Putnam
 29.644306,-81.668593,Palatka,FL,Putnam
@@ -13934,7 +13934,7 @@ latitude,longitude,city,state,county
 29.326821,-82.104632,Sparr,FL,Marion
 29.463627,-81.640527,Welaka,FL,Putnam
 29.006144,-81.87785,Weirsdale,FL,Marion
-29.022729,-81.172169,Daytona Beach,FL,Volusia
+29.022728999999998,-81.172169,Daytona Beach,FL,Volusia
 30.389438,-81.680806,Jacksonville,FL,Duval
 30.328439,-81.65602,Jacksonville,FL,Duval
 30.32281,-81.547044,Jacksonville,FL,Duval
@@ -13991,7 +13991,7 @@ latitude,longitude,city,state,county
 30.34494,-81.683107,Jacksonville,FL,Duval
 30.325739,-81.659017,Jacksonville,FL,Duval
 30.370439,-81.586394,Jacksonville,FL,Duval
-,,Jacksonville,FL,Duval
+NA,NA,Jacksonville,FL,Duval
 30.418514,-84.203379,Tallahassee,FL,Leon
 30.479347,-84.346204,Tallahassee,FL,Leon
 30.535698,-84.247698,Tallahassee,FL,Leon
@@ -14009,7 +14009,7 @@ latitude,longitude,city,state,county
 30.479347,-84.346204,Tallahassee,FL,Leon
 30.479347,-84.346204,Tallahassee,FL,Leon
 30.479347,-84.346204,Tallahassee,FL,Leon
-,,Tallahassee,FL,Leon
+NA,NA,Tallahassee,FL,Leon
 29.819333,-84.852937,Apalachicola,FL,Franklin
 30.419284,-84.97804,Bristol,FL,Liberty
 29.853775,-84.735838,Carrabelle,FL,Franklin
@@ -14096,7 +14096,7 @@ latitude,longitude,city,state,county
 29.9323,-85.235414,Port Saint Joe,FL,Gulf
 29.902484,-85.242169,Port Saint Joe,FL,Gulf
 30.513484,-86.160893,Santa Rosa Beach,FL,Walton
-30.777609,-84.955871,Sneads,FL,Jackson
+30.777609000000002,-84.955871,Sneads,FL,Jackson
 30.252531,-85.942389,Rosemary Bch,FL,Bay
 30.591268,-85.739452,Vernon,FL,Washington
 30.639134,-85.587862,Wausau,FL,Washington
@@ -14139,7 +14139,7 @@ latitude,longitude,city,state,county
 30.448726,-86.62545,Fort Walton Beach,FL,Okaloosa
 30.42057,-86.628607,Fort Walton Beach,FL,Okaloosa
 30.661155,-86.594479,Fort Walton Beach,FL,Okaloosa
-,,Destin,FL,Walton
+NA,NA,Destin,FL,Walton
 30.356287,-87.277307,Pensacola,FL,Escambia
 30.581825,-87.292918,Gonzalez,FL,Escambia
 30.669276,-87.060696,Gulf Breeze,FL,Santa Rosa
@@ -14250,26 +14250,26 @@ latitude,longitude,city,state,county
 28.744752,-81.22328,Winter Springs,FL,Seminole
 29.07198,-81.403355,Deland,FL,Volusia
 28.997288,-81.299521,Deland,FL,Volusia
-29.022729,-81.172169,Glenwood,FL,Volusia
+29.022728999999998,-81.172169,Glenwood,FL,Volusia
 29.056227,-81.096461,Deland,FL,Volusia
 28.900274,-81.245074,Deltona,FL,Volusia
 28.710129,-81.683696,Eustis,FL,Lake
 28.855517,-81.674147,Eustis,FL,Lake
-29.022729,-81.172169,Deltona,FL,Volusia
+29.022728999999998,-81.172169,Deltona,FL,Volusia
 28.651275,-81.34184,Casselberry,FL,Seminole
 28.751078,-81.107884,Geneva,FL,Seminole
-28.613308,-81.258108,Goldenrod,FL,Seminole
+28.613308,-81.258107999999993,Goldenrod,FL,Seminole
 28.904429,-81.743634,Grand Island,FL,Lake
 28.910207,-81.523516,Eustis,FL,Lake
 28.939718,-81.233099,Deltona,FL,Volusia
-29.022729,-81.172169,Deltona,FL,Volusia
+29.022728999999998,-81.172169,Deltona,FL,Volusia
 28.988027,-81.220829,Lake Helen,FL,Volusia
 28.7577,-81.350772,Lake Mary,FL,Seminole
 28.827219,-81.332888,Lake Monroe,FL,Seminole
 28.705924,-81.340639,Longwood,FL,Seminole
 28.625476,-81.36459,Maitland,FL,Orange
 28.744752,-81.22328,Longwood,FL,Seminole
-,,Debary,FL,Volusia
+NA,NA,Debary,FL,Volusia
 28.699314,-80.895344,Mims,FL,Brevard
 28.811078,-81.653642,Mount Dora,FL,Lake
 28.773952,-81.643943,Mount Dora,FL,Lake
@@ -14284,7 +14284,7 @@ latitude,longitude,city,state,county
 28.793491,-81.299169,Sanford,FL,Seminole
 28.80722,-81.250236,Sanford,FL,Seminole
 28.754582,-81.26418,Sanford,FL,Seminole
-29.022729,-81.172169,Orange City,FL,Volusia
+29.022728999999998,-81.172169,Orange City,FL,Volusia
 28.77016,-80.872042,Scottsmoor,FL,Brevard
 28.831447,-81.505121,Sorrento,FL,Lake
 28.566338,-81.260818,Tangerine,FL,Orange
@@ -14397,7 +14397,7 @@ latitude,longitude,city,state,county
 27.936416,-80.555597,Grant,FL,Brevard
 28.072093,-80.596021,Malabar,FL,Brevard
 27.953124,-80.634,Melbourne Beach,FL,Brevard
-28.276389,-80.656825,Merritt Island,FL,Brevard
+28.276389000000002,-80.656825,Merritt Island,FL,Brevard
 28.388797,-80.730088,Merritt Island,FL,Brevard
 28.22571,-80.673356,Merritt Island,FL,Brevard
 28.28714,-80.723065,Rockledge,FL,Brevard
@@ -14415,7 +14415,7 @@ latitude,longitude,city,state,county
 27.696114,-80.467458,Vero Beach,FL,Indian River
 27.588524,-80.525331,Vero Beach,FL,Indian River
 27.709049,-80.572557,Vero Beach,FL,Indian River
-27.752905,-80.474297,Wabasso,FL,Indian River
+27.752905,-80.474297000000007,Wabasso,FL,Indian River
 27.709049,-80.572557,Winter Beach,FL,Indian River
 27.867945,-80.541647,Sebastian,FL,Brevard
 27.709049,-80.572557,Sebastian,FL,Indian River
@@ -14429,7 +14429,7 @@ latitude,longitude,city,state,county
 25.859523,-80.22387,Hialeah,FL,Miami-Dade
 25.860023,-80.271571,Hialeah,FL,Miami-Dade
 25.910972,-80.290572,Hialeah,FL,Miami-Dade
-25.909923,-80.361224,Hialeah,FL,Miami-Dade
+25.909923,-80.361224000000007,Hialeah,FL,Miami-Dade
 25.891822,-80.372824,Hialeah,FL,Miami-Dade
 25.558428,-80.458168,Hialeah,FL,Miami-Dade
 25.909809,-80.388874,Hialeah,FL,Miami-Dade
@@ -14497,7 +14497,7 @@ latitude,longitude,city,state,county
 25.558428,-80.458168,Miami Beach,FL,Miami-Dade
 25.846874,-80.20827,Miami,FL,Miami-Dade
 25.558428,-80.458168,Miami,FL,Miami-Dade
-,,Miami,FL,Miami-Dade
+NA,NA,Miami,FL,Miami-Dade
 25.558428,-80.458168,Miami,FL,Miami-Dade
 25.558428,-80.458168,Miami,FL,Miami-Dade
 25.784526,-80.131967,Miami Beach,FL,Miami-Dade
@@ -14603,7 +14603,7 @@ latitude,longitude,city,state,county
 26.149662,-80.122916,Fort Lauderdale,FL,Broward
 26.165612,-80.111766,Fort Lauderdale,FL,Broward
 26.145724,-80.448254,Fort Lauderdale,FL,Broward
-26.098414,-80.182168,Fort Lauderdale,FL,Broward
+26.098413999999998,-80.182168,Fort Lauderdale,FL,Broward
 26.186109,-80.179318,Fort Lauderdale,FL,Broward
 26.144263,-80.206919,Fort Lauderdale,FL,Broward
 26.144303,-80.183868,Fort Lauderdale,FL,Broward
@@ -14695,7 +14695,7 @@ latitude,longitude,city,state,county
 26.645895,-80.430269,Jupiter,FL,Palm Beach
 26.645895,-80.430269,Lake Harbor,FL,Palm Beach
 26.619627,-80.059063,Lake Worth,FL,Palm Beach
-26.619546,-80.091704,Lake Worth,FL,Palm Beach
+26.619546,-80.091703999999993,Lake Worth,FL,Palm Beach
 26.574736,-80.079405,Lake Worth,FL,Palm Beach
 26.595537,-80.129065,Lake Worth,FL,Palm Beach
 26.645895,-80.430269,Boca Raton,FL,Palm Beach
@@ -14707,7 +14707,7 @@ latitude,longitude,city,state,county
 26.649816,-80.294771,Loxahatchee,FL,Palm Beach
 26.886471,-81.195575,Moore Haven,FL,Glades
 26.645895,-80.430269,Boynton Beach,FL,Palm Beach
-27.110182,-80.454196,Hobe Sound,FL,Martin
+27.110181999999998,-80.454196,Hobe Sound,FL,Martin
 26.623067,-80.17864,Pahokee,FL,Palm Beach
 26.645895,-80.430269,Jupiter,FL,Palm Beach
 26.645895,-80.430269,Jupiter,FL,Palm Beach
@@ -14725,7 +14725,7 @@ latitude,longitude,city,state,county
 26.39341,-80.222751,Boca Raton,FL,Palm Beach
 26.645895,-80.430269,Boca Raton,FL,Palm Beach
 27.764761,-82.273409,Balm,FL,Hillsborough
-,,Brandon,FL,Hillsborough
+NA,NA,Brandon,FL,Hillsborough
 28.119579,-82.451959,Brandon,FL,Hillsborough
 27.83083,-82.356458,Brandon,FL,Hillsborough
 27.903679,-82.294021,Brandon,FL,Hillsborough
@@ -14751,8 +14751,8 @@ latitude,longitude,city,state,county
 28.060825,-82.391666,Lutz,FL,Hillsborough
 27.871964,-82.438841,Mango,FL,Hillsborough
 28.128688,-82.584113,Odessa,FL,Hillsborough
-,,Lutz,FL,Hillsborough
-,,Lutz,FL,Hillsborough
+NA,NA,Lutz,FL,Hillsborough
+NA,NA,Lutz,FL,Hillsborough
 28.029627,-82.134741,Plant City,FL,Hillsborough
 28.082724,-82.156607,Plant City,FL,Hillsborough
 28.008056,-82.341905,Plant City,FL,Hillsborough
@@ -14868,7 +14868,7 @@ latitude,longitude,city,state,county
 27.891809,-82.724763,Saint Petersburg,FL,Pinellas
 27.891809,-82.724763,Bay Pines,FL,Pinellas
 27.891809,-82.724763,Saint Petersburg,FL,Pinellas
-27.978147,-82.781523,Clearwater,FL,Pinellas
+27.978147,-82.781523000000007,Clearwater,FL,Pinellas
 27.946998,-82.794324,Clearwater,FL,Pinellas
 27.891809,-82.724763,Clearwater,FL,Pinellas
 27.891809,-82.724763,Clearwater,FL,Pinellas
@@ -14919,7 +14919,7 @@ latitude,longitude,city,state,county
 27.955426,-81.951673,Bartow,FL,Polk
 27.601936,-81.85069,Bowling Green,FL,Hardee
 27.699258,-81.949419,Bradley,FL,Polk
-28.167211,-81.631589,Davenport,FL,Polk
+28.167211000000002,-81.631589,Davenport,FL,Polk
 28.164093,-81.647317,Davenport,FL,Polk
 28.009099,-81.677776,Dundee,FL,Polk
 28.005662,-81.702448,Eagle Lake,FL,Polk
@@ -14933,7 +14933,7 @@ latitude,longitude,city,state,county
 28.263489,-81.512387,Intercession City,FL,Osceola
 28.197539,-82.039587,Kathleen,FL,Polk
 28.092424,-81.727551,Lake Alfred,FL,Polk
-28.036937,-81.627998,Lake Hamilton,FL,Polk
+28.036937000000002,-81.627998,Lake Hamilton,FL,Polk
 27.336002,-81.36628,Lake Placid,FL,Highlands
 27.991865,-81.480831,Lake Wales,FL,Polk
 28.002553,-81.61864,Fedhaven,FL,Polk
@@ -14952,8 +14952,8 @@ latitude,longitude,city,state,county
 27.485803,-81.407884,Sebring,FL,Highlands
 27.393804,-81.287076,Sebring,FL,Highlands
 27.518602,-81.784123,Wauchula,FL,Hardee
-,,Sebring,FL,Highlands
-,,Sebring,FL,Highlands
+NA,NA,Sebring,FL,Highlands
+NA,NA,Sebring,FL,Highlands
 27.976883,-81.614414,Waverly,FL,Polk
 27.987284,-81.762456,Winter Haven,FL,Polk
 28.06374,-81.711071,Winter Haven,FL,Polk
@@ -14963,9 +14963,9 @@ latitude,longitude,city,state,county
 28.002553,-81.61864,Winter Haven,FL,Polk
 28.023115,-81.723417,Winter Haven,FL,Polk
 27.457687,-81.721609,Zolfo Springs,FL,Hardee
-,,Davenport,FL,Polk
-,,Davenport,FL,Polk
-,,Lake Wales,FL,Polk
+NA,NA,Davenport,FL,Polk
+NA,NA,Davenport,FL,Polk
+NA,NA,Lake Wales,FL,Polk
 26.564355,-81.925065,Fort Myers,FL,Lee
 26.623908,-81.883648,Fort Myers,FL,Lee
 26.693048,-81.912454,North Fort Myers,FL,Lee
@@ -15025,47 +15025,47 @@ latitude,longitude,city,state,county
 26.628091,-82.018158,Cape Coral,FL,Lee
 26.678619,-82.025384,Cape Coral,FL,Lee
 26.552895,-81.94861,Fort Myers,FL,Lee
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Apo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Apo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
-,,Fpo,AA,
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Apo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
+NA,NA,Fpo,AA,NA
 25.855534,-81.38719,Naples,FL,Collier
 26.133968,-81.795309,Naples,FL,Collier
 26.191666,-81.803944,Naples,FL,Collier
@@ -15106,8 +15106,8 @@ latitude,longitude,city,state,county
 27.467817,-82.512018,Bradenton,FL,Manatee
 27.475853,-82.616719,Bradenton,FL,Manatee
 27.473598,-82.660725,Bradenton,FL,Manatee
-,,Bradenton,FL,Manatee
-,,Bradenton,FL,Manatee
+NA,NA,Bradenton,FL,Manatee
+NA,NA,Bradenton,FL,Manatee
 27.471256,-82.682262,Cortez,FL,Manatee
 27.529113,-82.731722,Anna Maria,FL,Manatee
 27.485915,-82.710221,Bradenton Beach,FL,Manatee
@@ -15142,7 +15142,7 @@ latitude,longitude,city,state,county
 27.186075,-81.866661,Arcadia,FL,De Soto
 27.186146,-81.809939,Fort Ogden,FL,De Soto
 27.203827,-81.864443,Nocatee,FL,De Soto
-,,Arcadia,FL,De Soto
+NA,NA,Arcadia,FL,De Soto
 27.405429,-82.543519,Tallevast,FL,Manatee
 27.146963,-82.425512,Laurel,FL,Sarasota
 27.144031,-82.464468,Nokomis,FL,Sarasota
@@ -15157,8 +15157,8 @@ latitude,longitude,city,state,county
 27.09639,-82.433818,Venice,FL,Sarasota
 27.074755,-82.175602,North Port,FL,Sarasota
 27.189487,-82.334882,North Port,FL,Sarasota
-,,North Port,FL,Sarasota
-,,North Port,FL,Sarasota
+NA,NA,North Port,FL,Sarasota
+NA,NA,North Port,FL,Sarasota
 27.090034,-82.370028,Venice,FL,Sarasota
 27.060576,-82.352038,Venice,FL,Sarasota
 27.085985,-82.438918,Englewood,FL,Sarasota
@@ -15211,7 +15211,7 @@ latitude,longitude,city,state,county
 28.586197,-82.395858,Brooksville,FL,Hernando
 28.509319,-82.295675,Brooksville,FL,Hernando
 28.564167,-82.416515,Brooksville,FL,Hernando
-,,Brooksville,FL,Hernando
+NA,NA,Brooksville,FL,Hernando
 28.505896,-82.422554,Brooksville,FL,Hernando
 28.496411,-82.40101,Spring Hill,FL,Hernando
 28.504888,-82.625672,Spring Hill,FL,Hernando
@@ -15317,8 +15317,8 @@ latitude,longitude,city,state,county
 27.29076,-80.484851,Port Saint Lucie,FL,Saint Lucie
 27.386818,-80.503746,Port Saint Lucie,FL,Saint Lucie
 27.111235,-80.419042,Palm City,FL,Martin
-27.110182,-80.454196,Palm City,FL,Martin
-27.110182,-80.454196,Port Salerno,FL,Martin
+27.110181999999998,-80.454196,Palm City,FL,Martin
+27.110181999999998,-80.454196,Port Salerno,FL,Martin
 27.189748,-80.254768,Stuart,FL,Martin
 27.17537,-80.241512,Stuart,FL,Martin
 27.205819,-80.195911,Stuart,FL,Martin
@@ -15621,7 +15621,7 @@ latitude,longitude,city,state,county
 34.869601,-87.686915,Florence,AL,Lauderdale
 34.869964,-87.706859,Florence,AL,Lauderdale
 34.869964,-87.706859,Florence,AL,Lauderdale
-34.880706,-87.742362,Florence,AL,Lauderdale
+34.880706000000004,-87.742362,Florence,AL,Lauderdale
 34.900446,-87.794596,Florence,AL,Lauderdale
 34.491606,-86.934715,Hartselle,AL,Morgan
 34.635459,-87.267871,Hillsboro,AL,Lawrence
@@ -15816,7 +15816,7 @@ latitude,longitude,city,state,county
 32.346158,-86.287316,Montgomery,AL,Montgomery
 32.373788,-86.289182,Montgomery,AL,Montgomery
 32.22558,-86.290586,Montgomery,AL,Montgomery
-32.353338,-86.257517,Montgomery,AL,Montgomery
+32.353338,-86.257517000000007,Montgomery,AL,Montgomery
 32.380587,-86.280718,Montgomery,AL,Montgomery
 32.340688,-86.37382,Montgomery,AL,Montgomery
 32.390547,-86.239667,Montgomery,AL,Montgomery
@@ -15826,7 +15826,7 @@ latitude,longitude,city,state,county
 32.384587,-86.303868,Montgomery,AL,Montgomery
 32.403987,-86.253867,Montgomery,AL,Montgomery
 32.407587,-86.247417,Montgomery,AL,Montgomery
-32.285501,-86.228765,Montgomery,AL,Montgomery
+32.285500999999996,-86.228765,Montgomery,AL,Montgomery
 32.370048,-86.116486,Montgomery,AL,Montgomery
 32.233377,-86.208528,Montgomery,AL,Montgomery
 32.233377,-86.208528,Montgomery,AL,Montgomery
@@ -15891,7 +15891,7 @@ latitude,longitude,city,state,county
 31.455485,-85.633907,Ariton,AL,Dale
 31.189627,-85.262314,Ashford,AL,Houston
 31.150094,-85.813687,Bellwood,AL,Geneva
-31.096354,-85.83934,Black,AL,Geneva
+31.096354,-85.839340000000007,Black,AL,Geneva
 31.176749,-85.813483,Chancellor,AL,Geneva
 31.407872,-85.603458,Clopton,AL,Dale
 31.149764,-85.946093,Coffee Springs,AL,Geneva
@@ -16326,7 +16326,7 @@ latitude,longitude,city,state,county
 36.234304,-86.89585,Nashville,TN,Davidson
 36.161906,-86.781748,Nashville,TN,Davidson
 36.067109,-86.782098,Nashville,TN,Davidson
-36.06616,-86.963852,Nashville,TN,Davidson
+36.066160000000004,-86.963852,Nashville,TN,Davidson
 36.056164,-86.980116,Nashville,TN,Davidson
 36.186605,-86.785248,Nashville,TN,Davidson
 36.186605,-86.785248,Nashville,TN,Davidson
@@ -16455,7 +16455,7 @@ latitude,longitude,city,state,county
 35.221092,-85.209082,Chattanooga,TN,Hamilton
 35.129075,-85.265017,Chattanooga,TN,Hamilton
 35.102747,-85.182663,Chattanooga,TN,Hamilton
-35.050162,-85.340522,Chattanooga,TN,Hamilton
+35.050162,-85.340522000000007,Chattanooga,TN,Hamilton
 35.040495,-85.153781,Chattanooga,TN,Hamilton
 35.221092,-85.209082,Chattanooga,TN,Hamilton
 35.221092,-85.209082,Chattanooga,TN,Hamilton
@@ -16482,12 +16482,12 @@ latitude,longitude,city,state,county
 36.06833,-82.399677,Erwin,TN,Unicoi
 36.307671,-82.558738,Fall Branch,TN,Washington
 36.027038,-82.545757,Flag Pond,TN,Unicoi
-36.25366,-82.149749,Hampton,TN,Carter
+36.253660000000004,-82.149749,Hampton,TN,Carter
 36.289189,-82.489065,Jonesborough,TN,Washington
 36.514384,-82.547615,Kingsport,TN,Sullivan
 36.530517,-82.529816,Kingsport,TN,Sullivan
 36.47152,-82.4834,Kingsport,TN,Sullivan
-36.503789,-82.496969,Kingsport,TN,Sullivan
+36.503789,-82.496969000000007,Kingsport,TN,Sullivan
 36.579851,-82.573274,Kingsport,TN,Sullivan
 36.504158,-82.26446,Kingsport,TN,Sullivan
 36.526206,-81.796303,Laurel Bloomery,TN,Johnson
@@ -16666,7 +16666,7 @@ latitude,longitude,city,state,county
 35.633418,-89.276381,Brownsville,TN,Haywood
 35.201738,-89.971538,Brunswick,TN,Shelby
 35.551009,-89.738952,Burlison,TN,Tipton
-,,Cordova,TN,Shelby
+NA,NA,Cordova,TN,Shelby
 35.080992,-89.699083,Collierville,TN,Shelby
 35.104589,-89.900314,Cordova,TN,Shelby
 35.541624,-89.63552,Covington,TN,Tipton
@@ -16925,7 +16925,7 @@ latitude,longitude,city,state,county
 35.345882,-87.775459,Waynesboro,TN,Wayne
 35.170415,-87.402375,Westpoint,TN,Lawrence
 35.722628,-87.212698,Williamsport,TN,Maury
-35.052581,-86.717885,Taft,TN,Lincoln
+35.052581000000004,-86.717885,Taft,TN,Lincoln
 36.217846,-85.542327,Cookeville,TN,Putnam
 36.141824,-85.454779,Cookeville,TN,Putnam
 36.141824,-85.454779,Cookeville,TN,Putnam
@@ -16959,8 +16959,8 @@ latitude,longitude,city,state,county
 36.422652,-85.446431,Hilham,TN,Overton
 36.124389,-85.859146,Lancaster,TN,Smith
 36.38519,-85.329392,Livingston,TN,Overton
-,,Crossville,TN,Cumberland
-,,Crossville,TN,Cumberland
+NA,NA,Crossville,TN,Cumberland
+NA,NA,Crossville,TN,Cumberland
 36.452484,-85.229094,Monroe,TN,Overton
 36.117716,-85.234938,Monterey,TN,Putnam
 36.552546,-85.631181,Moss,TN,Clay
@@ -17006,7 +17006,7 @@ latitude,longitude,city,state,county
 34.30373,-90.429351,Jonestown,MS,Coahoma
 34.911835,-90.14603,Lake Cormorant,MS,De Soto
 34.930329,-89.399923,Lamar,MS,Marshall
-34.189235,-90.215916,Lambert,MS,Quitman
+34.189235,-90.215915999999993,Lambert,MS,Quitman
 34.461795,-90.498088,Lula,MS,Coahoma
 34.236389,-90.47941,Lyon,MS,Coahoma
 34.314968,-90.214465,Marks,MS,Quitman
@@ -17071,14 +17071,14 @@ latitude,longitude,city,state,county
 33.818742,-90.840631,Merigold,MS,Bolivar
 33.454614,-90.994264,Metcalfe,MS,Washington
 33.443386,-90.506817,Moorhead,MS,Sunflower
-33.767126,-90.846978,Mound Bayou,MS,Bolivar
+33.767126,-90.846977999999993,Mound Bayou,MS,Bolivar
 32.879795,-90.81096,Nitta Yuma,MS,Sharkey
 33.725717,-90.92728,Pace,MS,Bolivar
 32.879795,-90.81096,Panther Burn,MS,Sharkey
 34.1412,-90.7865,Rena Lara,MS,Coahoma
 33.958959,-90.477605,Rome,MS,Sunflower
 33.841892,-90.882598,Rosedale,MS,Bolivar
-33.66479,-90.555537,Ruleville,MS,Sunflower
+33.664790000000004,-90.555537,Ruleville,MS,Sunflower
 33.562871,-91.039093,Scott,MS,Bolivar
 33.608538,-90.794341,Shaw,MS,Bolivar
 33.957757,-90.74504,Shelby,MS,Bolivar
@@ -17198,9 +17198,9 @@ latitude,longitude,city,state,county
 32.812875,-90.927522,Cary,MS,Sharkey
 32.370736,-90.312371,Clinton,MS,Hinds
 32.477116,-89.26359,Conehatta,MS,Newton
-32.311287,-90.397157,Clinton,MS,Hinds
+32.311287,-90.397157000000007,Clinton,MS,Hinds
 31.965088,-90.375733,Crystal Springs,MS,Copiah
-32.311287,-90.397157,Clinton,MS,Hinds
+32.311287,-90.397157000000007,Clinton,MS,Hinds
 32.879795,-90.81096,Delta City,MS,Sharkey
 31.986101,-89.919219,D Lo,MS,Simpson
 33.071531,-89.899593,Durant,MS,Holmes
@@ -17208,7 +17208,7 @@ latitude,longitude,city,state,county
 33.08167,-89.541348,Ethel,MS,Attala
 31.731988,-91.056503,Fayette,MS,Jefferson
 32.553269,-90.326653,Flora,MS,Madison
-32.311287,-90.397157,Pocahontas,MS,Hinds
+32.311287,-90.397157000000007,Pocahontas,MS,Hinds
 32.280972,-90.003854,Florence,MS,Rankin
 32.399853,-89.505298,Forest,MS,Scott
 31.928751,-90.392603,Gallman,MS,Copiah
@@ -17290,34 +17290,34 @@ latitude,longitude,city,state,county
 32.305395,-90.176737,Jackson,MS,Hinds
 32.308595,-90.210438,Jackson,MS,Hinds
 32.30148,-90.290313,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.370044,-90.169987,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.267238,-89.958708,Pearl,MS,Rankin
 32.374632,-90.362921,Jackson,MS,Hinds
 32.321845,-90.177137,Jackson,MS,Hinds
 32.366844,-90.123786,Jackson,MS,Hinds
 32.238808,-90.28773,Jackson,MS,Hinds
 32.306096,-90.216282,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.336744,-90.216096,Jackson,MS,Hinds
 32.297396,-90.208088,Jackson,MS,Hinds
 32.215304,-90.126353,Richland,MS,Rankin
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Flowood,MS,Rankin
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Flowood,MS,Rankin
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.300296,-90.188638,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Byram,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Byram,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.313127,-89.799625,Pearl,MS,Rankin
-32.311287,-90.397157,Jackson,MS,Hinds
-32.311287,-90.397157,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
+32.311287,-90.397157000000007,Jackson,MS,Hinds
 32.319905,-89.992257,Jackson,MS,Rankin
 32.381605,-88.663489,Meridian,MS,Lauderdale
 32.431958,-88.641888,Meridian,MS,Lauderdale
@@ -17424,7 +17424,7 @@ latitude,longitude,city,state,county
 30.415795,-89.068448,Biloxi,MS,Harrison
 30.415795,-89.068448,Biloxi,MS,Harrison
 30.415795,-89.068448,Biloxi,MS,Harrison
-,,Diberville,MS,Harrison
+NA,NA,Diberville,MS,Harrison
 30.441072,-88.634482,Escatawpa,MS,Jackson
 30.421676,-88.66487,Gautier,MS,Jackson
 30.71325,-88.519743,Hurley,MS,Jackson
@@ -17579,7 +17579,7 @@ latitude,longitude,city,state,county
 38.096526,-85.758416,Fairdale,KY,Jefferson
 37.552184,-86.483592,Falls Of Rough,KY,Grayson
 37.899466,-85.952833,Fort Knox,KY,Hardin
-,,Hillview,KY,Bullitt
+NA,NA,Hillview,KY,Bullitt
 37.802295,-86.414768,Garfield,KY,Breckinridge
 37.889946,-86.199842,Guston,KY,Meade
 37.751214,-86.45371,Hardinsburg,KY,Breckinridge
@@ -17703,7 +17703,7 @@ latitude,longitude,city,state,county
 38.217248,-84.213426,Paris,KY,Bourbon
 38.219407,-84.205944,Paris,KY,Bourbon
 38.5218,-85.013882,Perry Park,KY,Owen
-38.086673,-83.757123,Preston,KY,Bath
+38.086673,-83.757123000000007,Preston,KY,Bath
 38.383618,-84.553016,Sadieville,KY,Scott
 38.10437,-83.621715,Salt Lick,KY,Bath
 37.866351,-84.884036,Salvisa,KY,Mercer
@@ -17876,7 +17876,7 @@ latitude,longitude,city,state,county
 36.810109,-83.894888,Barbourville,KY,Knox
 36.769184,-83.708181,Beverly,KY,Bell
 37.147687,-83.737014,Big Creek,KY,Clay
-36.908172,-83.789161,Bimble,KY,Knox
+36.908172,-83.789161000000007,Bimble,KY,Knox
 36.871254,-83.829985,Bryants Store,KY,Knox
 36.871254,-83.829985,Cannon,KY,Knox
 36.88452,-83.030287,Closplint,KY,Harlan
@@ -17980,7 +17980,7 @@ latitude,longitude,city,state,county
 38.370285,-82.694757,Ashland,KY,Boyd
 38.511714,-82.872362,Argillite,KY,Greenup
 38.074113,-82.744663,Blaine,KY,Lawrence
-38.602881,-83.361625,Camp Dix,KY,Lewis
+38.602880999999996,-83.361625,Camp Dix,KY,Lewis
 38.433912,-83.133597,Carter,KY,Carter
 38.349127,-82.649833,Catlettsburg,KY,Boyd
 38.259701,-82.856231,Denton,KY,Carter
@@ -18147,7 +18147,7 @@ latitude,longitude,city,state,county
 37.512564,-82.818388,Eastern,KY,Floyd
 37.472094,-82.834287,Garrett,KY,Floyd
 37.457565,-82.664491,Grethel,KY,Floyd
-37.589246,-82.945214,Gunlock,KY,Magoffin
+37.589246,-82.945213999999993,Gunlock,KY,Magoffin
 37.580715,-82.677387,Harold,KY,Floyd
 37.428614,-82.714841,Hi Hat,KY,Floyd
 37.508668,-82.851807,Hueysville,KY,Floyd
@@ -18237,12 +18237,12 @@ latitude,longitude,city,state,county
 37.397578,-82.783552,Dema,KY,Knott
 37.387621,-82.836144,Raven,KY,Knott
 37.348498,-82.792578,Topmost,KY,Knott
-,,Migrate,KY,Fayette
-,,Migrate,KY,Fayette
-,,Migrate,KY,Fayette
-,,Migrate,KY,Fayette
-,,Migrate,KY,Fayette
-,,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
+NA,NA,Migrate,KY,Fayette
 37.031586,-88.713292,Paducah,KY,Mccracken
 37.085511,-88.71247,Paducah,KY,Mccracken
 37.015159,-88.581289,Paducah,KY,Mccracken
@@ -18305,7 +18305,7 @@ latitude,longitude,city,state,county
 36.866699,-86.348542,Alvaton,KY,Warren
 36.815869,-85.992039,Austin,KY,Barren
 36.857666,-85.649583,Beaumont,KY,Metcalfe
-37.10279,-85.908887,Cave City,KY,Barren
+37.10279,-85.908886999999993,Cave City,KY,Barren
 36.983441,-86.394012,Drake,KY,Warren
 37.000783,-85.609522,Edmonton,KY,Metcalfe
 36.91297,-85.775282,Eighty Eight,KY,Barren
@@ -18647,8 +18647,8 @@ latitude,longitude,city,state,county
 39.94886,-83.309892,West Jefferson,OH,Madison
 39.7631,-82.447024,West Rushville,OH,Fairfield
 39.604282,-83.126646,Williamsport,OH,Pickaway
-,,Groveport,OH,Franklin
-,,Groveport,OH,Franklin
+NA,NA,Groveport,OH,Franklin
+NA,NA,Groveport,OH,Franklin
 39.969036,-83.011389,Groveport,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
@@ -18672,12 +18672,12 @@ latitude,longitude,city,state,county
 39.969036,-83.011389,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
-40.080339,-82.928604,Columbus,OH,Franklin
+40.080339,-82.928604000000007,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
 39.922863,-82.858048,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
 40.095713,-82.962671,Columbus,OH,Franklin
-40.034713,-82.872611,Columbus,OH,Franklin
+40.034713000000004,-82.872611,Columbus,OH,Franklin
 40.084463,-82.933811,Columbus,OH,Franklin
 39.922663,-82.85664,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
@@ -18697,7 +18697,7 @@ latitude,longitude,city,state,county
 39.969036,-83.011389,Columbus,OH,Franklin
 39.969036,-83.011389,Columbus,OH,Franklin
 40.616604,-83.069296,Marion,OH,Marion
-40.584028,-83.101687,Marion,OH,Marion
+40.584028000000004,-83.101687,Marion,OH,Marion
 40.56941,-83.139341,Marion,OH,Marion
 40.56941,-83.139341,Marion,OH,Marion
 40.491005,-83.752068,Belle Center,OH,Logan
@@ -18713,7 +18713,7 @@ latitude,longitude,city,state,county
 40.541659,-83.230407,Green Camp,OH,Marion
 40.7346,-83.253668,Harpster,OH,Wyandot
 40.43991,-83.809604,Huntsville,OH,Logan
-40.60796,-82.872954,Iberia,OH,Morrow
+40.60796,-82.872953999999993,Iberia,OH,Morrow
 40.6401,-83.616923,Kenton,OH,Hardin
 40.813023,-83.419606,Kirby,OH,Wyandot
 40.501851,-83.92023,Lakeview,OH,Logan
@@ -18925,7 +18925,7 @@ latitude,longitude,city,state,county
 40.039201,-81.452164,Old Washington,OH,Guernsey
 39.822159,-81.954582,Philo,OH,Muskingum
 39.918285,-81.551647,Pleasant City,OH,Guernsey
-40.040755,-81.313561,Quaker City,OH,Guernsey
+40.040755,-81.313561000000007,Quaker City,OH,Guernsey
 39.821869,-82.039389,Roseville,OH,Muskingum
 40.015591,-81.373692,Salesville,OH,Guernsey
 39.816285,-81.428046,Sarahsville,OH,Noble
@@ -18960,7 +18960,7 @@ latitude,longitude,city,state,county
 40.260579,-80.789377,Adena,OH,Jefferson
 39.894917,-80.980056,Alledonia,OH,Belmont
 40.486354,-80.84505,Amsterdam,OH,Jefferson
-40.107367,-80.84441,Barton,OH,Belmont
+40.107367000000004,-80.84441,Barton,OH,Belmont
 39.991864,-80.805716,Bellaire,OH,Belmont
 40.263163,-81.030687,Cadiz,OH,Harrison
 40.50022,-80.856529,Bergholz,OH,Jefferson
@@ -19132,7 +19132,7 @@ latitude,longitude,city,state,county
 41.445145,-81.921811,Westlake,OH,Cuyahoga
 41.389054,-81.536842,Bedford,OH,Cuyahoga
 41.314053,-81.673099,Broadview Heights,OH,Cuyahoga
-,,Strongsville,OH,Cuyahoga
+NA,NA,Strongsville,OH,Cuyahoga
 41.685744,-81.672797,Cleveland,OH,Cuyahoga
 41.685744,-81.672797,Cleveland,OH,Cuyahoga
 41.685744,-81.672797,Cleveland,OH,Cuyahoga
@@ -19200,7 +19200,7 @@ latitude,longitude,city,state,county
 41.233736,-81.917187,Valley City,OH,Medina
 41.071841,-81.751008,Wadsworth,OH,Medina
 41.132725,-81.929185,Wadsworth,OH,Medina
-41.159706,-81.070017,Wayland,OH,Portage
+41.159706,-81.070017000000007,Wayland,OH,Portage
 41.235492,-81.621093,Richfield,OH,Summit
 40.925084,-82.070909,West Salem,OH,Wayne
 41.239066,-81.096118,Windham,OH,Portage
@@ -19503,7 +19503,7 @@ latitude,longitude,city,state,county
 39.440956,-84.575746,Hamilton,OH,Butler
 39.440956,-84.575746,Hamilton,OH,Butler
 39.244275,-84.736254,Harrison,OH,Hamilton
-39.501283,-84.006729,Harveysburg,OH,Warren
+39.501283,-84.006729000000007,Harveysburg,OH,Warren
 39.177259,-84.762731,Hooven,OH,Hamilton
 39.357963,-84.247288,Kings Mills,OH,Warren
 39.429284,-84.173507,Lebanon,OH,Warren
@@ -19624,7 +19624,7 @@ latitude,longitude,city,state,county
 39.210001,-84.395046,Cincinnati,OH,Hamilton
 39.19069,-84.447342,Cincinnati,OH,Hamilton
 39.109209,-84.610845,Cincinnati,OH,Hamilton
-39.201708,-84.621296,Cincinnati,OH,Hamilton
+39.201707999999996,-84.621296,Cincinnati,OH,Hamilton
 39.284357,-84.439066,Cincinnati,OH,Hamilton
 39.263837,-84.409191,Cincinnati,OH,Hamilton
 39.244659,-84.345489,Cincinnati,OH,Hamilton
@@ -19654,7 +19654,7 @@ latitude,longitude,city,state,county
 39.166759,-84.53822,Cincinnati,OH,Hamilton
 38.946921,-83.862877,Cincinnati,OH,Brown
 39.166759,-84.53822,Cincinnati,OH,Hamilton
-,,Cincinnati,OH,
+NA,NA,Cincinnati,OH,NA
 39.166759,-84.53822,Cincinnati,OH,Hamilton
 39.166759,-84.53822,Cincinnati,OH,Hamilton
 39.262158,-84.509268,Cincinnati,OH,Hamilton
@@ -20160,7 +20160,7 @@ latitude,longitude,city,state,county
 39.779492,-86.132837,Indianapolis,IN,Marion
 39.897708,-86.009447,Indianapolis,IN,Marion
 39.667045,-85.998092,Indianapolis,IN,Marion
-39.89384,-86.137988,Indianapolis,IN,Marion
+39.89384,-86.137988000000007,Indianapolis,IN,Marion
 39.779492,-86.132837,Indianapolis,IN,Marion
 39.868173,-86.21231,Indianapolis,IN,Marion
 39.779492,-86.132837,Indianapolis,IN,Marion
@@ -20174,7 +20174,7 @@ latitude,longitude,city,state,county
 39.93731,-86.199445,Indianapolis,IN,Hamilton
 39.779492,-86.132837,Indianapolis,IN,Marion
 39.779492,-86.132837,Indianapolis,IN,Marion
-,,Indianapolis,IN,Marion
+NA,NA,Indianapolis,IN,Marion
 39.779492,-86.132837,Indianapolis,IN,Marion
 41.683796,-86.975178,Beverly Shores,IN,Porter
 41.354186,-87.130431,Boone Grove,IN,Porter
@@ -20187,7 +20187,7 @@ latitude,longitude,city,state,county
 41.640835,-87.46149,East Chicago,IN,Lake
 41.522129,-87.390338,Griffith,IN,Lake
 41.444246,-87.487242,Hammond,IN,Lake
-41.550535,-87.502585,Munster,IN,Lake
+41.550535000000004,-87.502585,Munster,IN,Lake
 41.577699,-87.47744,Highland,IN,Lake
 41.590519,-87.45644,Hammond,IN,Lake
 41.585185,-87.496665,Hammond,IN,Lake
@@ -20487,7 +20487,7 @@ latitude,longitude,city,state,county
 40.564673,-85.765569,Sweetser,IN,Grant
 40.866096,-86.233899,Twelve Mile,IN,Cass
 40.455985,-85.62512,Upland,IN,Grant
-40.886571,-85.736386,Urbana,IN,Wabash
+40.886571000000004,-85.736386,Urbana,IN,Wabash
 40.617379,-85.514796,Van Buren,IN,Grant
 40.801867,-85.791823,Wabash,IN,Wabash
 40.677128,-86.260927,Walton,IN,Cass
@@ -20552,7 +20552,7 @@ latitude,longitude,city,state,county
 38.286819,-85.732062,Jeffersonville,IN,Clark
 38.286819,-85.732062,Jeffersonville,IN,Clark
 38.039957,-86.06555,Laconia,IN,Harrison
-38.227684,-85.990389,Lanesville,IN,Harrison
+38.227684000000004,-85.990389,Lanesville,IN,Harrison
 38.195771,-86.368905,Leavenworth,IN,Crawford
 38.671281,-85.6333,Lexington,IN,Scott
 38.600666,-86.078828,Little York,IN,Washington
@@ -20569,7 +20569,7 @@ latitude,longitude,city,state,county
 38.148843,-86.049282,New Middletown,IN,Harrison
 38.328025,-86.105996,New Salisbury,IN,Harrison
 38.550289,-85.486131,New Washington,IN,Clark
-38.535058,-85.669829,Otisco,IN,Clark
+38.535058,-85.669828999999993,Otisco,IN,Clark
 38.380353,-86.105954,Palmyra,IN,Harrison
 38.512878,-86.010567,Pekin,IN,Washington
 38.303364,-86.168979,Ramsey,IN,Harrison
@@ -20601,8 +20601,8 @@ latitude,longitude,city,state,county
 38.734755,-85.376804,Hanover,IN,Jefferson
 39.218578,-85.717648,Hartsville,IN,Bartholomew
 39.001301,-85.619906,Hayden,IN,Jennings
-39.20336,-85.787611,Hope,IN,Bartholomew
-39.059349,-85.888579,Jonesville,IN,Bartholomew
+39.203360000000004,-85.787611,Hope,IN,Bartholomew
+39.059349,-85.888578999999993,Jonesville,IN,Bartholomew
 38.897974,-86.056681,Kurtz,IN,Jackson
 38.804552,-85.420605,Madison,IN,Jefferson
 38.84003,-86.194693,Medora,IN,Jackson
@@ -20818,7 +20818,7 @@ latitude,longitude,city,state,county
 38.306265,-87.514796,Oakland City,IN,Gibson
 38.272833,-87.681174,Owensville,IN,Gibson
 38.401233,-87.583761,Patoka,IN,Gibson
-38.303369,-87.534003,Princeton,IN,Gibson
+38.303369000000004,-87.534003,Princeton,IN,Gibson
 38.281095,-87.37734,Somerville,IN,Gibson
 37.997128,-87.574963,Evansville,IN,Vanderburgh
 37.997128,-87.574963,Evansville,IN,Vanderburgh
@@ -20936,7 +20936,7 @@ latitude,longitude,city,state,county
 40.813168,-86.619353,Burnettsville,IN,White
 39.927176,-87.471616,Cayuga,IN,Vermillion
 40.754782,-86.934599,Chalmers,IN,White
-40.250791,-86.75244,Clarks Hill,IN,Tippecanoe
+40.250791,-86.752440000000007,Clarks Hill,IN,Tippecanoe
 40.096833,-87.352877,Covington,IN,Fountain
 40.042425,-86.893538,Crawfordsville,IN,Montgomery
 40.040014,-86.893614,Crawfordsville,IN,Montgomery
@@ -20956,7 +20956,7 @@ latitude,longitude,city,state,county
 40.809887,-86.739391,Idaville,IN,White
 40.794191,-87.439821,Kentland,IN,Newton
 40.017364,-87.256877,Kingman,IN,Fountain
-40.050732,-86.855491,Ladoga,IN,Montgomery
+40.050731999999996,-86.855491,Ladoga,IN,Montgomery
 40.191498,-86.901826,Linden,IN,Montgomery
 41.072624,-86.849745,Medaryville,IN,Pulaski
 40.164139,-87.14754,Mellott,IN,Fountain
@@ -21057,9 +21057,9 @@ latitude,longitude,city,state,county
 42.526935,-82.884117,Saint Clair Shores,MI,Macomb
 42.555985,-83.119206,Troy,MI,Oakland
 42.554751,-83.17688,Troy,MI,Oakland
-,,Troy,MI,Oakland
+NA,NA,Troy,MI,Oakland
 42.660091,-83.3863,Southfield,MI,Oakland
-,,Warren,MI,Macomb
+NA,NA,Warren,MI,Macomb
 42.474786,-82.995121,Warren,MI,Macomb
 42.672322,-82.903065,Warren,MI,Macomb
 42.470938,-83.054623,Warren,MI,Macomb
@@ -21583,7 +21583,7 @@ latitude,longitude,city,state,county
 42.731384,-84.553698,Lansing,MI,Ingham
 42.748734,-84.559029,Lansing,MI,Ingham
 42.599184,-84.371973,Lansing,MI,Ingham
-,,Lansing,MI,Ingham
+NA,NA,Lansing,MI,Ingham
 42.732535,-84.558679,Lansing,MI,Ingham
 42.599184,-84.371973,Lansing,MI,Ingham
 42.261596,-85.510095,Kalamazoo,MI,Kalamazoo
@@ -21630,7 +21630,7 @@ latitude,longitude,city,state,county
 42.174485,-86.071429,Decatur,MI,Van Buren
 42.532723,-85.384885,Delton,MI,Barry
 41.961597,-86.019304,Dowagiac,MI,Cass
-,,Kalamazoo,MI,Kalamazoo
+NA,NA,Kalamazoo,MI,Kalamazoo
 42.605588,-85.339902,Dowling,MI,Barry
 42.1779,-85.234287,East Leroy,MI,Calhoun
 42.13344,-85.342481,Fulton,MI,Kalamazoo
@@ -22232,7 +22232,7 @@ latitude,longitude,city,state,county
 40.736644,-93.785839,Garden Grove,IA,Decatur
 41.480854,-92.371164,Gibson,IA,Keokuk
 42.114752,-93.63986,Gilbert,IA,Story
-41.987444,-92.963098,Gilman,IA,Marshall
+41.987444000000004,-92.963098,Gilman,IA,Marshall
 42.035745,-94.242288,Grand Junction,IA,Greene
 40.819397,-93.962986,Grand River,IA,Decatur
 41.761574,-93.853297,Granger,IA,Dallas
@@ -22332,7 +22332,7 @@ latitude,longitude,city,state,county
 42.140911,-93.174505,Saint Anthony,IA,Marshall
 41.289336,-93.862695,Saint Charles,IA,Madison
 41.308413,-93.736916,Saint Marys,IA,Warren
-41.569631,-92.654204,Searsboro,IA,Poweshiek
+41.569631,-92.654203999999993,Searsboro,IA,Poweshiek
 41.857068,-93.697325,Sheldahl,IA,Polk
 41.8925,-93.664006,Slater,IA,Story
 42.296671,-93.776637,Stanhope,IA,Hamilton
@@ -22388,7 +22388,7 @@ latitude,longitude,city,state,county
 41.630449,-93.753628,Urbandale,IA,Polk
 41.62938,-93.771676,Urbandale,IA,Polk
 41.607588,-93.744905,Clive,IA,Polk
-,,Des Moines,IA,Polk
+NA,NA,Des Moines,IA,Polk
 41.672687,-93.572173,Des Moines,IA,Polk
 41.672687,-93.572173,Des Moines,IA,Polk
 41.672687,-93.572173,Des Moines,IA,Polk
@@ -22488,9 +22488,9 @@ latitude,longitude,city,state,county
 43.306166,-94.251434,Bancroft,IA,Kossuth
 42.552043,-94.369181,Barnum,IA,Webster
 42.863891,-94.295698,Bode,IA,Humboldt
-42.801126,-94.358387,Bradgate,IA,Humboldt
+42.801125999999996,-94.358387,Bradgate,IA,Humboldt
 42.346605,-94.116205,Burnside,IA,Webster
-43.183395,-94.177422,Burt,IA,Kossuth
+43.183395,-94.177422000000007,Burt,IA,Kossuth
 42.347134,-94.280864,Callender,IA,Webster
 42.514307,-94.212455,Clare,IA,Webster
 42.703045,-93.745623,Clarion,IA,Wright
@@ -22570,7 +22570,7 @@ latitude,longitude,city,state,county
 43.059926,-92.789058,Charles City,IA,Floyd
 42.793119,-92.653238,Clarksville,IA,Butler
 43.110765,-92.744821,Colwell,IA,Floyd
-42.261859,-92.913373,Conrad,IA,Grundy
+42.261859,-92.913373000000007,Conrad,IA,Grundy
 42.686195,-92.387102,Denver,IA,Bremer
 42.525282,-92.220701,Dewar,IA,Black Hawk
 42.377438,-92.713296,Dike,IA,Grundy
@@ -22686,7 +22686,7 @@ latitude,longitude,city,state,county
 42.487916,-95.430208,Galva,IA,Ida
 42.974677,-96.086114,Granville,IA,Sioux
 43.022799,-96.263075,Hawarden,IA,Sioux
-42.625126,-96.299512,Hinton,IA,Plymouth
+42.625126,-96.299511999999993,Hinton,IA,Plymouth
 42.443085,-95.530596,Holstein,IA,Ida
 42.300778,-96.092119,Hornick,IA,Woodbury
 43.039676,-96.303174,Ireton,IA,Sioux
@@ -22864,7 +22864,7 @@ latitude,longitude,city,state,county
 41.382994,-95.721535,Underwood,IA,Pottawattamie
 41.418923,-95.302966,Walnut,IA,Pottawattamie
 41.719899,-95.395187,Westphalia,IA,Shelby
-41.745172,-95.716704,Woodbine,IA,Harrison
+41.745172,-95.716703999999993,Woodbine,IA,Harrison
 41.030256,-95.156205,Red Oak,IA,Montgomery
 41.332943,-95.587197,Harlan,IA,Shelby
 40.718258,-95.16372,Shenandoah,IA,Page
@@ -22884,7 +22884,7 @@ latitude,longitude,city,state,county
 40.742301,-95.761779,Percival,IA,Fremont
 40.847951,-95.537377,Randolph,IA,Fremont
 40.662884,-95.577257,Riverton,IA,Fremont
-40.65747,-95.024969,Shambaugh,IA,Page
+40.657470000000004,-95.024969,Shambaugh,IA,Page
 40.77152,-95.626355,Sidney,IA,Fremont
 40.822599,-95.694406,Tabor,IA,Fremont
 40.79334,-95.758636,Thurman,IA,Fremont
@@ -23161,7 +23161,7 @@ latitude,longitude,city,state,county
 40.977395,-91.692312,Rome,IA,Henry
 41.010776,-91.43819,Mount Union,IA,Henry
 40.907221,-91.527126,New London,IA,Henry
-41.117324,-91.074161,Oakville,IA,Louisa
+41.117324000000004,-91.074161,Oakville,IA,Louisa
 41.146979,-91.544426,Olds,IA,Henry
 40.594704,-91.415648,Pilot Grove,IA,Lee
 40.857375,-91.610895,Salem,IA,Henry
@@ -23255,7 +23255,7 @@ latitude,longitude,city,state,county
 43.772128,-88.041299,Glenbeulah,WI,Sheboygan
 43.299956,-87.94104,Grafton,WI,Ozaukee
 43.718294,-87.618716,Greenbush,WI,Sheboygan
-43.357616,-88.319032,Hartford,WI,Washington
+43.357616,-88.319032000000007,Hartford,WI,Washington
 43.123679,-88.336087,Hartland,WI,Waukesha
 43.639395,-87.915705,Hingham,WI,Sheboygan
 43.422045,-88.624268,Horicon,WI,Dodge
@@ -23634,7 +23634,7 @@ latitude,longitude,city,state,county
 43.459309,-88.754483,Waupun,WI,Dodge
 43.848698,-89.478459,Westfield,WI,Marquette
 43.568982,-89.44168,Wisconsin Dells,WI,Columbia
-43.690867,-90.203595,Wonewoc,WI,Juneau
+43.690867,-90.203595000000007,Wonewoc,WI,Juneau
 43.498907,-89.30497,Wyocena,WI,Columbia
 45.348566,-92.401379,Amery,WI,Polk
 44.969171,-92.441061,Baldwin,WI,Saint Croix
@@ -23649,7 +23649,7 @@ latitude,longitude,city,state,county
 45.11453,-92.276235,Emerald,WI,Saint Croix
 45.060365,-92.248403,Glenwood City,WI,Saint Croix
 44.655504,-92.573652,Hager City,WI,Pierce
-44.966939,-92.456512,Hammond,WI,Saint Croix
+44.966939000000004,-92.456512,Hammond,WI,Saint Croix
 44.971853,-92.481156,Hudson,WI,Saint Croix
 45.090925,-92.496993,New Richmond,WI,Saint Croix
 45.283783,-92.535618,Osceola,WI,Polk
@@ -23699,7 +23699,7 @@ latitude,longitude,city,state,county
 45.579448,-87.918821,Niagara,WI,Marinette
 44.566799,-88.458164,Nichols,WI,Outagamie
 44.897088,-88.082586,Oconto,WI,Oconto
-44.901999,-88.125829,Oconto Falls,WI,Oconto
+44.901999000000004,-88.125829,Oconto Falls,WI,Oconto
 44.447167,-88.23333,Oneida,WI,Outagamie
 45.392437,-87.904337,Pembine,WI,Marinette
 45.174269,-87.902,Peshtigo,WI,Marinette
@@ -23881,7 +23881,7 @@ latitude,longitude,city,state,county
 46.396613,-90.309085,Montreal,WI,Iron
 45.846473,-90.360373,Park Falls,WI,Price
 46.092807,-89.257762,Phelps,WI,Vilas
-45.724607,-90.370984,Phillips,WI,Price
+45.724607,-90.370984000000007,Phillips,WI,Price
 45.532944,-90.28166,Prentice,WI,Price
 46.200011,-89.738691,Presque Isle,WI,Vilas
 45.942092,-89.686925,Saint Germain,WI,Vilas
@@ -24213,7 +24213,7 @@ latitude,longitude,city,state,county
 45.021016,-92.983726,Stillwater,MN,Washington
 45.457557,-92.733042,Taylors Falls,MN,Chisago
 44.674799,-92.968309,Vermillion,MN,Dakota
-44.239946,-93.397354,Warsaw,MN,Rice
+44.239946,-93.397354000000007,Warsaw,MN,Rice
 44.500341,-93.382574,Webster,MN,Rice
 44.575372,-92.704731,Welch,MN,Goodhue
 45.053466,-92.957034,Willernie,MN,Washington
@@ -24239,7 +24239,7 @@ latitude,longitude,city,state,county
 44.941415,-93.010714,Saint Paul,MN,Ramsey
 44.870365,-93.143369,Saint Paul,MN,Dakota
 44.822093,-93.15908,Saint Paul,MN,Dakota
-44.786018,-93.220205,Saint Paul,MN,Dakota
+44.786018,-93.220205000000007,Saint Paul,MN,Dakota
 44.805989,-93.140878,Saint Paul,MN,Dakota
 44.749701,-93.202881,Saint Paul,MN,Dakota
 44.919716,-92.943876,Saint Paul,MN,Washington
@@ -24512,8 +24512,8 @@ latitude,longitude,city,state,county
 46.2263,-92.705581,Bruno,MN,Pine
 47.493197,-92.764262,Buhl,MN,Saint Louis
 47.322883,-93.276267,Calumet,MN,Itasca
-47.0686,-92.442794,Canyon,MN,Saint Louis
-46.622795,-92.675569,Carlton,MN,Carlton
+47.068600000000004,-92.442794,Canyon,MN,Saint Louis
+46.622795000000004,-92.675569,Carlton,MN,Carlton
 47.563308,-92.443251,Chisholm,MN,Saint Louis
 46.592512,-92.549564,Cloquet,MN,Carlton
 47.238241,-93.516501,Cohasset,MN,Itasca
@@ -24592,7 +24592,7 @@ latitude,longitude,city,state,county
 43.972494,-92.389901,Rochester,MN,Olmsted
 43.996613,-92.540929,Rochester,MN,Olmsted
 43.98622,-92.302649,Rochester,MN,Olmsted
-44.022513,-92.466826,Rochester,MN,Olmsted
+44.022512999999996,-92.466826,Rochester,MN,Olmsted
 44.107815,-92.405294,Rochester,MN,Olmsted
 43.565168,-92.74389,Adams,MN,Mower
 44.085616,-91.946134,Altura,MN,Winona
@@ -24940,7 +24940,7 @@ latitude,longitude,city,state,county
 45.745866,-94.124878,Rice,MN,Benton
 45.460536,-94.536053,Richmond,MN,Stearns
 45.468679,-94.340582,Rockville,MN,Stearns
-45.426781,-94.633502,Roscoe,MN,Stearns
+45.426781,-94.633501999999993,Roscoe,MN,Stearns
 45.52886,-94.593338,Saint Cloud,MN,Stearns
 45.871308,-94.161377,Royalton,MN,Morrison
 45.614235,-94.350962,Saint Joseph,MN,Stearns
@@ -24955,7 +24955,7 @@ latitude,longitude,city,state,county
 45.719299,-95.225097,Villard,MN,Pope
 45.989733,-93.620235,Wahkon,MN,Mille Lacs
 45.510622,-94.667422,Waite Park,MN,Stearns
-,,Waite Park,MN,Stearns
+NA,NA,Waite Park,MN,Stearns
 45.799542,-95.08213,West Union,MN,Todd
 45.52886,-94.593338,Saint Cloud,MN,Stearns
 45.52886,-94.593338,Saint Cloud,MN,Stearns
@@ -25112,7 +25112,7 @@ latitude,longitude,city,state,county
 46.994097,-94.243551,Longville,MN,Cass
 47.548518,-93.62356,Marcell,MN,Itasca
 48.27888,-93.755536,Margie,MN,Koochiching
-47.661759,-94.015607,Max,MN,Itasca
+47.661759000000004,-94.015607,Max,MN,Itasca
 47.933964,-94.23693,Mizpah,MN,Koochiching
 47.919215,-94.097415,Northome,MN,Koochiching
 46.879043,-93.918172,Outing,MN,Cass
@@ -25134,7 +25134,7 @@ latitude,longitude,city,state,county
 47.974989,-95.008708,Tenstrike,MN,Beltrami
 47.836367,-96.3504,Trail,MN,Polk
 47.974989,-95.008708,Waskish,MN,Beltrami
-48.820843,-94.933138,Williams,MN,Lake Of The Woods
+48.820843000000004,-94.933138,Williams,MN,Lake Of The Woods
 47.974989,-95.008708,Wilton,MN,Beltrami
 47.746177,-93.962961,Wirt,MN,Itasca
 48.076333,-96.149002,Thief River Falls,MN,Pennington
@@ -25264,7 +25264,7 @@ latitude,longitude,city,state,county
 43.521895,-96.868464,Buffalo Ridge,SD,Minnehaha
 43.674582,-96.79134,Sioux Falls,SD,Minnehaha
 43.674582,-96.79134,Sioux Falls,SD,Minnehaha
-,,Sioux Falls,SD,Minnehaha
+NA,NA,Sioux Falls,SD,Minnehaha
 43.674582,-96.79134,Sioux Falls,SD,Minnehaha
 43.674582,-96.79134,Sioux Falls,SD,Minnehaha
 43.674582,-96.79134,Sioux Falls,SD,Minnehaha
@@ -25583,7 +25583,7 @@ latitude,longitude,city,state,county
 45.578941,-103.493668,Redig,SD,Harding
 44.691005,-102.587048,Red Owl,SD,Meade
 44.117606,-103.761058,Rochford,SD,Pennington
-44.547307,-103.723214,Saint Onge,SD,Lawrence
+44.547307000000004,-103.723214,Saint Onge,SD,Lawrence
 43.788416,-102.346797,Scenic,SD,Pennington
 43.239655,-103.527757,Smithwick,SD,Fall River
 44.467137,-103.772331,Spearfish,SD,Lawrence
@@ -25769,7 +25769,7 @@ latitude,longitude,city,state,county
 47.71736,-98.898693,New Rockford,ND,Eddy
 47.949694,-99.133201,Oberon,ND,Benson
 48.089537,-100.164357,Orrin,ND,Pierce
-47.798489,-98.364994,Pekin,ND,Nelson
+47.798488999999996,-98.364994,Pekin,ND,Nelson
 48.275494,-99.070415,Penn,ND,Ramsey
 48.754621,-99.438351,Perth,ND,Towner
 48.844548,-99.26309,Rocklake,ND,Towner
@@ -25777,7 +25777,7 @@ latitude,longitude,city,state,county
 48.826826,-99.786546,Rolla,ND,Rolette
 48.254504,-99.989912,Rugby,ND,Pierce
 48.880498,-99.734073,Saint John,ND,Rolette
-47.985595,-98.849264,Saint Michael,ND,Benson
+47.985595000000004,-98.849264,Saint Michael,ND,Benson
 48.77178,-98.464102,Sarles,ND,Cavalier
 47.761272,-98.90997,Sheyenne,ND,Eddy
 48.449321,-98.760596,Starkweather,ND,Ramsey
@@ -25818,7 +25818,7 @@ latitude,longitude,city,state,county
 47.479529,-100.14659,Goodrich,ND,Sheridan
 47.457057,-98.702131,Grace City,ND,Foster
 47.378619,-98.350201,Hannaford,ND,Griggs
-47.472804,-99.937233,Hurdsfield,ND,Wells
+47.472803999999996,-99.937233,Hurdsfield,ND,Wells
 47.456477,-98.230415,Jessie,ND,Griggs
 46.551079,-98.86671,Jud,ND,Lamoure
 47.240135,-98.753458,Kensal,ND,Stutsman
@@ -25854,7 +25854,7 @@ latitude,longitude,city,state,county
 46.768695,-98.565136,Ypsilanti,ND,Stutsman
 46.981207,-100.502724,Bismarck,ND,Burleigh
 46.8887,-100.681855,Bismarck,ND,Burleigh
-,,Bismarck,ND,Burleigh
+NA,NA,Bismarck,ND,Burleigh
 46.829938,-100.45598,Bismarck,ND,Burleigh
 46.816543,-100.780505,Bismarck,ND,Burleigh
 46.980475,-100.520063,Bismarck,ND,Burleigh
@@ -25941,7 +25941,7 @@ latitude,longitude,city,state,county
 48.245267,-101.301179,Minot,ND,Ward
 47.926998,-100.284856,Anamoose,ND,Mchenry
 48.813251,-101.227611,Antler,ND,Bottineau
-47.992915,-100.497516,Balfour,ND,Mchenry
+47.992915000000004,-100.497516,Balfour,ND,Mchenry
 48.528579,-100.635538,Bantry,ND,Mchenry
 47.761315,-101.109594,Benedict,ND,Mclean
 48.306397,-101.686644,Berthold,ND,Ward
@@ -26035,7 +26035,7 @@ latitude,longitude,city,state,county
 46.212579,-107.693279,Custer,MT,Yellowstone
 45.518708,-107.481697,Decker,MT,Big Horn
 45.444257,-108.848692,Edgar,MT,Carbon
-45.270789,-110.792071,Emigrant,MT,Park
+45.270789,-110.79207100000001,Emigrant,MT,Park
 45.410217,-109.771658,Fishtail,MT,Stillwater
 45.398686,-108.817298,Fromberg,MT,Carbon
 45.114735,-110.809991,Gardiner,MT,Park
@@ -26539,7 +26539,7 @@ latitude,longitude,city,state,county
 41.811929,-87.68732,Forest Park,IL,Cook
 41.93598,-87.884962,Franklin Park,IL,Cook
 41.839679,-88.088716,Carol Stream,IL,Du Page
-,,Hanover Park,IL,Cook
+NA,NA,Hanover Park,IL,Cook
 41.97974,-88.406165,Geneva,IL,Kane
 42.10153,-88.718101,Genoa,IL,De Kalb
 42.102524,-88.379932,Gilberts,IL,Kane
@@ -26561,7 +26561,7 @@ latitude,longitude,city,state,county
 41.811929,-87.68732,Maywood,IL,Cook
 41.811929,-87.68732,Westchester,IL,Cook
 41.811929,-87.68732,Broadview,IL,Cook
-,,Lake In The Hills,IL,Mchenry
+NA,NA,Lake In The Hills,IL,Mchenry
 41.839679,-88.088716,Medinah,IL,Du Page
 41.811929,-87.68732,Schaumburg,IL,Cook
 41.91488,-87.858707,Melrose Park,IL,Cook
@@ -26611,7 +26611,7 @@ latitude,longitude,city,state,county
 41.811929,-87.68732,Oak Park,IL,Cook
 41.811929,-87.68732,Oak Park,IL,Cook
 41.811929,-87.68732,River Forest,IL,Cook
-,,Bensenville,IL,Du Page
+NA,NA,Bensenville,IL,Du Page
 41.356872,-87.626723,Beecher,IL,Will
 41.811929,-87.68732,Berwyn,IL,Cook
 41.811929,-87.68732,Blue Island,IL,Cook
@@ -26827,12 +26827,12 @@ latitude,longitude,city,state,county
 41.811929,-87.68732,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
-,,Chicago,IL,Cook
+NA,NA,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
 42.096428,-87.71791,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
-,,Chicago,IL,Cook
+NA,NA,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
 41.811929,-87.68732,Chicago,IL,Cook
@@ -26880,7 +26880,7 @@ latitude,longitude,city,state,county
 40.897321,-88.186897,Kempton,IL,Ford
 40.537227,-87.9663,Loda,IL,Iroquois
 40.370897,-88.152546,Ludlow,IL,Champaign
-41.173292,-87.87675,Manteno,IL,Kankakee
+41.173292000000004,-87.87675,Manteno,IL,Kankakee
 40.931202,-87.747179,Martinton,IL,Iroquois
 40.537915,-88.299338,Melvin,IL,Ford
 40.75071,-87.695039,Milford,IL,Iroquois
@@ -26893,7 +26893,7 @@ latitude,longitude,city,state,county
 41.099001,-88.198405,Reddick,IL,Kankakee
 40.57087,-88.234682,Roberts,IL,Ford
 40.363126,-87.682897,Rossville,IL,Vermilion
-41.068206,-87.687329,Saint Anne,IL,Kankakee
+41.068206000000004,-87.687329,Saint Anne,IL,Kankakee
 40.75308,-87.58941,Sheldon,IL,Iroquois
 40.748087,-87.82876,Stockland,IL,Iroquois
 40.673257,-88.099724,Thawville,IL,Iroquois
@@ -27090,7 +27090,7 @@ latitude,longitude,city,state,county
 41.222005,-88.989972,Tonica,IL,La Salle
 41.499089,-89.021881,Triumph,IL,La Salle
 41.451786,-89.070516,Troy Grove,IL,La Salle
-41.411759,-89.008197,Utica,IL,La Salle
+41.411759000000004,-89.008197,Utica,IL,La Salle
 41.366883,-89.513065,Van Orin,IL,Bureau
 41.033886,-89.255983,Varna,IL,Marshall
 41.453979,-89.478453,Walnut,IL,Bureau
@@ -27231,7 +27231,7 @@ latitude,longitude,city,state,county
 40.742537,-89.627948,Peoria,IL,Peoria
 40.768117,-89.602647,Peoria,IL,Peoria
 40.766087,-89.644982,Peoria,IL,Peoria
-,,Peoria,IL,Peoria
+NA,NA,Peoria,IL,Peoria
 40.696287,-89.616648,Peoria,IL,Peoria
 40.744179,-89.718401,Peoria,IL,Peoria
 40.692037,-89.588747,Peoria,IL,Peoria
@@ -27357,7 +27357,7 @@ latitude,longitude,city,state,county
 40.050289,-88.597923,Monticello,IL,Piatt
 40.116478,-87.844689,Muncie,IL,Vermilion
 40.133222,-87.756376,Oakwood,IL,Vermilion
-40.069274,-88.105359,Ogden,IL,Champaign
+40.069274,-88.105359000000007,Ogden,IL,Champaign
 40.305199,-87.966332,Penfield,IL,Champaign
 40.090766,-88.1675,Pesotum,IL,Champaign
 40.011073,-88.151394,Philo,IL,Champaign
@@ -27608,7 +27608,7 @@ latitude,longitude,city,state,county
 39.97863,-91.21256,Paloma,IL,Adams
 39.829819,-91.286815,Payson,IL,Adams
 39.460514,-90.627114,Pearl,IL,Pike
-39.78247,-90.747978,Perry,IL,Pike
+39.782470000000004,-90.747978,Perry,IL,Pike
 39.615433,-90.798482,Pittsfield,IL,Pike
 39.935995,-91.232952,Plainville,IL,Adams
 39.447008,-90.87168,Pleasant Hill,IL,Pike
@@ -27648,7 +27648,7 @@ latitude,longitude,city,state,county
 39.434607,-88.805278,Lakewood,IL,Shelby
 38.685176,-87.634235,Lawrenceville,IL,Lawrence
 39.418401,-88.270006,Lerna,IL,Coles
-39.331139,-87.747363,Marshall,IL,Clark
+39.331139,-87.747363000000007,Marshall,IL,Clark
 39.325782,-87.850086,Martinsville,IL,Clark
 38.95267,-88.635111,Mason,IL,Effingham
 39.434607,-88.805278,Mode,IL,Shelby
@@ -28041,7 +28041,7 @@ latitude,longitude,city,state,county
 38.512803,-90.630576,Eureka,MO,Saint Louis
 38.529903,-90.46737,Fenton,MO,Saint Louis
 38.270941,-90.413534,Festus,MO,Jefferson
-38.170261,-90.718536,Fletcher,MO,Jefferson
+38.170261000000004,-90.718536,Fletcher,MO,Jefferson
 38.805499,-90.351314,Florissant,MO,Saint Louis
 38.638318,-90.427118,Florissant,MO,Saint Louis
 38.796049,-90.274512,Florissant,MO,Saint Louis
@@ -28105,7 +28105,7 @@ latitude,longitude,city,state,county
 38.581401,-90.268563,Saint Louis,MO,Saint Louis City
 38.629452,-90.334215,Saint Louis,MO,Saint Louis
 38.593751,-90.222012,Saint Louis,MO,Saint Louis City
-38.589302,-90.348116,Saint Louis,MO,Saint Louis
+38.589302000000004,-90.348116,Saint Louis,MO,Saint Louis
 38.6901,-90.259212,Saint Louis,MO,Saint Louis City
 38.70715,-90.305463,Saint Louis,MO,Saint Louis
 38.578052,-90.42563,Saint Louis,MO,Saint Louis
@@ -28152,7 +28152,7 @@ latitude,longitude,city,state,county
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
-,,Saint Louis,MO,Saint Louis City
+NA,NA,Saint Louis,MO,Saint Louis City
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
 38.6531,-90.243462,Saint Louis,MO,Saint Louis City
@@ -28184,7 +28184,7 @@ latitude,longitude,city,state,county
 39.440073,-91.088401,Louisiana,MO,Pike
 38.651157,-91.151576,Marthasville,MO,Warren
 39.104548,-91.382863,Middletown,MO,Montgomery
-38.94604,-91.472754,Montgomery City,MO,Montgomery
+38.946040000000004,-91.472754,Montgomery City,MO,Montgomery
 38.948248,-90.913818,Moscow Mills,MO,Lincoln
 38.892612,-91.453372,New Florence,MO,Montgomery
 38.716287,-90.875127,New Melle,MO,Saint Charles
@@ -28202,7 +28202,7 @@ latitude,longitude,city,state,county
 38.808454,-91.2166,Warrenton,MO,Warren
 39.073061,-91.533545,Wellsville,MO,Montgomery
 38.79067,-90.852228,Wentzville,MO,Saint Charles
-38.83275,-90.403416,West Alton,MO,Saint Charles
+38.83275,-90.403415999999993,West Alton,MO,Saint Charles
 39.185508,-91.022733,Whiteside,MO,Lincoln
 38.887421,-91.768887,Williamsburg,MO,Callaway
 39.058354,-90.850945,Winfield,MO,Lincoln
@@ -28218,7 +28218,7 @@ latitude,longitude,city,state,county
 39.74294,-92.26344,Clarence,MO,Shelby
 39.975702,-91.665056,Durham,MO,Lewis
 39.779288,-92.069741,Emden,MO,Shelby
-40.008146,-91.710266,Ewing,MO,Lewis
+40.008146000000004,-91.710266,Ewing,MO,Lewis
 39.466564,-91.332846,Frankford,MO,Pike
 40.453333,-92.1474,Granger,MO,Scotland
 39.667948,-91.858547,Hunnewell,MO,Shelby
@@ -28326,12 +28326,12 @@ latitude,longitude,city,state,county
 37.284366,-89.571485,Cape Girardeau,MO,Cape Girardeau
 37.366166,-89.643941,Cape Girardeau,MO,Cape Girardeau
 37.001191,-90.033351,Advance,MO,Stoddard
-37.627908,-89.574503,Altenburg,MO,Perry
+37.627908,-89.574503000000007,Altenburg,MO,Perry
 36.992886,-89.789402,Bell City,MO,Stoddard
 37.025936,-89.538588,Benton,MO,Scott
 37.663253,-89.652912,Brazeau,MO,Perry
 37.082824,-89.952257,Brownwood,MO,Stoddard
-37.353526,-89.793056,Burfordville,MO,Cape Girardeau
+37.353526,-89.793056000000007,Burfordville,MO,Cape Girardeau
 37.151512,-89.610468,Chaffee,MO,Scott
 37.156982,-89.448389,Commerce,MO,Scott
 37.515722,-89.826775,Daisy,MO,Cape Girardeau
@@ -28449,7 +28449,7 @@ latitude,longitude,city,state,county
 36.922108,-91.052088,Van Buren,MO,Carter
 36.974454,-90.277511,Wappapello,MO,Wayne
 37.119566,-90.444953,Williamsville,MO,Wayne
-39.105644,-93.590916,Alma,MO,Lafayette
+39.105644,-93.590915999999993,Alma,MO,Lafayette
 38.974639,-94.063718,Bates City,MO,Lafayette
 38.784041,-94.532397,Belton,MO,Cass
 38.964518,-94.370275,Blue Springs,MO,Jackson
@@ -28471,7 +28471,7 @@ latitude,longitude,city,state,county
 39.221835,-93.938595,Henrietta,MO,Ray
 39.063374,-93.74083,Higginsville,MO,Lafayette
 38.74013,-93.995995,Holden,MO,Johnson
-39.333967,-94.391095,Holt,MO,Clay
+39.333967,-94.391095000000007,Holt,MO,Clay
 39.107798,-94.409828,Independence,MO,Jackson
 39.080369,-94.387956,Independence,MO,Jackson
 39.075554,-94.451179,Independence,MO,Jackson
@@ -28488,7 +28488,7 @@ latitude,longitude,city,state,county
 38.987374,-94.333116,Lees Summit,MO,Jackson
 38.966641,-94.392885,Lees Summit,MO,Jackson
 39.129238,-94.133715,Levasy,MO,Jackson
-39.14086,-93.849284,Lexington,MO,Lafayette
+39.140860000000004,-93.849284,Lexington,MO,Lafayette
 39.298945,-94.436314,Liberty,MO,Clay
 39.282869,-94.408998,Liberty,MO,Clay
 38.894304,-94.168262,Lone Jack,MO,Jackson
@@ -28514,7 +28514,7 @@ latitude,longitude,city,state,county
 38.765833,-94.160854,Strasburg,MO,Cass
 39.228875,-94.805673,Waldron,MO,Platte
 38.769906,-93.811697,Warrensburg,MO,Johnson
-39.188917,-93.586904,Waverly,MO,Lafayette
+39.188917000000004,-93.586904,Waverly,MO,Lafayette
 39.131379,-93.992983,Wellington,MO,Lafayette
 39.377692,-94.928011,Weston,MO,Platte
 39.102404,-94.598583,Kansas City,MO,Jackson
@@ -28804,7 +28804,7 @@ latitude,longitude,city,state,county
 37.252361,-94.431555,Neck City,MO,Jasper
 36.904539,-94.372328,Neosho,MO,Newton
 36.828416,-94.152072,Newtonia,MO,Newton
-36.579739,-94.457864,Noel,MO,Mcdonald
+36.579738999999996,-94.457864,Noel,MO,Mcdonald
 37.271703,-94.486518,Oronogo,MO,Jasper
 36.573955,-94.377022,Pineville,MO,Mcdonald
 37.216855,-94.374764,Purcell,MO,Jasper
@@ -29039,7 +29039,7 @@ latitude,longitude,city,state,county
 38.130967,-91.794844,Vichy,MO,Maries
 38.16992,-91.968002,Vienna,MO,Maries
 37.767552,-92.210471,Waynesville,MO,Pulaski
-,,Saint Robert,MO,Pulaski
+NA,NA,Saint Robert,MO,Pulaski
 37.858464,-91.426693,Wesco,MO,Crawford
 36.998455,-91.331701,Winona,MO,Shannon
 37.23762,-91.82048,Yukon,MO,Texas
@@ -29266,7 +29266,7 @@ latitude,longitude,city,state,county
 38.564337,-95.282668,Ottawa,KS,Franklin
 39.17715,-95.456501,Ozawkie,KS,Jefferson
 38.577932,-94.880328,Paola,KS,Miami
-38.255903,-94.852908,Parker,KS,Linn
+38.255903000000004,-94.852908,Parker,KS,Linn
 39.229717,-95.396681,Perry,KS,Jefferson
 38.176349,-94.713323,Pleasanton,KS,Linn
 38.61504,-95.3418,Pomona,KS,Franklin
@@ -29680,7 +29680,7 @@ latitude,longitude,city,state,county
 37.845078,-97.335537,Valley Center,KS,Sedgwick
 37.583241,-97.519347,Viola,KS,Sedgwick
 37.140233,-98.238653,Waldron,KS,Harper
-38.123189,-97.244464,Walton,KS,Harvey
+38.123189000000004,-97.244464,Walton,KS,Harvey
 37.280877,-97.42223,Wellington,KS,Sumner
 37.977983,-97.088361,Whitewater,KS,Butler
 37.191758,-99.272769,Wilmore,KS,Comanche
@@ -29770,7 +29770,7 @@ latitude,longitude,city,state,county
 39.349452,-97.164849,Clay Center,KS,Clay
 39.263098,-97.714625,Delphos,KS,Ottawa
 39.449456,-98.581432,Downs,KS,Osborne
-38.523968,-97.251974,Durham,KS,Marion
+38.523968000000004,-97.251974,Durham,KS,Marion
 38.696579,-98.205437,Ellsworth,KS,Ellsworth
 38.889721,-97.09319,Enterprise,KS,Dickinson
 38.69098,-97.787364,Falun,KS,Saline
@@ -30096,7 +30096,7 @@ latitude,longitude,city,state,county
 41.291736,-96.171104,Omaha,NE,Douglas
 41.291736,-96.171104,Omaha,NE,Douglas
 41.291736,-96.171104,Omaha,NE,Douglas
-,,Omaha,NE,Douglas
+NA,NA,Omaha,NE,Douglas
 41.291736,-96.171104,Omaha,NE,Douglas
 40.45603,-96.513526,Adams,NE,Gage
 40.244068,-97.386612,Alexandria,NE,Thayer
@@ -30267,7 +30267,7 @@ latitude,longitude,city,state,county
 41.593378,-96.675369,Dodge,NE,Dodge
 41.393146,-97.595435,Duncan,NE,Platte
 41.066016,-97.114365,Dwight,NE,Butler
-41.982761,-98.083714,Elgin,NE,Antelope
+41.982761000000004,-98.083714,Elgin,NE,Antelope
 41.779992,-98.679988,Ericson,NE,Wheeler
 41.414475,-97.899889,Fullerton,NE,Nance
 41.445863,-97.732584,Genoa,NE,Nance
@@ -30426,7 +30426,7 @@ latitude,longitude,city,state,county
 40.893539,-98.102223,Phillips,NE,Hamilton
 40.960145,-99.121861,Pleasanton,NE,Buffalo
 40.960075,-98.902302,Ravenna,NE,Buffalo
-40.829478,-99.126061,Riverdale,NE,Buffalo
+40.829478,-99.126061000000007,Riverdale,NE,Buffalo
 41.117178,-98.832654,Rockville,NE,Sherman
 41.096855,-98.450297,Saint Libory,NE,Howard
 41.232405,-98.503283,Saint Paul,NE,Howard
@@ -30852,7 +30852,7 @@ latitude,longitude,city,state,county
 29.867131,-91.539372,Charenton,LA,Saint Mary
 30.575361,-92.287372,Chataignier,LA,Evangeline
 30.382556,-92.318696,Church Point,LA,Acadia
-30.228294,-92.438484,Crowley,LA,Acadia
+30.228294000000002,-92.438484,Crowley,LA,Acadia
 30.228409,-92.301795,Crowley,LA,Acadia
 29.984693,-91.987226,Delcambre,LA,Vermilion
 30.187978,-92.168953,Duson,LA,Lafayette
@@ -30874,7 +30874,7 @@ latitude,longitude,city,state,county
 30.543842,-92.160849,Lawtell,LA,Saint Landry
 30.475194,-91.973736,Leonville,LA,Saint Landry
 30.052016,-91.683294,Loreauville,LA,Iberia
-30.714716,-92.425103,Mamou,LA,Evangeline
+30.714716,-92.425102999999993,Mamou,LA,Evangeline
 30.074655,-92.147849,Maurice,LA,Vermilion
 30.186145,-92.572176,Mermentau,LA,Acadia
 30.098819,-92.064797,Milton,LA,Lafayette
@@ -30939,7 +30939,7 @@ latitude,longitude,city,state,county
 30.528185,-93.148903,Ragley,LA,Beauregard
 30.511148,-93.036823,Reeves,LA,Allen
 30.923606,-93.195312,Rosepine,LA,Vernon
-30.593966,-93.369139,Singer,LA,Beauregard
+30.593966000000002,-93.369139,Singer,LA,Beauregard
 30.312173,-93.643003,Starks,LA,Calcasieu
 30.803752,-93.010616,Sugartown,LA,Beauregard
 30.300185,-93.435063,Sulphur,LA,Calcasieu
@@ -31039,7 +31039,7 @@ latitude,longitude,city,state,county
 30.4731,-91.037528,Baton Rouge,LA,East Baton Rouge
 30.467539,-91.012194,Baton Rouge,LA,East Baton Rouge
 30.373042,-91.176156,Baton Rouge,LA,East Baton Rouge
-30.461252,-91.044723,Baton Rouge,LA,East Baton Rouge
+30.461252000000002,-91.044723,Baton Rouge,LA,East Baton Rouge
 30.51589,-91.080373,Baton Rouge,LA,East Baton Rouge
 30.51589,-91.080373,Baton Rouge,LA,East Baton Rouge
 30.51589,-91.080373,Baton Rouge,LA,East Baton Rouge
@@ -31432,7 +31432,7 @@ latitude,longitude,city,state,county
 33.397484,-93.434895,Buckner,AR,Lafayette
 33.70082,-93.294126,Cale,AR,Nevada
 33.793524,-93.807007,Columbus,AR,Hempstead
-34.050929,-94.28072,De Queen,AR,Sevier
+34.050928999999996,-94.28072,De Queen,AR,Sevier
 34.136218,-94.044286,Dierks,AR,Howard
 33.441724,-94.023737,Doddridge,AR,Miller
 33.761471,-93.42928,Emmet,AR,Nevada
@@ -31537,7 +31537,7 @@ latitude,longitude,city,state,county
 35.568709,-92.41875,Clinton,AR,Van Buren
 35.146446,-92.376466,Conway,AR,Faulkner
 35.105306,-92.354915,Conway,AR,Faulkner
-,,Conway,AR,Faulkner
+NA,NA,Conway,AR,Faulkner
 35.105306,-92.354915,Conway,AR,Faulkner
 35.004397,-91.252284,Cotton Plant,AR,Woodruff
 34.541185,-91.875767,Coy,AR,Lonoke
@@ -31629,7 +31629,7 @@ latitude,longitude,city,state,county
 35.57727,-92.545572,Scotland,AR,Van Buren
 34.670904,-92.152336,Scott,AR,Pulaski
 35.243622,-91.731729,Searcy,AR,White
-35.277393,-91.732556,Searcy,AR,White
+35.277393000000004,-91.732556,Searcy,AR,White
 35.247376,-91.73139,Searcy,AR,White
 34.306936,-92.398709,Sheridan,AR,Grant
 34.363527,-91.927642,Sherrill,AR,Jefferson
@@ -31652,7 +31652,7 @@ latitude,longitude,city,state,county
 35.510638,-91.864757,Wilburn,AR,Cleburne
 34.533557,-92.221807,Woodson,AR,Pulaski
 35.187728,-92.449953,Wooster,AR,Faulkner
-34.429059,-92.059863,Wright,AR,Jefferson
+34.429059,-92.059863000000007,Wright,AR,Jefferson
 34.751918,-92.392487,Wrightsville,AR,Pulaski
 35.179148,-91.259428,Mc Crory,AR,Woodruff
 34.751918,-92.392487,North Little Rock,AR,Pulaski
@@ -31679,7 +31679,7 @@ latitude,longitude,city,state,county
 34.751918,-92.392487,Little Rock,AR,Pulaski
 34.775747,-92.372386,Little Rock,AR,Pulaski
 34.80189,-92.189397,Little Rock,AR,Pulaski
-,,Little Rock,AR,Pulaski
+NA,NA,Little Rock,AR,Pulaski
 34.751918,-92.392487,Little Rock,AR,Pulaski
 35.210811,-90.203849,West Memphis,AR,Crittenden
 35.137366,-90.285543,West Memphis,AR,Crittenden
@@ -31755,7 +31755,7 @@ latitude,longitude,city,state,county
 35.779183,-90.766012,Jonesboro,AR,Craighead
 35.952057,-91.030074,Alicia,AR,Lawrence
 35.810496,-90.641731,Bay,AR,Craighead
-36.128069,-90.691421,Beech Grove,AR,Greene
+36.128069000000004,-90.691421,Beech Grove,AR,Greene
 36.284433,-90.853751,Biggers,AR,Randolph
 35.836846,-90.400484,Black Oak,AR,Craighead
 36.132344,-91.187361,Black Rock,AR,Lawrence
@@ -31857,7 +31857,7 @@ latitude,longitude,city,state,county
 35.820825,-92.038894,Mountain View,AR,Stone
 35.961824,-91.819741,Mount Pleasant,AR,Izard
 35.732409,-91.42517,Newark,AR,Independence
-35.59985,-91.475445,Oil Trough,AR,Independence
+35.599850000000004,-91.475445,Oil Trough,AR,Independence
 36.064329,-91.944673,Oxford,AR,Izard
 36.157991,-92.112983,Pineville,AR,Izard
 35.91896,-92.127207,Pleasant Grove,AR,Stone
@@ -31923,7 +31923,7 @@ latitude,longitude,city,state,county
 35.924868,-93.232298,Ponca,AR,Newton
 36.248623,-92.841645,Pyatt,AR,Marion
 35.908381,-92.699416,Saint Joe,AR,Searcy
-36.267239,-92.685913,Summit,AR,Marion
+36.267238999999996,-92.685913,Summit,AR,Marion
 35.706942,-92.843116,Tilly,AR,Pope
 35.91896,-92.127207,Timbo,AR,Stone
 36.148259,-92.989569,Valley Springs,AR,Boone
@@ -31946,7 +31946,7 @@ latitude,longitude,city,state,county
 36.033601,-93.704255,Combs,AR,Madison
 36.321366,-94.462415,Decatur,AR,Benton
 35.972331,-93.997572,Elkins,AR,Washington
-36.210013,-94.254573,Elm Springs,AR,Washington
+36.210012999999996,-94.254573,Elm Springs,AR,Washington
 35.80515,-94.460202,Evansville,AR,Washington
 36.081641,-94.209785,Farmington,AR,Washington
 36.365048,-94.184187,Garfield,AR,Benton
@@ -32228,7 +32228,7 @@ latitude,longitude,city,state,county
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
-,,Oklahoma City,OK,Oklahoma
+NA,NA,Oklahoma City,OK,Oklahoma
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
 35.551409,-97.407537,Oklahoma City,OK,Oklahoma
@@ -32295,7 +32295,7 @@ latitude,longitude,city,state,county
 34.609391,-98.406833,Elgin,OK,Comanche
 34.481717,-99.347951,Elmer,OK,Jackson
 34.630879,-98.457646,Faxon,OK,Comanche
-34.826905,-98.228076,Fletcher,OK,Comanche
+34.826904999999996,-98.228076,Fletcher,OK,Comanche
 34.386281,-99.001688,Frederick,OK,Tillman
 34.482402,-98.381879,Geronimo,OK,Comanche
 34.768632,-99.833341,Gould,OK,Harmon
@@ -32334,7 +32334,7 @@ latitude,longitude,city,state,county
 35.63862,-99.00005,Butler,OK,Custer
 35.418882,-99.280304,Canute,OK,Washita
 35.26946,-99.680146,Carter,OK,Beckham
-35.608071,-99.672542,Cheyenne,OK,Roger Mills
+35.608071,-99.672542000000007,Cheyenne,OK,Roger Mills
 35.232961,-99.05841,Cordell,OK,Washita
 35.717616,-99.682177,Crawford,OK,Roger Mills
 35.62389,-98.912212,Custer City,OK,Custer
@@ -32377,7 +32377,7 @@ latitude,longitude,city,state,county
 36.379072,-97.782595,Carrier,OK,Garfield
 36.665351,-98.366783,Cherokee,OK,Alfalfa
 36.4053,-98.453278,Cleo Springs,OK,Major
-36.30749,-97.58643,Covington,OK,Garfield
+36.30749,-97.586429999999993,Covington,OK,Garfield
 36.662062,-98.562972,Dacoma,OK,Woods
 36.379072,-97.782595,Douglas,OK,Garfield
 35.982319,-97.912342,Dover,OK,Kingfisher
@@ -32902,7 +32902,7 @@ latitude,longitude,city,state,county
 33.17679,-96.958293,Little Elm,TX,Denton
 33.141438,-96.588295,Mc Kinney,TX,Collin
 33.230381,-96.627018,Mc Kinney,TX,Collin
-,,Mc Kinney,TX,Collin
+NA,NA,Mc Kinney,TX,Collin
 33.109044,-96.578819,Plano,TX,Collin
 33.162417,-96.71546,Plano,TX,Collin
 33.817503,-96.676191,Pottsboro,TX,Grayson
@@ -32931,7 +32931,7 @@ latitude,longitude,city,state,county
 32.767268,-96.777626,Cedar Hill,TX,Dallas
 32.243775,-96.414423,Chatfield,TX,Navarro
 32.767268,-96.777626,Cedar Hill,TX,Dallas
-,,Corsicana,TX,Navarro
+NA,NA,Corsicana,TX,Navarro
 32.059928,-96.369648,Corsicana,TX,Navarro
 32.661312,-96.444347,Crandall,TX,Kaufman
 32.620585,-96.822778,Desoto,TX,Dallas
@@ -33038,7 +33038,7 @@ latitude,longitude,city,state,county
 32.895102,-96.734178,Dallas,TX,Dallas
 32.986259,-96.768049,Dallas,TX,Dallas
 32.672132,-96.60847,Dallas,TX,Dallas
-,,Dallas,TX,Dallas
+NA,NA,Dallas,TX,Dallas
 32.767268,-96.777626,Dallas,TX,Dallas
 32.767268,-96.777626,Dallas,TX,Dallas
 32.767268,-96.777626,Dallas,TX,Dallas
@@ -33133,7 +33133,7 @@ latitude,longitude,city,state,county
 33.344751,-95.74361,Cooper,TX,Delta
 33.136079,-95.844353,Cumby,TX,Hopkins
 33.65973,-95.582906,Cunningham,TX,Lamar
-33.530359,-95.318244,Deport,TX,Lamar
+33.530359,-95.318244000000007,Deport,TX,Lamar
 33.664645,-95.262837,Detroit,TX,Red River
 33.168606,-95.585464,Dike,TX,Hopkins
 33.57047,-96.054433,Dodd City,TX,Fannin
@@ -33168,7 +33168,7 @@ latitude,longitude,city,state,county
 33.792741,-95.522757,Powderly,TX,Lamar
 32.934537,-96.121946,Quinlan,TX,Hunt
 33.484594,-96.254127,Randolph,TX,Fannin
-33.670261,-96.276105,Ravenna,TX,Fannin
+33.670261000000004,-96.276105,Ravenna,TX,Fannin
 33.544969,-95.721734,Roxton,TX,Lamar
 33.168606,-95.585464,Saltillo,TX,Hopkins
 33.555782,-96.27085,Savoy,TX,Fannin
@@ -33223,9 +33223,9 @@ latitude,longitude,city,state,county
 32.493577,-94.827415,Longview,TX,Gregg
 32.505708,-94.718839,Longview,TX,Gregg
 32.369393,-94.616062,Longview,TX,Gregg
-32.51121,-94.783493,Longview,TX,Gregg
+32.51121,-94.783493000000007,Longview,TX,Gregg
 32.570051,-94.848063,Longview,TX,Gregg
-32.51121,-94.783493,Longview,TX,Gregg
+32.51121,-94.783493000000007,Longview,TX,Gregg
 32.895799,-94.574658,Avinger,TX,Cass
 32.233362,-94.456952,Beckville,TX,Panola
 32.183133,-94.309189,Carthage,TX,Panola
@@ -33234,11 +33234,11 @@ latitude,longitude,city,state,county
 33.044611,-94.739524,Daingerfield,TX,Morris
 32.259146,-94.21128,De Berry,TX,Panola
 32.769819,-94.703213,Diana,TX,Upshur
-32.51121,-94.783493,Easton,TX,Gregg
+32.51121,-94.783493000000007,Easton,TX,Gregg
 32.386275,-94.210541,Elysian Fields,TX,Harrison
 32.033446,-94.380023,Gary,TX,Panola
 32.712654,-94.909365,Gilmer,TX,Upshur
-,,Gilmer,TX,Upshur
+NA,NA,Gilmer,TX,Upshur
 32.477189,-94.9327,Gladewater,TX,Gregg
 32.526928,-94.573183,Hallsville,TX,Harrison
 32.676919,-94.531537,Harleton,TX,Harrison
@@ -33249,7 +33249,7 @@ latitude,longitude,city,state,county
 32.805853,-94.365546,Jefferson,TX,Marion
 32.195927,-94.906515,Joinerville,TX,Rusk
 32.507491,-94.110636,Jonesville,TX,Harrison
-32.51121,-94.783493,Judson,TX,Gregg
+32.51121,-94.783493000000007,Judson,TX,Gregg
 32.65575,-94.154735,Karnack,TX,Harrison
 32.410306,-94.793392,Kilgore,TX,Gregg
 32.386976,-94.895098,Kilgore,TX,Gregg
@@ -33289,7 +33289,7 @@ latitude,longitude,city,state,county
 32.411237,-95.289903,Tyler,TX,Smith
 32.27795,-95.067302,Arp,TX,Smith
 32.188097,-95.882391,Athens,TX,Henderson
-,,Athens,TX,Henderson
+NA,NA,Athens,TX,Henderson
 32.423029,-95.712867,Ben Wheeler,TX,Van Zandt
 32.571552,-95.057746,Big Sandy,TX,Upshur
 32.232783,-95.575732,Brownsboro,TX,Henderson
@@ -33322,7 +33322,7 @@ latitude,longitude,city,state,county
 32.411237,-95.289903,Tyler,TX,Smith
 31.848542,-95.685179,Palestine,TX,Anderson
 31.926836,-95.579561,Palestine,TX,Anderson
-,,Palestine,TX,Anderson
+NA,NA,Palestine,TX,Anderson
 31.412142,-95.990369,Buffalo,TX,Leon
 31.794191,-95.661964,Cayuga,TX,Anderson
 31.363103,-95.899965,Centerville,TX,Leon
@@ -33390,9 +33390,9 @@ latitude,longitude,city,state,county
 31.699494,-94.607432,Nacogdoches,TX,Nacogdoches
 31.604573,-94.664127,Nacogdoches,TX,Nacogdoches
 31.673736,-94.693206,Nacogdoches,TX,Nacogdoches
-,,Nacogdoches,TX,Nacogdoches
+NA,NA,Nacogdoches,TX,Nacogdoches
 30.838608,-93.767911,Newton,TX,Newton
-31.24817,-93.973106,Pineland,TX,Sabine
+31.248169999999998,-93.973106,Pineland,TX,Sabine
 31.440245,-94.869754,Pollok,TX,Angelina
 31.548122,-94.111751,San Augustine,TX,San Augustine
 31.774637,-94.152946,Shelbyville,TX,Shelby
@@ -33463,7 +33463,7 @@ latitude,longitude,city,state,county
 33.092103,-97.480329,Rhome,TX,Wise
 32.80864,-97.693195,Springtown,TX,Parker
 32.455147,-97.141191,Venus,TX,Johnson
-,,Weatherford,TX,Parker
+NA,NA,Weatherford,TX,Parker
 32.780766,-97.806778,Weatherford,TX,Parker
 32.753927,-97.786026,Weatherford,TX,Parker
 32.847803,-97.860618,Weatherford,TX,Parker
@@ -33542,8 +33542,8 @@ latitude,longitude,city,state,county
 33.169379,-97.150558,Denton,TX,Denton
 33.238378,-97.203975,Denton,TX,Denton
 33.160393,-97.095421,Denton,TX,Denton
-,,Denton,TX,Denton
-,,Denton,TX,Denton
+NA,NA,Denton,TX,Denton
+NA,NA,Denton,TX,Denton
 33.355828,-97.708353,Alvord,TX,Wise
 33.215066,-97.164644,Argyle,TX,Denton
 33.278066,-97.01748,Aubrey,TX,Denton
@@ -34198,7 +34198,7 @@ latitude,longitude,city,state,county
 29.555831,-95.788479,Richmond,TX,Fort Bend
 29.60466,-96.524899,Rock Island,TX,Colorado
 29.555889,-95.858475,Rosenberg,TX,Fort Bend
-29.792014,-96.097261,San Felipe,TX,Austin
+29.792014000000002,-96.097261,San Felipe,TX,Austin
 29.845826,-96.317806,Sealy,TX,Austin
 29.60466,-96.524899,Sheridan,TX,Colorado
 29.667486,-95.965953,Simonton,TX,Fort Bend
@@ -34403,7 +34403,7 @@ latitude,longitude,city,state,county
 28.961388,-96.501501,Francitas,TX,Jackson
 28.988713,-96.456421,Ganado,TX,Jackson
 28.664092,-97.460854,Goliad,TX,Goliad
-29.418431,-96.93942,Hallettsville,TX,Lavaca
+29.418431000000002,-96.93942,Hallettsville,TX,Lavaca
 29.098894,-97.365742,Hochheim,TX,De Witt
 28.851753,-96.857725,Inez,TX,Victoria
 28.851185,-96.681608,La Salle,TX,Jackson
@@ -34429,7 +34429,7 @@ latitude,longitude,city,state,county
 28.845526,-96.581962,Vanderbilt,TX,Jackson
 28.835825,-97.444155,Weesatche,TX,Goliad
 29.102107,-97.328361,Westhoff,TX,De Witt
-29.297302,-97.047148,Yoakum,TX,Lavaca
+29.297302,-97.047148000000007,Yoakum,TX,Lavaca
 28.338951,-99.098369,Artesia Wells,TX,La Salle
 29.279376,-98.735851,Atascosa,TX,Bexar
 29.724328,-99.104014,Bandera,TX,Bandera
@@ -34513,7 +34513,7 @@ latitude,longitude,city,state,county
 28.424535,-97.732736,Mineral,TX,Bee
 29.776488,-98.221041,New Braunfels,TX,Comal
 29.79918,-98.338419,New Braunfels,TX,Comal
-29.756508,-98.198321,New Braunfels,TX,Comal
+29.756508,-98.198321000000007,New Braunfels,TX,Comal
 29.801223,-98.220684,Canyon Lake,TX,Comal
 29.738502,-98.087157,New Braunfels,TX,Comal
 29.331033,-97.789879,Nixon,TX,Gonzales
@@ -34715,7 +34715,7 @@ latitude,longitude,city,state,county
 27.777,-97.463213,Corpus Christi,TX,Nueces
 27.777,-97.463213,Corpus Christi,TX,Nueces
 26.269305,-98.224364,Mcallen,TX,Hidalgo
-26.25671,-98.198929,Mcallen,TX,Hidalgo
+26.256710000000002,-98.198929,Mcallen,TX,Hidalgo
 26.182171,-98.33773,Mcallen,TX,Hidalgo
 26.326284,-98.233488,Mcallen,TX,Hidalgo
 26.409709,-98.224206,Mcallen,TX,Hidalgo
@@ -34838,7 +34838,7 @@ latitude,longitude,city,state,county
 30.414943,-98.356711,Round Mountain,TX,Blanco
 30.530497,-97.635103,Round Rock,TX,Williamson
 30.219829,-98.358613,Sandy,TX,Blanco
-29.972907,-97.997166,San Marcos,TX,Hays
+29.972907,-97.997165999999993,San Marcos,TX,Hays
 30.054378,-98.003574,San Marcos,TX,Hays
 30.397227,-97.82012,Spicewood,TX,Travis
 29.611797,-97.971208,Staples,TX,Guadalupe
@@ -34931,7 +34931,7 @@ latitude,longitude,city,state,county
 30.326374,-97.771258,Austin,TX,Travis
 30.326374,-97.771258,Austin,TX,Travis
 30.326374,-97.771258,Austin,TX,Travis
-,,Austin,TX,Travis
+NA,NA,Austin,TX,Travis
 29.240446,-99.727018,Uvalde,TX,Uvalde
 29.223697,-99.779351,Uvalde,TX,Uvalde
 28.448923,-99.759184,Asherton,TX,Dimmit
@@ -35140,7 +35140,7 @@ latitude,longitude,city,state,county
 34.02174,-100.298633,Paducah,TX,Cottle
 33.86948,-101.596234,Petersburg,TX,Hale
 34.964812,-100.270689,Quail,TX,Collingsworth
-34.39086,-99.857216,Quanah,TX,Hardeman
+34.390860000000004,-99.857216,Quanah,TX,Hardeman
 34.380648,-101.087775,Quitaque,TX,Briscoe
 33.901277,-100.857208,Roaring Springs,TX,Motley
 34.471337,-101.30419,Silverton,TX,Briscoe
@@ -35391,7 +35391,7 @@ latitude,longitude,city,state,county
 31.773452,-106.37709,El Paso,TX,El Paso
 31.694842,-106.299987,El Paso,TX,El Paso
 31.660671,-106.176474,El Paso,TX,El Paso
-,,El Paso,TX,El Paso
+NA,NA,El Paso,TX,El Paso
 31.694842,-106.299987,El Paso,TX,El Paso
 31.809457,-106.464242,El Paso,TX,El Paso
 31.694842,-106.299987,El Paso,TX,El Paso
@@ -35509,8 +35509,8 @@ latitude,longitude,city,state,county
 39.54372,-104.969143,Littleton,CO,Douglas
 39.544307,-105.153074,Littleton,CO,Jefferson
 39.591827,-105.083196,Littleton,CO,Jefferson
-,,Littleton,CO,Douglas
-,,Littleton,CO,Douglas
+NA,NA,Littleton,CO,Douglas
+NA,NA,Littleton,CO,Douglas
 39.347863,-104.994708,Louviers,CO,Douglas
 39.086393,-104.807666,Monument,CO,El Paso
 39.112138,-104.900328,Palmer Lake,CO,El Paso
@@ -35596,7 +35596,7 @@ latitude,longitude,city,state,county
 39.738752,-104.408349,Denver,CO,Denver
 39.716675,-104.906942,Denver,CO,Denver
 39.74394,-104.987577,Denver,CO,Denver
-,,Denver,CO,Denver
+NA,NA,Denver,CO,Denver
 39.743608,-104.987556,Denver,CO,Denver
 39.74394,-104.987577,Denver,CO,Denver
 39.74739,-104.992842,Denver,CO,Denver
@@ -35608,7 +35608,7 @@ latitude,longitude,city,state,county
 40.063935,-105.390027,Boulder,CO,Boulder
 40.067772,-105.27484,Boulder,CO,Boulder
 40.114114,-105.369797,Boulder,CO,Boulder
-,,Boulder,CO,Boulder
+NA,NA,Boulder,CO,Boulder
 40.102219,-105.384694,Boulder,CO,Boulder
 40.087835,-105.373507,Boulder,CO,Boulder
 40.027672,-105.3868,Boulder,CO,Boulder
@@ -35629,7 +35629,7 @@ latitude,longitude,city,state,county
 39.81599,-105.475322,Black Hawk,CO,Gilpin
 39.860356,-106.631246,Bond,CO,Eagle
 39.475323,-106.022472,Breckenridge,CO,Summit
-39.332179,-105.254998,Buffalo Creek,CO,Jefferson
+39.332178999999996,-105.254998,Buffalo Creek,CO,Jefferson
 39.78361,-106.896452,Burns,CO,Eagle
 39.821626,-105.545631,Central City,CO,Gilpin
 40.730717,-106.913996,Clark,CO,Routt
@@ -35659,7 +35659,7 @@ latitude,longitude,city,state,county
 39.27593,-105.686535,Jefferson,CO,Park
 39.648137,-105.278194,Kittredge,CO,Jefferson
 40.147681,-106.378296,Kremmling,CO,Grand
-39.21753,-106.35833,Leadville,CO,Lake
+39.217529999999996,-106.35833,Leadville,CO,Lake
 39.82712,-106.772151,Mc Coy,CO,Eagle
 39.610289,-105.201967,Morrison,CO,Jefferson
 40.000686,-105.495998,Nederland,CO,Boulder
@@ -35726,8 +35726,8 @@ latitude,longitude,city,state,county
 40.464092,-104.885116,Windsor,CO,Weld
 40.628112,-105.569245,Fort Collins,CO,Larimer
 39.942984,-104.786597,Brighton,CO,Adams
-,,Brighton,CO,Adams
-,,Brighton,CO,Adams
+NA,NA,Brighton,CO,Adams
+NA,NA,Brighton,CO,Adams
 40.675794,-104.607073,Ault,CO,Weld
 40.443596,-104.240542,Briggsdale,CO,Weld
 40.597204,-104.869798,Carr,CO,Weld
@@ -35959,7 +35959,7 @@ latitude,longitude,city,state,county
 37.101134,-106.02648,Conejos,CO,Conejos
 37.761293,-106.981852,Creede,CO,Mineral
 37.953038,-105.68788,Crestone,CO,Saguache
-37.644684,-106.407311,Del Norte,CO,Rio Grande
+37.644684,-106.40731100000001,Del Norte,CO,Rio Grande
 37.403455,-105.415437,Fort Garland,CO,Costilla
 37.092195,-105.530023,Garcia,CO,Costilla
 37.615741,-106.375292,Homelake,CO,Rio Grande
@@ -36016,7 +36016,7 @@ latitude,longitude,city,state,county
 38.358421,-105.106881,Florence,CO,Fremont
 37.318364,-107.880367,Durango,CO,La Plata
 37.357249,-107.935945,Durango,CO,La Plata
-,,Durango,CO,La Plata
+NA,NA,Durango,CO,La Plata
 37.718233,-108.791671,Cahone,CO,Dolores
 37.373594,-108.662826,Cortez,CO,Montezuma
 37.469333,-108.35245,Dolores,CO,Montezuma
@@ -36045,7 +36045,7 @@ latitude,longitude,city,state,county
 38.942927,-107.939831,Maher,CO,Delta
 38.269387,-108.574539,Naturita,CO,Montrose
 38.028899,-108.316049,Norwood,CO,San Miguel
-38.310689,-108.57669,Nucla,CO,Montrose
+38.310689000000004,-108.57669,Nucla,CO,Montrose
 38.497566,-108.078623,Olathe,CO,Montrose
 37.843026,-107.86454,Ophir,CO,San Miguel
 38.087654,-107.728712,Ouray,CO,Ouray
@@ -36351,7 +36351,7 @@ latitude,longitude,city,state,county
 43.222648,-112.442253,Moreland,ID,Bingham
 42.224249,-111.420825,Paris,ID,Bear Lake
 43.133647,-112.629467,Pingree,ID,Bingham
-42.207376,-111.812126,Preston,ID,Franklin
+42.207375999999996,-111.812126,Preston,ID,Franklin
 42.490846,-112.836032,Rockland,ID,Power
 42.095512,-111.329873,Saint Charles,ID,Bear Lake
 43.349659,-112.118813,Shelley,ID,Bingham
@@ -36458,7 +36458,7 @@ latitude,longitude,city,state,county
 45.869801,-116.19729,Grangeville,ID,Idaho
 45.889314,-115.557407,Fenn,ID,Idaho
 45.889314,-115.557407,Greencreek,ID,Idaho
-46.582376,-116.739999,Juliaetta,ID,Latah
+46.582375999999996,-116.739999,Juliaetta,ID,Latah
 46.223289,-116.034292,Kamiah,ID,Lewis
 46.663944,-116.573632,Kendrick,ID,Latah
 46.115992,-115.945949,Kooskia,ID,Idaho
@@ -36585,7 +36585,7 @@ latitude,longitude,city,state,county
 46.974333,-116.28108,Clarkia,ID,Shoshone
 48.087984,-116.614684,Cocolalla,ID,Bonner
 47.728441,-116.780869,Coeur D Alene,ID,Kootenai
-47.837453,-116.718533,Coeur D Alene,ID,Kootenai
+47.837452999999996,-116.718533,Coeur D Alene,ID,Kootenai
 47.678798,-116.682718,Coeur D Alene,ID,Kootenai
 48.607807,-116.84866,Coolin,ID,Bonner
 48.155185,-116.978066,Oldtown,ID,Bonner
@@ -36785,9 +36785,9 @@ latitude,longitude,city,state,county
 40.676839,-111.956811,Salt Lake City,UT,Salt Lake
 40.668068,-111.908297,Salt Lake City,UT,Salt Lake
 40.668068,-111.908297,Salt Lake City,UT,Salt Lake
-,,Salt Lake City,UT,Salt Lake
-,,Salt Lake City,UT,Salt Lake
-,,Salt Lake City,UT,Salt Lake
+NA,NA,Salt Lake City,UT,Salt Lake
+NA,NA,Salt Lake City,UT,Salt Lake
+NA,NA,Salt Lake City,UT,Salt Lake
 40.725946,-111.93942,Salt Lake City,UT,Salt Lake
 41.244261,-112.007924,Ogden,UT,Weber
 41.255285,-111.956721,Ogden,UT,Weber
@@ -36849,7 +36849,7 @@ latitude,longitude,city,state,county
 39.196393,-111.052868,Castle Dale,UT,Emery
 38.999877,-109.615008,Cisco,UT,Grand
 39.119759,-111.100814,Clawson,UT,Emery
-39.373583,-110.893573,Cleveland,UT,Emery
+39.373582999999996,-110.893573,Cleveland,UT,Emery
 39.531795,-110.403536,East Carbon,UT,Carbon
 39.403255,-110.810027,Elmo,UT,Emery
 38.9226,-111.251238,Emery,UT,Emery
@@ -36934,7 +36934,7 @@ latitude,longitude,city,state,county
 37.46693,-113.624783,Central,UT,Washington
 38.182708,-112.232857,Circleville,UT,Piute
 38.686192,-112.108495,Elsinore,UT,Sevier
-37.579739,-113.689359,Enterprise,UT,Washington
+37.579738999999996,-113.689359,Enterprise,UT,Washington
 37.767764,-111.595666,Escalante,UT,Garfield
 39.06433,-113.032141,Garrison,UT,Millard
 37.311416,-112.601749,Glendale,UT,Kane
@@ -37031,7 +37031,7 @@ latitude,longitude,city,state,county
 33.276539,-112.18717,Phoenix,AZ,Maricopa
 33.367267,-112.066878,Phoenix,AZ,Maricopa
 33.379728,-112.112254,Phoenix,AZ,Maricopa
-,,Phoenix,AZ,Maricopa
+NA,NA,Phoenix,AZ,Maricopa
 33.276539,-112.18717,Phoenix,AZ,Maricopa
 33.338743,-111.97277,Phoenix,AZ,Maricopa
 33.302168,-112.122581,Phoenix,AZ,Maricopa
@@ -37085,7 +37085,7 @@ latitude,longitude,city,state,county
 33.470724,-111.718829,Mesa,AZ,Maricopa
 33.276539,-112.18717,Mesa,AZ,Maricopa
 33.393398,-111.478975,Apache Junction,AZ,Pinal
-,,Apache Junction,AZ,Pinal
+NA,NA,Apache Junction,AZ,Pinal
 33.361583,-111.279538,Apache Junction,AZ,Pinal
 33.408443,-111.535089,Apache Junction,AZ,Pinal
 33.225652,-111.476001,Bapchule,AZ,Pinal
@@ -37152,7 +37152,7 @@ latitude,longitude,city,state,county
 33.013502,-111.42979,Valley Farms,AZ,Pinal
 33.070467,-110.789035,Winkelman,AZ,Gila
 33.314508,-111.748791,Gilbert,AZ,Maricopa
-,,Gilbert,AZ,Maricopa
+NA,NA,Gilbert,AZ,Maricopa
 33.276539,-112.18717,Gilbert,AZ,Maricopa
 33.276539,-112.18717,Glendale,AZ,Maricopa
 33.276539,-112.18717,Glendale,AZ,Maricopa
@@ -37228,7 +37228,7 @@ latitude,longitude,city,state,county
 33.276539,-112.18717,Peoria,AZ,Maricopa
 33.276539,-112.18717,Peoria,AZ,Maricopa
 33.276539,-112.18717,Peoria,AZ,Maricopa
-,,Peoria,AZ,Maricopa
+NA,NA,Peoria,AZ,Maricopa
 33.276539,-112.18717,Peoria,AZ,Maricopa
 33.276539,-112.18717,Surprise,AZ,Maricopa
 33.276539,-112.18717,Wickenburg,AZ,Maricopa
@@ -37263,7 +37263,7 @@ latitude,longitude,city,state,county
 32.043893,-109.835893,Cochise,AZ,Cochise
 31.604081,-109.866187,Douglas,AZ,Cochise
 31.415114,-109.596038,Douglas,AZ,Cochise
-32.040753,-109.818047,Dragoon,AZ,Cochise
+32.040753,-109.81804700000001,Dragoon,AZ,Cochise
 31.737711,-109.622175,Elfrida,AZ,Cochise
 31.609653,-110.563551,Elgin,AZ,Santa Cruz
 31.559131,-110.318682,Fort Huachuca,AZ,Cochise
@@ -37522,7 +37522,7 @@ latitude,longitude,city,state,county
 34.752146,-106.16066,Estancia,NM,Torrance
 36.707545,-106.594795,Gallina,NM,Rio Arriba
 35.71742,-106.935844,Counselor,NM,Sandoval
-35.09985,-107.850191,Grants,NM,Cibola
+35.099850000000004,-107.850191,Grants,NM,Cibola
 35.192539,-107.893691,Milan,NM,Cibola
 35.044339,-106.672872,Isleta,NM,Bernalillo
 34.592043,-106.761096,Jarales,NM,Valencia
@@ -37649,15 +37649,15 @@ latitude,longitude,city,state,county
 36.500162,-108.233548,Newcomb,NM,San Juan
 36.500162,-108.233548,Sanostee,NM,San Juan
 36.774472,-108.06925,Farmington,NM,San Juan
-,,Santa Fe,NM,Santa Fe
+NA,NA,Santa Fe,NM,Santa Fe
 35.697473,-105.982146,Santa Fe,NM,Santa Fe
 35.439937,-106.123698,Santa Fe,NM,Santa Fe
 35.521181,-105.981847,Santa Fe,NM,Santa Fe
 35.893597,-106.007499,Santa Fe,NM,Santa Fe
 35.656638,-105.946155,Santa Fe,NM,Santa Fe
 35.606283,-106.075722,Santa Fe,NM,Santa Fe
-,,Santa Fe,NM,Santa Fe
-,,Santa Fe,NM,Santa Fe
+NA,NA,Santa Fe,NM,Santa Fe
+NA,NA,Santa Fe,NM,Santa Fe
 35.521181,-105.981847,Santa Fe,NM,Santa Fe
 36.219921,-106.262778,Abiquiu,NM,Rio Arriba
 36.064687,-106.077688,Alcalde,NM,Rio Arriba
@@ -37669,7 +37669,7 @@ latitude,longitude,city,state,county
 36.504515,-105.62924,Carson,NM,Taos
 36.465416,-106.578513,Cebolla,NM,Rio Arriba
 36.504515,-105.62924,Cerro,NM,Taos
-36.756297,-106.631567,Chama,NM,Rio Arriba
+36.756297000000004,-106.631567,Chama,NM,Rio Arriba
 36.131096,-105.738515,Chamisal,NM,Taos
 36.465416,-106.578513,Chimayo,NM,Rio Arriba
 36.005591,-105.903255,Cordova,NM,Rio Arriba
@@ -37742,7 +37742,7 @@ latitude,longitude,city,state,county
 36.008302,-105.023886,Rainsville,NM,Mora
 36.662666,-104.815043,Raton,NM,Colfax
 35.836395,-105.390777,Rociada,NM,San Miguel
-35.93873,-104.195805,Roy,NM,Harding
+35.93873,-104.19580499999999,Roy,NM,Harding
 35.456288,-104.679611,Sapello,NM,San Miguel
 35.804116,-103.902091,Solano,NM,Harding
 36.603697,-104.859182,Springer,NM,Colfax
@@ -37849,7 +37849,7 @@ latitude,longitude,city,state,county
 34.387466,-104.419381,Yeso,NM,De Baca
 33.346666,-104.593687,Roswell,NM,Chaves
 33.303825,-104.431788,Roswell,NM,Chaves
-,,Roswell,NM,Chaves
+NA,NA,Roswell,NM,Chaves
 32.622225,-104.433331,Artesia,NM,Eddy
 32.753571,-104.328113,Artesia,NM,Eddy
 32.785417,-103.433804,Caprock,NM,Lea
@@ -38056,13 +38056,13 @@ latitude,longitude,city,state,county
 38.262575,-116.624808,Tonopah,NV,Nye
 35.987798,-115.116652,Henderson,NV,Clark
 35.927901,-114.972061,Henderson,NV,Clark
-,,Pahrump,NV,Nye
-,,Pahrump,NV,Nye
+NA,NA,Pahrump,NV,Nye
+NA,NA,Pahrump,NV,Nye
 35.927901,-114.972061,Indian Springs,NV,Clark
-,,Henderson,NV,Clark
-,,Henderson,NV,Clark
-,,North Las Vegas,NV,Clark
-,,North Las Vegas,NV,Clark
+NA,NA,Henderson,NV,Clark
+NA,NA,Henderson,NV,Clark
+NA,NA,North Las Vegas,NV,Clark
+NA,NA,North Las Vegas,NV,Clark
 36.17372,-115.10647,Las Vegas,NV,Clark
 36.281327,-115.390646,Las Vegas,NV,Clark
 36.33689,-114.891987,Las Vegas,NV,Clark
@@ -38184,7 +38184,7 @@ latitude,longitude,city,state,county
 39.256357,-119.946371,Incline Village,NV,Washoe
 39.253908,-119.935619,Incline Village,NV,Washoe
 39.259103,-119.956585,Incline Village,NV,Washoe
-,,Sparks,NV,Washoe
+NA,NA,Sparks,NV,Washoe
 39.537979,-118.343592,Fallon,NV,Churchill
 39.65558,-119.704614,Reno,NV,Washoe
 39.579526,-119.753826,Reno,NV,Washoe
@@ -38515,7 +38515,7 @@ latitude,longitude,city,state,county
 33.786594,-118.298662,Long Beach,CA,Los Angeles
 33.786594,-118.298662,Long Beach,CA,Los Angeles
 33.786594,-118.298662,Long Beach,CA,Los Angeles
-,,Long Beach,CA,Los Angeles
+NA,NA,Long Beach,CA,Los Angeles
 33.786594,-118.298662,Altadena,CA,Los Angeles
 33.786594,-118.298662,Altadena,CA,Los Angeles
 33.786594,-118.298662,Arcadia,CA,Los Angeles
@@ -38654,9 +38654,9 @@ latitude,longitude,city,state,county
 33.786594,-118.298662,Castaic,CA,Los Angeles
 33.786594,-118.298662,Valencia,CA,Los Angeles
 33.786594,-118.298662,Canyon Country,CA,Los Angeles
-,,Canyon Country,CA,Los Angeles
+NA,NA,Canyon Country,CA,Los Angeles
 33.786594,-118.298662,Van Nuys,CA,Los Angeles
-,,Santa Clarita,CA,Los Angeles
+NA,NA,Santa Clarita,CA,Los Angeles
 33.786594,-118.298662,Sylmar,CA,Los Angeles
 33.786594,-118.298662,North Hills,CA,Los Angeles
 33.786594,-118.298662,Granada Hills,CA,Los Angeles
@@ -39164,7 +39164,7 @@ latitude,longitude,city,state,county
 33.752886,-116.055617,Moreno Valley,CA,Riverside
 33.752886,-116.055617,Moreno Valley,CA,Riverside
 33.640142,-116.556695,Mountain Center,CA,Riverside
-33.44204,-116.861027,Murrieta,CA,Riverside
+33.44204,-116.86102700000001,Murrieta,CA,Riverside
 33.752886,-116.055617,Murrieta,CA,Riverside
 33.752886,-116.055617,Murrieta,CA,Riverside
 33.628192,-116.406069,Nuevo,CA,Riverside
@@ -39192,7 +39192,7 @@ latitude,longitude,city,state,county
 33.640302,-117.769442,Huntington Beach,CA,Orange
 33.701121,-117.817338,Irvine,CA,Orange
 33.640302,-117.769442,Laguna Niguel,CA,Orange
-,,El Toro,CA,Orange
+NA,NA,El Toro,CA,Orange
 33.663011,-117.730745,Foothill Ranch,CA,Orange
 33.615525,-117.782805,Irvine,CA,Orange
 33.685319,-117.827913,Irvine,CA,Orange
@@ -39209,7 +39209,7 @@ latitude,longitude,city,state,county
 33.640302,-117.769442,Costa Mesa,CA,Orange
 33.485903,-117.696366,Dana Point,CA,Orange
 33.64079,-117.693074,Lake Forest,CA,Orange
-,,Laguna Hills,CA,Orange
+NA,NA,Laguna Hills,CA,Orange
 33.640302,-117.769442,Huntington Beach,CA,Orange
 33.640302,-117.769442,Huntington Beach,CA,Orange
 33.640302,-117.769442,Huntington Beach,CA,Orange
@@ -39273,7 +39273,7 @@ latitude,longitude,city,state,county
 33.640302,-117.769442,Anaheim,CA,Orange
 33.640302,-117.769442,Anaheim,CA,Orange
 33.640302,-117.769442,Anaheim,CA,Orange
-,,Anaheim,CA,Orange
+NA,NA,Anaheim,CA,Orange
 33.640302,-117.769442,Atwood,CA,Orange
 33.640302,-117.769442,Anaheim,CA,Orange
 33.640302,-117.769442,Anaheim,CA,Orange
@@ -39629,7 +39629,7 @@ latitude,longitude,city,state,county
 37.2141,-119.496955,North Fork,CA,Madera
 37.37586,-119.65238,Oakhurst,CA,Madera
 37.163948,-119.665194,O Neals,CA,Madera
-36.677384,-119.783475,Orange Cove,CA,Fresno
+36.677384000000004,-119.783475,Orange Cove,CA,Fresno
 36.555602,-119.166499,Orosi,CA,Tulare
 36.661358,-119.81608,Parlier,CA,Fresno
 36.841665,-119.349639,Piedra,CA,Fresno
@@ -39745,7 +39745,7 @@ latitude,longitude,city,state,county
 37.567086,-122.367573,Burlingame,CA,San Mateo
 37.381144,-122.334825,Burlingame,CA,San Mateo
 37.381144,-122.334825,Burlingame,CA,San Mateo
-,,Daly City,CA,San Mateo
+NA,NA,Daly City,CA,San Mateo
 37.687509,-122.438783,Daly City,CA,San Mateo
 37.676864,-122.475234,Daly City,CA,San Mateo
 37.381144,-122.334825,Daly City,CA,San Mateo
@@ -39788,7 +39788,7 @@ latitude,longitude,city,state,county
 37.328292,-122.360233,San Gregorio,CA,San Mateo
 37.657443,-122.423483,South San Francisco,CA,San Mateo
 37.381144,-122.334825,South San Francisco,CA,San Mateo
-,,Sunnyvale,CA,Santa Clara
+NA,NA,Sunnyvale,CA,Santa Clara
 37.189396,-121.705327,Sunnyvale,CA,Santa Clara
 37.189396,-121.705327,Sunnyvale,CA,Santa Clara
 37.189396,-121.705327,Sunnyvale,CA,Santa Clara
@@ -39952,7 +39952,7 @@ latitude,longitude,city,state,county
 37.534736,-122.32588,San Mateo,CA,San Mateo
 37.770563,-122.264779,Alameda,CA,Alameda
 37.735088,-122.243067,Alameda,CA,Alameda
-,,American Canyon,CA,Napa
+NA,NA,American Canyon,CA,Napa
 37.832075,-121.916718,Danville,CA,Contra Costa
 37.936723,-122.067431,Alamo,CA,Contra Costa
 38.57145,-122.450215,Angwin,CA,Napa
@@ -39978,7 +39978,7 @@ latitude,longitude,city,state,county
 37.838744,-121.96672,Diablo,CA,Contra Costa
 37.777208,-121.955399,Concord,CA,Contra Costa
 37.918024,-122.30248,El Cerrito,CA,Contra Costa
-37.920852,-121.723919,Antioch,CA,Contra Costa
+37.920851999999996,-121.723919,Antioch,CA,Contra Costa
 38.278428,-122.020276,Fairfield,CA,Solano
 38.271218,-121.94123,Travis Afb,CA,Solano
 37.565285,-121.982721,Fremont,CA,Alameda
@@ -39992,7 +39992,7 @@ latitude,longitude,city,state,county
 37.613883,-122.061673,Hayward,CA,Alameda
 37.635482,-122.092324,Hayward,CA,Alameda
 37.731229,-122.066373,Castro Valley,CA,Alameda
-38.008343,-122.262101,Hercules,CA,Contra Costa
+38.008343000000004,-122.262101,Hercules,CA,Contra Costa
 37.972622,-121.665205,Knightsen,CA,Contra Costa
 37.901223,-122.120089,Lafayette,CA,Contra Costa
 37.676781,-121.91605,Livermore,CA,Alameda
@@ -40060,7 +40060,7 @@ latitude,longitude,city,state,county
 37.783877,-122.167126,Oakland,CA,Alameda
 37.680181,-121.921498,Piedmont,CA,Alameda
 37.742529,-122.196689,Oakland,CA,Alameda
-,,Oakland,CA,Alameda
+NA,NA,Oakland,CA,Alameda
 37.680181,-121.921498,Oakland,CA,Alameda
 37.680181,-121.921498,Oakland,CA,Alameda
 37.803927,-122.319655,Oakland,CA,Alameda
@@ -40076,7 +40076,7 @@ latitude,longitude,city,state,county
 37.860576,-122.29673,Berkeley,CA,Alameda
 37.864425,-122.28713,Berkeley,CA,Alameda
 37.865725,-122.27573,Berkeley,CA,Alameda
-37.866975,-122.256729,Berkeley,CA,Alameda
+37.866975,-122.25672900000001,Berkeley,CA,Alameda
 37.85983,-122.242029,Berkeley,CA,Alameda
 37.889525,-122.29828,Albany,CA,Alameda
 37.892675,-122.27608,Berkeley,CA,Alameda
@@ -40124,7 +40124,7 @@ latitude,longitude,city,state,county
 38.008973,-122.685568,Nicasio,CA,Marin
 38.09502,-122.620893,Novato,CA,Marin
 38.148858,-122.573745,Novato,CA,Marin
-38.06372,-122.541739,Novato,CA,Marin
+38.063720000000004,-122.541739,Novato,CA,Marin
 38.046703,-122.769854,Olema,CA,Marin
 38.315342,-122.648346,Penngrove,CA,Sonoma
 38.265366,-122.822588,Petaluma,CA,Sonoma
@@ -40356,7 +40356,7 @@ latitude,longitude,city,state,county
 37.811976,-121.287362,Lathrop,CA,San Joaquin
 37.264851,-120.231843,Le Grand,CA,Merced
 37.358769,-120.750082,Livingston,CA,Merced
-38.112838,-120.126643,Long Barn,CA,Tuolumne
+38.112838000000004,-120.126643,Long Barn,CA,Tuolumne
 37.807297,-121.177601,Manteca,CA,San Joaquin
 37.743327,-121.227351,Manteca,CA,San Joaquin
 37.572907,-120.018973,Mariposa,CA,Mariposa
@@ -40388,12 +40388,12 @@ latitude,longitude,city,state,county
 37.695359,-121.078608,Salida,CA,Stanislaus
 37.483708,-120.463408,Snelling,CA,Merced
 37.96091,-120.343863,Sonora,CA,Tuolumne
-38.010365,-120.230556,Soulsbyville,CA,Tuolumne
+38.010365,-120.23055600000001,Soulsbyville,CA,Tuolumne
 37.986377,-120.241412,Standard,CA,Tuolumne
 37.324536,-120.864936,Stevinson,CA,Merced
 38.184096,-120.021342,Strawberry,CA,Tuolumne
 37.688679,-121.407804,Tracy,CA,San Joaquin
-,,Tracy,CA,San Joaquin
+NA,NA,Tracy,CA,San Joaquin
 37.889849,-121.253872,Tracy,CA,San Joaquin
 37.921694,-120.267887,Tuolumne,CA,Tuolumne
 37.540206,-120.844063,Turlock,CA,Stanislaus
@@ -40406,7 +40406,7 @@ latitude,longitude,city,state,county
 37.411145,-120.55271,Winton,CA,Merced
 37.63791,-119.694652,Yosemite National Park,CA,Mariposa
 37.60396,-120.937052,Riverbank,CA,Stanislaus
-,,Tracy,CA,San Joaquin
+NA,NA,Tracy,CA,San Joaquin
 37.60396,-120.937052,Modesto,CA,Stanislaus
 38.450412,-122.783159,Santa Rosa,CA,Sonoma
 38.440061,-122.710598,Santa Rosa,CA,Sonoma
@@ -40914,187 +40914,187 @@ latitude,longitude,city,state,county
 39.3781,-120.186383,Truckee,CA,Nevada
 39.377677,-120.407502,Truckee,CA,Nevada
 39.26599,-120.64145,Truckee,CA,Nevada
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,APO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
-,,FPO,AP,
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,APO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
+NA,NA,FPO,AP,NA
 21.39065,-157.927829,Aiea,HI,Honolulu
 22.055787,-159.454519,Anahola,HI,Kauai
 19.269226,-155.757929,Captain Cook,HI,Hawaii
@@ -41322,7 +41322,7 @@ latitude,longitude,city,state,county
 45.263301,-121.088513,Shaniko,OR,Wasco
 45.554978,-121.18703,The Dalles,OR,Wasco
 45.525007,-122.390049,Troutdale,OR,Multnomah
-45.366608,-122.783887,Tualatin,OR,Washington
+45.366608,-122.78388699999999,Tualatin,OR,Washington
 45.297105,-121.233727,Tygh Valley,OR,Wasco
 45.888246,-123.209056,Vernonia,OR,Columbia
 45.403298,-120.710276,Wasco,OR,Sherman
@@ -41817,8 +41817,8 @@ latitude,longitude,city,state,county
 47.432251,-121.803388,Auburn,WA,King
 47.740741,-122.090874,Woodinville,WA,King
 47.432251,-121.803388,Redmond,WA,King
-,,Sammamish,WA,King
-,,Sammamish,WA,King
+NA,NA,Sammamish,WA,King
+NA,NA,Sammamish,WA,King
 47.432251,-121.803388,Bothell,WA,Snohomish
 47.432251,-121.803388,Kirkland,WA,King
 47.288362,-122.097976,Auburn,WA,King
@@ -41866,7 +41866,7 @@ latitude,longitude,city,state,county
 47.432251,-121.803388,Seattle,WA,King
 47.432251,-121.803388,Seattle,WA,King
 47.432251,-121.803388,Seattle,WA,King
-,,Seattle,WA,King
+NA,NA,Seattle,WA,King
 47.432251,-121.803388,Seattle,WA,King
 47.432251,-121.803388,Seattle,WA,King
 47.432251,-121.803388,Seattle,WA,King
@@ -41941,7 +41941,7 @@ latitude,longitude,city,state,county
 48.557824,-122.983742,Olga,WA,San Juan
 48.590114,-122.940972,Orcas,WA,San Juan
 48.987386,-123.058243,Point Roberts,WA,Whatcom
-,,Camano Island,WA,Island
+NA,NA,Camano Island,WA,Island
 48.428261,-121.609872,Rockport,WA,Skagit
 48.486147,-122.137243,Sedro Woolley,WA,Skagit
 48.557824,-122.983742,Shaw Island,WA,San Juan
@@ -42088,7 +42088,7 @@ latitude,longitude,city,state,county
 46.978118,-122.702393,Olympia,WA,Thurston
 46.978118,-122.702393,Olympia,WA,Thurston
 46.978118,-122.702393,Lacey,WA,Thurston
-,,Tumwater,WA,Thurston
+NA,NA,Tumwater,WA,Thurston
 46.949776,-123.021207,Olympia,WA,Thurston
 46.993897,-122.743016,Olympia,WA,Thurston
 47.112575,-122.779419,Olympia,WA,Thurston
@@ -42336,7 +42336,7 @@ latitude,longitude,city,state,county
 48.336378,-117.957926,Addy,WA,Stevens
 46.934379,-117.412136,Albion,WA,Whitman
 47.529705,-118.599193,Almira,WA,Lincoln
-47.079345,-117.176954,Belmont,WA,Whitman
+47.079345000000004,-117.176954,Belmont,WA,Whitman
 46.859127,-118.161058,Benge,WA,Adams
 48.84269,-118.182764,Boyds,WA,Ferry
 48.293181,-117.739245,Chewelah,WA,Stevens
@@ -42393,12 +42393,12 @@ latitude,longitude,city,state,county
 48.667659,-118.680631,Republic,WA,Ferry
 48.42424,-118.100693,Rice,WA,Stevens
 47.087055,-118.4813,Ritzville,WA,Adams
-47.034713,-117.4646,Rosalia,WA,Whitman
+47.034713000000004,-117.4646,Rosalia,WA,Whitman
 47.123718,-117.676432,Saint John,WA,Whitman
 48.002188,-117.828964,Springdale,WA,Stevens
 46.838747,-117.644337,Steptoe,WA,Whitman
 47.12196,-117.433708,Thornton,WA,Whitman
-46.545655,-117.10797,Uniontown,WA,Whitman
+46.545654999999996,-117.10797,Uniontown,WA,Whitman
 48.25013,-117.353111,Usk,WA,Pend Oreille
 48.124594,-117.762554,Valley,WA,Stevens
 47.761025,-118.729143,Wilbur,WA,Lincoln
@@ -42631,7 +42631,7 @@ latitude,longitude,city,state,county
 64.832821,-147.64418,Fort Wainwright,AK,Fairbanks North Star
 63.543571,-149.986676,Clear,AK,Denali
 64.780765,-147.207748,North Pole,AK,Fairbanks North Star
-64.852055,-147.937747,Fairbanks,AK,Fairbanks North Star
+64.852054999999993,-147.937747,Fairbanks,AK,Fairbanks North Star
 64.699839,-147.405134,Fairbanks,AK,Fairbanks North Star
 64.947462,-147.856443,Fairbanks,AK,Fairbanks North Star
 64.860126,-147.999791,Fairbanks,AK,Fairbanks North Star
@@ -42650,12 +42650,12 @@ latitude,longitude,city,state,county
 66.868442,-159.843924,Buckland,AK,Northwest Arctic
 63.543571,-149.986676,Cantwell,AK,Denali
 65.226375,-151.025085,Central,AK,Yukon Koyukuk
-63.870552,-144.002648,Chicken,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Chicken,AK,Southeast Fairbanks
 65.226375,-151.025085,Circle,AK,Yukon Koyukuk
 66.693255,-153.993988,Prudhoe Bay,AK,North Slope
 66.868442,-159.843924,Deering,AK,Northwest Arctic
 63.107461,-143.422478,Delta Junction,AK,Southeast Fairbanks
-63.870552,-144.002648,Eagle,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Eagle,AK,Southeast Fairbanks
 64.755604,-165.672344,Elim,AK,Nome
 65.226375,-151.025085,Fort Yukon,AK,Yukon Koyukuk
 65.226375,-151.025085,Galena,AK,Yukon Koyukuk
@@ -42681,7 +42681,7 @@ latitude,longitude,city,state,county
 66.868442,-159.843924,Noatak,AK,Northwest Arctic
 63.888671,-163.80076,Nome,AK,Nome
 66.868442,-159.843924,Noorvik,AK,Northwest Arctic
-63.870552,-144.002648,Northway,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Northway,AK,Southeast Fairbanks
 65.226375,-151.025085,Nulato,AK,Yukon Koyukuk
 66.693255,-153.993988,Point Hope,AK,North Slope
 65.509038,-150.161868,Rampart,AK,Yukon Koyukuk
@@ -42693,11 +42693,11 @@ latitude,longitude,city,state,county
 66.868442,-159.843924,Shungnak,AK,Northwest Arctic
 65.226375,-151.025085,Stevens Village,AK,Yukon Koyukuk
 64.859078,-147.826709,Fairbanks,AK,Fairbanks North Star
-63.870552,-144.002648,Tanacross,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Tanacross,AK,Southeast Fairbanks
 65.226375,-151.025085,Tanana,AK,Yukon Koyukuk
 64.755604,-165.672344,Teller,AK,Nome
-63.870552,-144.002648,Tetlin,AK,Southeast Fairbanks
-63.870552,-144.002648,Tok,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Tetlin,AK,Southeast Fairbanks
+63.870552000000004,-144.002648,Tok,AK,Southeast Fairbanks
 65.226375,-151.025085,Venetie,AK,Yukon Koyukuk
 66.693255,-153.993988,Wainwright,AK,North Slope
 64.755604,-165.672344,Wales,AK,Nome
