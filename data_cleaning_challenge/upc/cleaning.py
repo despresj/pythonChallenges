@@ -1,7 +1,9 @@
 import pandas as pd
 import re
+import os
+pd.set_option("display.max_rows", 100)
 
-pd.set_option("display.max_rows", 30)
+veggie, upc, cat =  ['data/'+ x for x in  os.listdir("data")]
 
 def exceldict(path):
     xl_file1 = pd.ExcelFile(path, engine='openpyxl')
@@ -9,24 +11,24 @@ def exceldict(path):
             for sheet_name in xl_file1.sheet_names}
     return dfs
 
-catagories = exceldict("data/MSF_Catagories.xlsx")
-catagories
-for key in catagories.keys():
-    print(key)
+catagories = exceldict(cat)
 
 def n_sheets(dict):
     output = str(len(dict.keys())) + " sheets"
     print(output)
     print("------")
     for key in dict.keys():
-        print(key)
+        print("- " + key)
 
 n_sheets(catagories)
 
-a, b, c = categories.values()
-a # not helpful
-b # not helpful
-c
+def sheet_viewer(dict):
+    
+    for key, value in dict.items():
+        print("key: " + key)
+        print(value)
+
+sheet_viewer(catagories)
 
 report = catagories['Report1']
 
@@ -41,47 +43,33 @@ msf['allperiods'] = msf['allperiods'].str.replace('Latest 52 Wks - W/E', '')
 msf['allproducts'] = msf['allproducts'].str.replace('MORNINGSTAR FARMS-', '')
 
 msf[['product', 'category', 'upc1']] = msf['allproducts'].str.split('-', 2, expand=True)
-
-upc = msf['upc'].astype(float)
-upc1= msf['upc1'].astype(float)
-
-upc[upc != upc1]
 # same info drop?
 msf_clean = msf[['dollars', 'units', 'product', 'category', 'upc']]
-msf_clean
+# msf_clean
 
 # UPC
+upc_dict = exceldict(upc)
 
-upc_dict = exceldict("data/MSF_UPC.xlsx")
+# n_sheets(upc_dict)
 
-n_sheets(upc_dict)
-
-# sepaerate sheets
-a, b, c = upc_dict.values()
-a # not helpful
-b # not helpful
-c
+# sheet_viewer(upc_dict)
 
 upc = the_col_cleaner(upc_dict['Report1'])
-upc
+# set(upc['foodretailers'])
 
-for df in upc_dict:
-    print(upc_dict[df])
-    print("|||||||||||||||||||||||||||||||||||")
+upc['foodretailers'] = upc['foodretailers'].str.replace(" Total TA", "").str.replace(" Total US TA", "").str.replace(" Food", "")
+upc['weeks'] = upc['weeks'].str.replace("1 W/E ", "")
 
-upc_cleaned = the_col_cleaner(upc_dict['Report1'])
-upc_cleaned.columns
+# upc
 
+# Veggies
+veggies = exceldict(veggie)
 
+n_sheets(veggies)
 
-veggies = exceldict("data/KUSA Price List - Frozen Veggie.xlsx")
+sheet_viewer(veggies)
 
-veggies
+frozen = veggies['Frozen Foods']
+frozen.columns = frozen.iloc[0]
 
-dfs['Frozen Foods'].columns = dfs['Frozen Foods'].iloc[2]
-
-dfs['Frozen Foods'].columns 
-for key in dfs.keys():
-    print(dfs[key])
-    
-    
+the_col_cleaner(frozen)
