@@ -46,7 +46,7 @@ msf[['product', 'category', 'upc1']] = msf['allproducts'].str.split('-', 2, expa
 # same info drop?
 msf_clean = msf[['dollars', 'units', 'product', 'category', 'upc']]
 # msf_clean
-
+msf_clean['upc']
 # UPC
 upc_dict = exceldict(upc)
 
@@ -105,18 +105,26 @@ upc.columns
 print(upc)
 print(msf_clean)
 
-
 frozen['item'] = frozen['itemdescription'].str.replace('®', "")
 names = frozen[['item', 'casecode']]
 names = names.dropna()
 product_names = names.rename({"casecode": "upc"}, axis='columns')
+product_names
+
 
 msf_clean.join(names, on='upc', how='left')
 type(msf_clean['upc'])
 type(names['upc'])
 
+
 names['upc'] = names['upc'].apply(str)
+
+product_names['upc'] = product_names['upc'].apply(str)
 
 msf_clean['upc'] = msf_clean['upc'].apply(str)
 # need to check this....
-msf_clean.merge(names, on='upc', how='left')
+msf_clean.merge(product_names, on='upc', how='full')
+
+product_names.merge(msf_clean, on='upc', how='left')
+
+test = pd.merge(msf_clean, product_names, on='upc', how='right')
