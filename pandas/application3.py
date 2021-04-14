@@ -24,7 +24,7 @@ mean
 output = []
 sum_yes = []
 sum_no = []
-niters = 100000
+niters = 1000
 for _ in range(niters):
   sample = np.random.choice(df_yes_no.harass5, len(df_yes_no), replace=True)
   unique, counts = np.unique(sample, return_counts=True)
@@ -44,6 +44,41 @@ pcts.describe()
 
 
 
-df.groupby(['born']).size()
-df.groupby(['educ']).size()
+df_yes_no.groupby(['born']).size()
+df_yes_no.groupby(['educ']).size()
 
+
+
+df_yes_no = df_yes_no[df_yes_no['educ'] != "No answer"]
+
+df_yes_no.count('advfront')
+
+df_yes_no['advfront']
+
+df_yes_no.groupby('polviews').count()
+
+
+d = {
+  'Extremely liberal': 'Liberal',
+  'Slightly liberal': 'Liberal',
+  'Slghtly conservative': 'Conservative',
+  'Extrmly conservative': 'Conservative'
+}
+
+df_yes_no['polviews_col'] = df_yes_no.polviews.map(d).fillna(df_yes_no['polviews'])
+  
+df_yes_no.groupby('polviews_col').count()
+
+lib_con = ['Liberal', 'Conservative']
+
+only_lib_con = df_yes_no[df_yes_no.polviews_col.isin(lib_con)]
+
+groupped = only_lib_con.groupby(['polviews_col','wrkstat'])
+counts = groupped.size()
+
+ new_df = counts.to_frame(name = 'size').reset_index()
+ 
+ only_lib_con.count()
+ 
+ new_df['pct'] = new_df['size'] / 839
+ new_df
